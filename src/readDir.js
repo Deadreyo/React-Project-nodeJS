@@ -1,16 +1,6 @@
 var fs = require('fs')
 var path = require('path')
 
-
-// const tree = dirTree('./', {normalizePath: true})
-// for(let ch of tree.children) {
-//   console.log(JSON.parse(JSON.stringify(ch)))
-//   // if(ch.children?.length > 0) {
-//   //   console.log(ch)
-//   // }
-// }
-const dir = './Folders'
-
 /**
  * 
  * @param {string} dir Path to the folder to start from
@@ -18,7 +8,7 @@ const dir = './Folders'
  * @param {() => void} FileCallback 
  * @param {() => void} FolderCallback 
  */
-export function readDir(dir, mode = 'normal',FileCallback, FolderCallback) {
+function readDir(dir, mode = 'normal',FileCallback, FolderCallback) {
   let totalObj = []
   fs.readdirSync(dir).forEach( fileName => {
 
@@ -55,7 +45,7 @@ export function readDir(dir, mode = 'normal',FileCallback, FolderCallback) {
     }
 
     obj.name = fixedName
-    if(!isDir) obj.link = "link"
+    if(mode === 'link') if(!isDir) obj.link = "link"
     if(isDir) obj.children = children
 
     totalObj.push(obj)
@@ -64,9 +54,4 @@ export function readDir(dir, mode = 'normal',FileCallback, FolderCallback) {
   return totalObj
 }
 
-const obj = readDir(dir)[0]
-obj.link = "link"
-
-fs.writeFile('hirarchy.json', JSON.stringify(obj, null, 4), (e) => console.log('ERROR: '+e))
-
-
+module.exports = { readDir }
