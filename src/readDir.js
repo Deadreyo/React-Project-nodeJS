@@ -45,7 +45,7 @@ function readDir(dir, mode = 'normal',FileCallback, FolderCallback) {
     }
 
     obj.name = fixedName
-    if(mode === 'link') if(!isDir) obj.link = "link"
+    if(mode === 'link') if(!isDir) obj.link = ""
     if(isDir) obj.children = children
 
     totalObj.push(obj)
