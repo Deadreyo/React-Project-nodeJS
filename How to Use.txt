@@ -1,0 +1,27 @@
+- Create a folder named "Folder". This folder will be the source from which the JSON file will be created.
+- Inside that "Folder" folder, put the Course's folder. NOTE: You should only have one folder at a time inside "Folder".
+Only the first folder in there will have a JSON file made for.
+- You can make a folder called "Folder-old", in which you can save or prepare other course's folders.
+- Open Command Prompt, navigate to the folder in which this text file is in.
+
+- Then write "node hirarchy". This command will create the files "hirarchy.json" & may also create "hirarchy-backup.json"
+    - hirarchy.json file will have the hierarchy of the folder inside "Folder" saved as JSON format.
+    - hirarchy-backup.json file will be the previous copy of "hirarchy.json", so it is like a temporary backup.
+
+- Then write "node links". This command will create the files "LINKS.json" & may also create "LINKS-backup.json"
+    - LINKS.json file will have the hierarchy of the folder inside "Folder" saved as JSON format too, but with the addition of "link" line added after each "name".
+    - Change the second "link" to be the link of the file on Google Drive.
+        Example: {
+            "name": "ThisIsATest",
+            "link": "www.google.com/link/whatever/test"
+        }
+    - LINKS-backup.json file will be the previous copy of "LINKS.json", so it is like a temporary backup.
+
+@ Note: "node links" will save any links already written before if the file name was not changed. So it is safe to update without needing
+to re-write all the links. Also, LINKS-backup.json is helpful in case of any mistakes being made.
+
+- After filling the links inside "LINK.json", write "node combine". This will combine hirarchy.json with LINK.json
+    - Produces "combined.json" & "combined-backup.json". This is the final form of the JSON file in a readable format.
+    - Also produces a file with the course name (the name of the first folder inside "Folder") inside "dist" folder. This is the @target folder that we need.
+
+- After quickly glancing over "combined.json" and seeing it is correctly made, send me the @target file, through Whatsapp.

@@ -4,7 +4,7 @@
   "description": "description",
   "main": "newfile.js",
   "scripts": {
-    "hierarchy": "node ./src/createJSON.js",
+    "hirarchy": "node ./src/createJSON.js",
     "links": "node ./src/createLINKS.js",
     "combine": "node ./src/formalizeJSON.js"
   },
