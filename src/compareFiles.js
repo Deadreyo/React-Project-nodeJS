@@ -25,9 +25,9 @@ exports.compareFiles = function(mainObj, obj2) {
     }
 
     for(let objKey of obj2Keys) {
-        if (!product[objKey]) {
-            product[objKey] = obj2[objKey]
-        }
+        // if (!product[objKey]) {
+        //     product[objKey] = obj2[objKey]
+        // }
     }
 
     product.name = mainObj.name

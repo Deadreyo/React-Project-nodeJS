@@ -12,7 +12,7 @@
                             "name": "Fall_2019-2020.pdf"
                         },
                         {
-                            "date": "20",
+                            "date": "19",
                             "name": "Final_2016_+_Soln.pdf"
                         },
                         {
@@ -20,7 +20,7 @@
                             "name": "Final_2017-2018.pdf"
                         },
                         {
-                            "date": "20",
+                            "date": "19",
                             "name": "Final_2017-2018_Soln.pdf"
                         },
                         {
@@ -589,23 +589,6 @@
                         },
                         {
                             "name": "9._Sequential_Circuits_1.pdf"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "Summaries",
-            "children": [
-                {
-                    "date": "19",
-                    "name": "Mariam_Ahmed",
-                    "children": [
-                        {
-                            "name": "Part_1.pdf"
-                        },
-                        {
-                            "name": "Part_2_(after_midterm).pdf"
                         }
                     ]
                 }
