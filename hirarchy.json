@@ -547,6 +547,10 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "name": "note1.txt",
+                    "note": "this is a test note to make sure note works. it is a real testing happening rn."
                 }
             ]
         },
@@ -589,6 +593,23 @@
                         },
                         {
                             "name": "9._Sequential_Circuits_1.pdf"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Summaries",
+            "children": [
+                {
+                    "date": "19",
+                    "name": "Mariam_Ahmed",
+                    "children": [
+                        {
+                            "name": "Part_1.pdf"
+                        },
+                        {
+                            "name": "Part_2_(after_midterm).pdf"
                         }
                     ]
                 }

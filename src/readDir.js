@@ -1,5 +1,6 @@
 var fs = require('fs')
 var path = require('path')
+const { extname } = require('path')
 
 /**
  * 
@@ -8,7 +9,7 @@ var path = require('path')
  * @param {() => void} FileCallback 
  * @param {() => void} FolderCallback 
  */
-function readDir(dir, mode = 'normal',FileCallback, FolderCallback) {
+function readDir(dir, mode = 'normal') {
   let totalObj = []
   fs.readdirSync(dir).forEach( fileName => {
 
@@ -45,8 +46,12 @@ function readDir(dir, mode = 'normal',FileCallback, FolderCallback) {
     }
 
     obj.name = fixedName
-    if(mode === 'link') if(!isDir) obj.link = ""
-    if(isDir) obj.children = children
+    if(extname(fileName) === '.txt' && fileName.slice(0, 4) === 'note') {
+      obj.note = fs.readFileSync(filepath).toString()
+    } else {
+      if(mode === 'link') if(!isDir) obj.link = ""
+      if(isDir) obj.children = children
+    }
 
     totalObj.push(obj)
   })
