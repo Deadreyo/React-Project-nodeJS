@@ -157,6 +157,10 @@
                         },
                         {
                             "name": "Lab_9.pdf"
+                        },
+                        {
+                            "name": "note.txt",
+                            "note": "The Drive channel contains additional items for Lab 2. Open the original Drive to access them."
                         }
                     ]
                 }
@@ -547,10 +551,6 @@
                             ]
                         }
                     ]
-                },
-                {
-                    "name": "note1.txt",
-                    "note": "this is a test note to make sure note works. it is a real testing happening rn."
                 }
             ]
         },
