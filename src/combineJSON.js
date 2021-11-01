@@ -10,6 +10,7 @@ exports.combineJSON = function(hierarchy, links) {try{
 
     if(links['link']) product['link'] = links['link'];
     if(links['source']) product['source'] = links['source'];
+    if(links['credits']) product['credits'] = links['credits'];
     if(hierarchy['children']) {
         product['children'] = product['children'].map(element => {
             let id = product['children'].indexOf(element)
