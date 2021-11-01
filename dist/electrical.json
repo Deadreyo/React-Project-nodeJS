@@ -1,0 +1,58 @@
+[{
+    "name": "elec",
+    "buttons": [
+        {
+            "name": "logic_design1",
+            "buttons": [
+                {
+                    "name": "item1",
+                    "buttons": [
+                        {
+                            "name": "item2",
+                            "buttons": [
+                                {
+                                    "name": "item4",
+                                    "buttons": [
+                                        {
+                                            "name": "final"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "unspecified_yet"
+        },
+        {
+            "name": "logic_design",
+            "buttons": [
+                {
+                    "name": "item1"
+                }
+            ]
+        },
+        {
+            "name": "unspecified_yet",
+            "buttons": [
+                {
+                    "name": "item1"
+                }
+            ]
+        },
+        {
+            "name": "logic_design",
+            "buttons": [
+                {
+                    "name": "item1"
+                }
+            ]
+        },
+        {
+            "name": "unspecified_yet"
+        }
+    ]
+}]
