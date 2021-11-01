@@ -27,6 +27,6 @@ try{
 }catch(e){};
 let compare = combineJSON(hierarchy, LINKS)
 fs.writeFile('combined.json', JSON.stringify(compare, null, 4), (e) => console.log('ERROR: '+e))
-fs.writeFile(`./dist/${compare.name}.json`, JSON.stringify(compare), (e) => console.log('ERROR: '+e))
+fs.writeFile(`./dist/${compare.name.toLowerCase()}.json`, JSON.stringify(compare), (e) => console.log('ERROR: '+e))
 
 

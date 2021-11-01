@@ -7,6 +7,7 @@ const readDir = require('./readDir').readDir
 
 const obj = readDir(dir, 'link')[0]
 obj.source = ["link1", "link2", "link3"]
+obj.credits = ["name1 - year", "name2 - 2019", "name3 - 2018"]
 
 const oldLINKSfile = require('../LINKS.json')
 
