@@ -1,5 +1,5 @@
-[{
-    "name": "elec",
+{
+    "name": "electrical",
     "buttons": [
         {
             "name": "logic_design1",
@@ -55,4 +55,4 @@
             "name": "unspecified_yet"
         }
     ]
-}]
+}
