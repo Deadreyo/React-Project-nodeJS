@@ -2,33 +2,13 @@
     "name": "electrical",
     "buttons": [
         {
-            "name": "logic_design1",
-            "buttons": [
-                {
-                    "name": "item1",
-                    "buttons": [
-                        {
-                            "name": "item2",
-                            "buttons": [
-                                {
-                                    "name": "item4",
-                                    "buttons": [
-                                        {
-                                            "name": "final"
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
+            "name": "logic_design"
         },
         {
             "name": "unspecified_yet"
         },
         {
-            "name": "logic_design",
+            "name": "unspeci",
             "buttons": [
                 {
                     "name": "item1"
@@ -44,7 +24,7 @@
             ]
         },
         {
-            "name": "logic_design",
+            "name": "unspn",
             "buttons": [
                 {
                     "name": "item1"
