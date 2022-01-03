@@ -42,3 +42,5 @@ to re-write all the links. Also, LINKS-backup.json is helpful in case of any mis
 @ Note: Any .txt files with the prefix "note" will be removed, but will add a comment to the folder it is in.
     Example: a file named "note1.txt" will be replaced with a comment that contains the .txt file contents and displayed on the website.
 
+@ Warning: Special characters and symbols like '&' are NOT allowed.
+

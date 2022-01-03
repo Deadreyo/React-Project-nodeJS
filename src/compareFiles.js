@@ -5,7 +5,7 @@
  * If main object has extra properties, they are kept.
  * 
  * @param {JSON} mainObj The main object 
- * @param {JSON} obj2 The secondary object
+ * @param {JSON} obj2 The secondary object or old LINKS file
  */
 exports.compareFiles = function(mainObj, obj2) {
     const product = JSON.parse(JSON.stringify(mainObj));
@@ -13,7 +13,9 @@ exports.compareFiles = function(mainObj, obj2) {
     const obj2Keys = Object.keys(obj2);
 
     for (let objKey of obj1Keys) {
-        if(!obj2[objKey]) continue;
+        if(!obj2[objKey]) {
+            continue;
+        };
         if (mainObj[objKey] !== obj2[objKey]) {
             if(typeof mainObj[objKey] == "object" && typeof obj2[objKey] == "object") {
                 product[objKey] = exports.compareFiles(mainObj[objKey], obj2[objKey])

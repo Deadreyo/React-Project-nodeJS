@@ -2,6 +2,131 @@
     "name": "Electrical_Circuits_1",
     "children": [
         {
+            "name": "Booklets",
+            "children": [
+                {
+                    "name": "AC",
+                    "children": [
+                        {
+                            "name": "AC_circuits_eng_ibrahim_-.pdf"
+                        },
+                        {
+                            "name": "AC_power_calculations.pdf"
+                        },
+                        {
+                            "name": "AC_Steady_State_Analysis.pdf"
+                        },
+                        {
+                            "name": "Circuits_11.pdf"
+                        },
+                        {
+                            "name": "Circuits_9.pdf"
+                        },
+                        {
+                            "name": "note1.txt",
+                            "note": "All are from 2020 Drive."
+                        },
+                        {
+                            "name": "Power_Calculation.pdf"
+                        },
+                        {
+                            "name": "power_calculations_-_Eng_Ibrahim.pdf"
+                        },
+                        {
+                            "name": "Power_Triangle_and_Power_factor_correction.pdf"
+                        },
+                        {
+                            "name": "Some_power_notes.pdf"
+                        }
+                    ]
+                },
+                {
+                    "name": "DC",
+                    "children": [
+                        {
+                            "date": "20",
+                            "name": "circuits_1.pdf"
+                        },
+                        {
+                            "date": "20",
+                            "name": "circuits_2.pdf"
+                        },
+                        {
+                            "date": "20",
+                            "name": "Circuits_3.pdf"
+                        },
+                        {
+                            "date": "20",
+                            "name": "Circuits_4.pdf"
+                        },
+                        {
+                            "date": "20",
+                            "name": "Circuits_5_Nodal_Analysis.pdf"
+                        },
+                        {
+                            "name": "extra_problems_on_Dr_Adel.pdf"
+                        },
+                        {
+                            "date": "20",
+                            "name": "KVL___KCL_gathered_section.pdf"
+                        },
+                        {
+                            "date": "20",
+                            "name": "mesh_analysis___examples.pdf"
+                        },
+                        {
+                            "date": "20",
+                            "name": "Mesh_analysis(6).pdf"
+                        },
+                        {
+                            "date": "20",
+                            "name": "note1.txt",
+                            "note": "Booklets of Eng Ibrahim are in the Tutorials folder."
+                        },
+                        {
+                            "date": "20",
+                            "name": "solving_equations_Krammer.pdf"
+                        },
+                        {
+                            "date": "19",
+                            "name": "Superposition(7).pdf"
+                        },
+                        {
+                            "date": "19",
+                            "name": "Thevenin(8).pdf"
+                        }
+                    ]
+                },
+                {
+                    "name": "Dr_Nabil_Hamed_-_AC",
+                    "children": [
+                        {
+                            "name": "Mesh_and_Nodal_AC.pdf"
+                        },
+                        {
+                            "name": "note1.txt",
+                            "note": "These files are not in any of the Drives, but were mentioned in Dr Nabil's 2020 lectures."
+                        },
+                        {
+                            "name": "power_calculations.pdf"
+                        },
+                        {
+                            "name": "Revision_1.pdf"
+                        },
+                        {
+                            "name": "Revision_2.pdf"
+                        },
+                        {
+                            "name": "Superposition_Mesh_Nodal.pdf"
+                        },
+                        {
+                            "name": "Thevenin_n_Max_Power.pdf"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "name": "Lectures_Slides_n_Notes",
             "children": [
                 {
@@ -173,6 +298,353 @@
                                     "note": "There are no notes on 2021 drive."
                                 }
                             ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "note.txt",
+            "note": "To add new files, contact me through the Facebook post."
+        },
+        {
+            "name": "Previous_Exams",
+            "children": [
+                {
+                    "name": "Final",
+                    "children": [
+                        {
+                            "name": "2013_n_earlier_Soln(Past).pdf"
+                        },
+                        {
+                            "date": "20",
+                            "name": "Circuits_Exams_(201219).pdf"
+                        },
+                        {
+                            "name": "Circuits_Fall_2020.pdf"
+                        },
+                        {
+                            "name": "Final_2018_1st_Semester.pdf"
+                        },
+                        {
+                            "name": "Final_2019_2nd_Semester.pdf"
+                        },
+                        {
+                            "name": "Final_2019_spring.pdf"
+                        },
+                        {
+                            "name": "notes1.txt",
+                            "note": "Note: Solutions are needed. If available, kindly contact me to add them."
+                        },
+                        {
+                            "name": "Solutions_2012_to_2019_-_Yasmeen_Abdelrazek.pdf"
+                        },
+                        {
+                            "name": "Spring_2021.pdf"
+                        }
+                    ]
+                },
+                {
+                    "name": "Midterm",
+                    "children": [
+                        {
+                            "name": "Exams_w_Ahmed_Mahmoud.pdf"
+                        },
+                        {
+                            "name": "Midterm_+_Solutions_-_Fall_2021.pdf"
+                        },
+                        {
+                            "name": "Solutions",
+                            "children": [
+                                {
+                                    "name": "2016-2017_solutions.pdf"
+                                },
+                                {
+                                    "name": "2017-2018_solutions.pdf"
+                                },
+                                {
+                                    "name": "[Fall_2020_Solution].pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Summer_2021..pdf"
+                        },
+                        {
+                            "name": "[2016-2017].pdf"
+                        },
+                        {
+                            "name": "[2017-2018].pdf"
+                        },
+                        {
+                            "name": "[Dec.2014].pdf"
+                        },
+                        {
+                            "name": "[Fall_2015].pdf"
+                        },
+                        {
+                            "name": "[Fall_2019].pdf"
+                        },
+                        {
+                            "name": "[Fall_2020].pdf"
+                        },
+                        {
+                            "name": "[Nov.2015].pdf"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Revisions",
+            "children": [
+                {
+                    "name": "Final",
+                    "children": [
+                        {
+                            "date": "19",
+                            "name": "Dr.Nabil_Hamed",
+                            "children": [
+                                {
+                                    "name": "Revision_1.pdf"
+                                },
+                                {
+                                    "name": "Revision_2.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "date": "19",
+                            "name": "E-Ahmed_Mahmoud_2019",
+                            "children": [
+                                {
+                                    "name": "part_1_-_AC_Circuit.pdf"
+                                },
+                                {
+                                    "name": "part_2_-_Dr_Waleed_n_AC_Power.pdf"
+                                },
+                                {
+                                    "name": "part_3_-_AC_Power_n_Phasor.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "date": "20",
+                            "name": "E-Ibrahim_Mahmoud_newer",
+                            "children": [
+                                {
+                                    "name": "Revision_(1).pdf"
+                                },
+                                {
+                                    "name": "Revision_(2).pdf"
+                                },
+                                {
+                                    "name": "Revision_(3).pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "date": "19",
+                            "name": "E-Ibrahim_Mahmoud_old",
+                            "children": [
+                                {
+                                    "name": "part_1.pdf"
+                                },
+                                {
+                                    "name": "part_2.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "date": "20",
+                            "name": "Eng_Ahmed_Mahmoud_2020",
+                            "children": [
+                                {
+                                    "name": "Final_Revision_1.pdf"
+                                },
+                                {
+                                    "name": "Final_Revision_2.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "note1.txt",
+                            "note": "A lot of the files here were present in multiple Drives, so I'm putting date of the oldest Drive that have them."
+                        }
+                    ]
+                },
+                {
+                    "name": "Midterm",
+                    "children": [
+                        {
+                            "name": "Midterm_Part_1_KVL_KCL_Reduction_Mesh_Nodal.pdf"
+                        },
+                        {
+                            "name": "Midterm_Part_2_Superpostion_Thevinin_Source_transformation.pdf"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Sheets_from_University",
+            "children": [
+                {
+                    "date": "19",
+                    "name": "AC",
+                    "children": [
+                        {
+                            "name": "note1.txt",
+                            "note": "Couldn't find solutions."
+                        },
+                        {
+                            "name": "Sheet_1_AC.pdf"
+                        },
+                        {
+                            "name": "Sheet_2_Theorems.pdf"
+                        },
+                        {
+                            "name": "Sheet_3_Phasor.pdf"
+                        }
+                    ]
+                },
+                {
+                    "date": "21",
+                    "name": "DC",
+                    "children": [
+                        {
+                            "name": "notes1.txt",
+                            "note": "Most of the problems are answered in the booklets inside DC Booklets folder, and in Eng Ibrahim Tutorials folder. My advice is to study directly from those booklets instead of sheets."
+                        },
+                        {
+                            "name": "Sheet_1_kvl_kcl.pdf"
+                        },
+                        {
+                            "name": "Sheet_2_-Circuit_Reduction___Delta-Star.pdf"
+                        },
+                        {
+                            "name": "Sheet_3_-_Source_Transformation.pdf"
+                        },
+                        {
+                            "name": "Sheet_4__Mesh_and_Nodal_.pdf"
+                        },
+                        {
+                            "name": "Sheet_5_-Super_position-_.pdf"
+                        },
+                        {
+                            "name": "Sheet_6_-Thevenin-_.pdf"
+                        },
+                        {
+                            "name": "Sheet_7__Maximum_Power_Transfer_.pdf"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Summaries_n_Notes",
+            "children": [
+                {
+                    "name": "AC_power_summary.pdf"
+                },
+                {
+                    "date": "20",
+                    "name": "Circuits_final_notes.pdf"
+                },
+                {
+                    "date": "19",
+                    "name": "Mahmoud_Mohsen_summary.pdf"
+                },
+                {
+                    "date": "21",
+                    "name": "Midterm_Summaries",
+                    "children": [
+                        {
+                            "name": "circuits_midterm.pdf"
+                        },
+                        {
+                            "name": "circuits_revision.pdf"
+                        }
+                    ]
+                },
+                {
+                    "date": "19",
+                    "name": "Mo'tasem_Tarek",
+                    "children": [
+                        {
+                            "name": "AC_circuits_summary.pdf"
+                        },
+                        {
+                            "name": "Ac_power_calculations_summary.pdf"
+                        },
+                        {
+                            "name": "DC_circuits_summary.pdf"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Tutorials",
+            "children": [
+                {
+                    "date": "19",
+                    "name": "Eng_Hazem_Hani",
+                    "children": [
+                        {
+                            "name": "notes1.txt",
+                            "note": "This was the only 'proper' collection of files I could find for Eng Hazem Hani."
+                        },
+                        {
+                            "name": "sec_2.pdf"
+                        },
+                        {
+                            "name": "sec_3.pdf"
+                        },
+                        {
+                            "name": "sec_4.pdf"
+                        },
+                        {
+                            "name": "sec_5.pdf"
+                        },
+                        {
+                            "name": "sec_7.pdf"
+                        },
+                        {
+                            "name": "sec_8.pdf"
+                        }
+                    ]
+                },
+                {
+                    "date": "21",
+                    "name": "Eng_Ibrahim_Mahmoud",
+                    "children": [
+                        {
+                            "name": "01.sheet_kvl_kcl_solution.pdf"
+                        },
+                        {
+                            "name": "02.Circuit_reduction.pdf"
+                        },
+                        {
+                            "name": "03.source_transformation.pdf"
+                        },
+                        {
+                            "name": "04.extra_problems_(1).pdf"
+                        },
+                        {
+                            "name": "05.Revision_(1).pdf"
+                        },
+                        {
+                            "name": "06.section_nodal_analysis.pdf"
+                        },
+                        {
+                            "name": "07.mesh_analysis.pdf"
+                        },
+                        {
+                            "name": "08.Superposition___Thevenin_case-1.pdf"
+                        },
+                        {
+                            "name": "09.Thevenin_case_2,3___max_power_transfer.pdf"
                         }
                     ]
                 }
