@@ -1,615 +1,178 @@
 {
-    "name": "Logic_Design",
+    "name": "Electrical_Circuits_1",
     "children": [
         {
-            "name": "Exams",
+            "name": "Lectures_Slides_&_Notes",
             "children": [
                 {
-                    "name": "Final_Exams",
+                    "name": "Dr._Adel_Omara",
                     "children": [
                         {
-                            "date": "20",
-                            "name": "Fall_2019-2020.pdf"
-                        },
-                        {
-                            "date": "19",
-                            "name": "Final_2016_+_Soln.pdf"
-                        },
-                        {
-                            "date": "20",
-                            "name": "Final_2017-2018.pdf"
-                        },
-                        {
-                            "date": "19",
-                            "name": "Final_2017-2018_Soln.pdf"
-                        },
-                        {
-                            "date": "20",
-                            "name": "Finals_2017_to_2012.pdf"
-                        },
-                        {
-                            "date": "20",
-                            "name": "Finals_older_than_2012.pdf"
-                        },
-                        {
-                            "date": "19",
-                            "name": "King_Fahd_University",
+                            "name": "Slides",
                             "children": [
                                 {
-                                    "name": "Fall_19_Major_Exam_1.pdf"
+                                    "date": "20",
+                                    "name": "delta_star_Equivalent_Resistance_2.pdf"
                                 },
                                 {
-                                    "name": "Fall_19_Major_Exam_2.pdf"
+                                    "date": "20",
+                                    "name": "Lecture_1.pdf"
                                 },
                                 {
-                                    "name": "Final_19_.pdf"
+                                    "date": "20",
+                                    "name": "Lecture_3_Current_divider.pdf"
+                                },
+                                {
+                                    "name": "notes1.txt",
+                                    "note": "Slides of 2020 & 2019 were not put here."
+                                },
+                                {
+                                    "date": "20",
+                                    "name": "Solved_Examples.pdf"
+                                },
+                                {
+                                    "date": "20",
+                                    "name": "Source-Transformation.pdf"
                                 }
                             ]
                         },
                         {
-                            "date": "19",
-                            "name": "Misr_University",
+                            "name": "Written_Notes",
                             "children": [
                                 {
-                                    "name": "Final__2019_2020.pdf"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Midterms_Exams",
-                    "children": [
-                        {
-                            "date": "19",
-                            "name": "Fall_2017-2019.pdf"
-                        },
-                        {
-                            "date": "20",
-                            "name": "Fall_2018.pdf"
-                        },
-                        {
-                            "date": "20",
-                            "name": "Fall_2019.pdf"
-                        },
-                        {
-                            "date": "20",
-                            "name": "Fall_2020.pdf"
-                        },
-                        {
-                            "name": "Solutions",
-                            "children": [
-                                {
-                                    "name": "Fall_2018_Solution.pdf"
+                                    "date": "19",
+                                    "name": "Lecture_1.pdf"
                                 },
                                 {
-                                    "name": "Fall_2019_Solution.pdf"
+                                    "date": "20",
+                                    "name": "Lecture_1.pdf"
                                 },
                                 {
-                                    "name": "Fall_2020_Solution.pdf"
-                                }
-                            ]
-                        },
-                        {
-                            "date": "20",
-                            "name": "Spring_2019.pdf"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "Final_Revisions",
-            "children": [
-                {
-                    "date": "19",
-                    "name": "Eng_Suzy_p1",
-                    "children": [
-                        {
-                            "name": "Part1_by_Aly_elsayed.pdf"
-                        },
-                        {
-                            "name": "Part1_by_Menna_Hussein.pdf"
-                        },
-                        {
-                            "name": "Part1_by_Salma_Mahmoud.pdf"
-                        }
-                    ]
-                },
-                {
-                    "date": "19",
-                    "name": "Eng_Suzy_p2",
-                    "children": [
-                        {
-                            "name": "Part_2_by_Aly_elsayed.pdf"
-                        },
-                        {
-                            "name": "Part_2_by_Salma_Mahmoud.pdf"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "Labs",
-            "children": [
-                {
-                    "date": "19",
-                    "name": "Lab_2019",
-                    "children": [
-                        {
-                            "name": "Lab_1.pdf"
-                        },
-                        {
-                            "name": "Lab_2.pdf"
-                        },
-                        {
-                            "name": "Lab_3.pdf"
-                        },
-                        {
-                            "name": "Lab_4.pdf"
-                        },
-                        {
-                            "name": "Lab_5.pdf"
-                        },
-                        {
-                            "name": "Lab_7.pdf"
-                        },
-                        {
-                            "name": "Lab_9.pdf"
-                        },
-                        {
-                            "name": "note.txt",
-                            "note": "The Drive channel contains additional items for Lab 2. Open the original Drive to access them."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "Lectures",
-            "children": [
-                {
-                    "date": "20",
-                    "name": "Abdelrahman_Mostafa",
-                    "children": [
-                        {
-                            "name": "Lecture_10_Logic.pdf"
-                        },
-                        {
-                            "name": "Lecture_11_Logic.pdf"
-                        },
-                        {
-                            "name": "Lecture_12_Logic.pdf"
-                        },
-                        {
-                            "name": "Lecture_2_Logic.pdf"
-                        },
-                        {
-                            "name": "Lecture_3_Logic.pdf"
-                        },
-                        {
-                            "name": "Lecture_4_Logic.pdf"
-                        },
-                        {
-                            "name": "Lecture_5_Logic.pdf"
-                        },
-                        {
-                            "name": "Lecture_6_(part_1_3)_Logic.pdf"
-                        },
-                        {
-                            "name": "Lecture_7_Logic.pdf"
-                        },
-                        {
-                            "name": "Lecture_8_Logic.pdf"
-                        },
-                        {
-                            "name": "Lecture_9_Logic.pdf"
-                        },
-                        {
-                            "name": "Missing_from_other_lectures_(_7_Segment_-_Dont_Cares_-_Memories_).pdf"
-                        }
-                    ]
-                },
-                {
-                    "date": "20",
-                    "name": "Ahmed_Juba",
-                    "children": [
-                        {
-                            "name": "Lecture_10.pdf"
-                        },
-                        {
-                            "name": "Lecture_11.pdf"
-                        },
-                        {
-                            "name": "Lecture_12.pdf"
-                        },
-                        {
-                            "name": "Lecture_6.pdf"
-                        },
-                        {
-                            "name": "Lecture_7.pdf"
-                        },
-                        {
-                            "name": "Lecture_8.pdf"
-                        },
-                        {
-                            "name": "Lecture_9.pdf"
-                        }
-                    ]
-                },
-                {
-                    "date": "19",
-                    "name": "Lectures",
-                    "children": [
-                        {
-                            "name": "Lecture_1.pdf"
-                        },
-                        {
-                            "name": "Lecture_10.pdf"
-                        },
-                        {
-                            "name": "Lecture_11.pdf"
-                        },
-                        {
-                            "name": "Lecture_12.pdf"
-                        },
-                        {
-                            "name": "Lecture_2.pdf"
-                        },
-                        {
-                            "name": "Lecture_3.pdf"
-                        },
-                        {
-                            "name": "Lecture_4.pdf"
-                        },
-                        {
-                            "name": "Lecture_5.pdf"
-                        },
-                        {
-                            "name": "Lecture_6.pdf"
-                        },
-                        {
-                            "name": "Lecture_7.pdf"
-                        },
-                        {
-                            "name": "Lecture_8.pdf"
-                        },
-                        {
-                            "name": "Lecture_9.pdf"
-                        }
-                    ]
-                },
-                {
-                    "date": "20",
-                    "name": "Lina_Sawwan",
-                    "children": [
-                        {
-                            "name": "lect_1.pdf"
-                        },
-                        {
-                            "name": "lect_10.pdf"
-                        },
-                        {
-                            "name": "lect_11.pdf"
-                        },
-                        {
-                            "name": "lect_12.pdf"
-                        },
-                        {
-                            "name": "lect_2.pdf"
-                        },
-                        {
-                            "name": "lect_3.pdf"
-                        },
-                        {
-                            "name": "lect_4.pdf"
-                        },
-                        {
-                            "name": "lect_5.pdf"
-                        },
-                        {
-                            "name": "lect_6.pdf"
-                        },
-                        {
-                            "name": "lect_7.pdf"
-                        },
-                        {
-                            "name": "lect_8.pdf"
-                        },
-                        {
-                            "name": "lect_9.pdf"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "Midterm_Revisions",
-            "children": [
-                {
-                    "date": "19",
-                    "name": "Board.pdf"
-                },
-                {
-                    "date": "19",
-                    "name": "Suzy_revision.pdf"
-                },
-                {
-                    "date": "19",
-                    "name": "Youssef_diaa_Midterm_sheet.pdf"
-                }
-            ]
-        },
-        {
-            "name": "Project",
-            "children": [
-                {
-                    "date": "20",
-                    "name": "Counter_assignment.pdf"
-                },
-                {
-                    "date": "20",
-                    "name": "Logic_decoder_assignment.pdf"
-                },
-                {
-                    "date": "19",
-                    "name": "Project_Description.pdf"
-                }
-            ]
-        },
-        {
-            "name": "Sheets",
-            "children": [
-                {
-                    "date": "19",
-                    "name": "Fall_2019",
-                    "children": [
-                        {
-                            "date": "19",
-                            "name": "Eng._Reem",
-                            "children": [
-                                {
-                                    "name": "Rest_of_sheet_7_soln.pdf"
+                                    "date": "20",
+                                    "name": "Lecture_1.pdf"
                                 },
                                 {
-                                    "name": "Sections_and_Sheets_Note_-_Soln.pdf"
-                                }
-                            ]
-                        },
-                        {
-                            "date": "19",
-                            "name": "Sheet_1.pdf"
-                        },
-                        {
-                            "date": "19",
-                            "name": "Sheet_2.pdf"
-                        },
-                        {
-                            "date": "19",
-                            "name": "Sheet_3.pdf"
-                        },
-                        {
-                            "date": "19",
-                            "name": "Sheet_4.pdf"
-                        },
-                        {
-                            "date": "19",
-                            "name": "Sheet_5.pdf"
-                        },
-                        {
-                            "date": "19",
-                            "name": "Sheet_6.pdf"
-                        },
-                        {
-                            "date": "19",
-                            "name": "Sheet_7.pdf"
-                        },
-                        {
-                            "date": "19",
-                            "name": "Sheet_8.pdf"
-                        },
-                        {
-                            "date": "19",
-                            "name": "Solutions_1",
-                            "children": [
-                                {
-                                    "name": "remain_of_Sheet_4.pdf"
+                                    "date": "19",
+                                    "name": "Lecture_2.pdf"
                                 },
                                 {
-                                    "name": "sheet_1.pdf"
+                                    "date": "20",
+                                    "name": "Lecture_2.pdf"
                                 },
                                 {
-                                    "name": "sheet_2_.pdf"
+                                    "date": "20",
+                                    "name": "Lecture_2.pdf"
                                 },
                                 {
-                                    "name": "sheet_3.pdf"
+                                    "date": "20",
+                                    "name": "Lecture_3.pdf"
                                 },
                                 {
-                                    "name": "sheet_4_.pdf"
+                                    "date": "20",
+                                    "name": "Lecture_3.pdf"
                                 },
                                 {
-                                    "name": "sheet_5.pdf"
-                                },
-                                {
-                                    "name": "sheet_6.pdf"
-                                },
-                                {
-                                    "name": "Sheet_7.pdf"
-                                },
-                                {
-                                    "name": "sheet_8.pdf"
+                                    "date": "20",
+                                    "name": "Source_Transformation.pdf"
                                 }
                             ]
                         }
                     ]
                 },
                 {
-                    "date": "20",
-                    "name": "Fall_2020",
+                    "name": "Dr._Nabil_Hamed",
                     "children": [
                         {
-                            "date": "20",
-                            "name": "Sheet1.pdf"
-                        },
-                        {
-                            "date": "20",
-                            "name": "Sheet2.pdf"
-                        },
-                        {
-                            "date": "20",
-                            "name": "Sheet3.pdf"
-                        },
-                        {
-                            "date": "20",
-                            "name": "Sheet4.pdf"
-                        },
-                        {
-                            "date": "20",
-                            "name": "Sheet5.pdf"
-                        },
-                        {
-                            "date": "20",
-                            "name": "Sheet6.pdf"
-                        },
-                        {
-                            "date": "20",
-                            "name": "Sheet7.pdf"
-                        },
-                        {
-                            "date": "20",
-                            "name": "Sheet8.pdf"
-                        },
-                        {
-                            "date": "20",
-                            "name": "Sheet9.pdf"
-                        },
-                        {
-                            "date": "20",
-                            "name": "Solutions",
+                            "name": "Written_Notes",
                             "children": [
                                 {
-                                    "name": "assignment_1logic.pdf"
+                                    "date": "20",
+                                    "name": "AC_lecture_2.pdf"
                                 },
                                 {
-                                    "name": "sheet_1_logic.pdf"
+                                    "date": "20",
+                                    "name": "AC_lecture_3.pdf"
                                 },
                                 {
-                                    "name": "sheet_2_logic.pdf"
+                                    "date": "19",
+                                    "name": "Lecture_1.pdf"
                                 },
                                 {
-                                    "name": "Sheet_3_logic_.pdf"
+                                    "date": "19",
+                                    "name": "Lecture_2.pdf"
                                 },
                                 {
-                                    "name": "sheet_4_logic.pdf"
+                                    "date": "19",
+                                    "name": "Lecture_3.pdf"
                                 },
                                 {
-                                    "name": "sheet_4_5.pdf"
+                                    "date": "19",
+                                    "name": "Lecture_4.pdf"
                                 },
                                 {
-                                    "name": "sheet_5_logic.pdf"
+                                    "date": "19",
+                                    "name": "Lecture_5.pdf"
                                 },
                                 {
-                                    "name": "Sheet_6,7,8_logic.pdf"
+                                    "date": "19",
+                                    "name": "Lecture_6.pdf"
                                 },
                                 {
-                                    "name": "Sheet_9_Logic.pdf"
-                                }
-                            ]
-                        },
-                        {
-                            "date": "20",
-                            "name": "Solutions__Sections_of_TA.Rizk_Tawfik",
-                            "children": [
-                                {
-                                    "name": "Logic_Section_1.pdf"
+                                    "date": "19",
+                                    "name": "Lecture_7.pdf"
                                 },
                                 {
-                                    "name": "Logic_Section_2.pdf"
-                                },
-                                {
-                                    "name": "Logic_Section_3.pdf"
-                                },
-                                {
-                                    "name": "Logic_Section_4.pdf"
-                                },
-                                {
-                                    "name": "Logic_Section_5.pdf"
-                                },
-                                {
-                                    "name": "Logic_Section_6.pdf"
-                                },
-                                {
-                                    "name": "Logic_Section_7.pdf"
-                                },
-                                {
-                                    "name": "Logic_Section_8.pdf"
-                                },
-                                {
-                                    "name": "Logic_Section_9.pdf"
+                                    "name": "note1.txt.txt",
+                                    "note": "There are no notes on 2021 drive."
                                 }
                             ]
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "name": "Slides",
-            "children": [
+                },
                 {
-                    "date": "19",
-                    "name": "Fall_2019",
+                    "name": "Dr._Walid_Helmy",
                     "children": [
                         {
-                            "name": "1._Intro.pdf"
+                            "name": "Slides",
+                            "children": [
+                                {
+                                    "date": "20",
+                                    "name": "Mesh_&_Nodal.pdf"
+                                },
+                                {
+                                    "date": "20",
+                                    "name": "Superposition_&_Thevenin.pdf"
+                                },
+                                {
+                                    "date": "20",
+                                    "name": "Thevenin_Case_3.pdf"
+                                }
+                            ]
                         },
                         {
-                            "name": "10._Sequential_Circuits_2.pdf"
-                        },
-                        {
-                            "name": "11._Registers_+_Counters.pdf"
-                        },
-                        {
-                            "name": "2._Binary_Systems_1.pdf"
-                        },
-                        {
-                            "name": "3._Binary_Systems_2.pdf"
-                        },
-                        {
-                            "name": "4._Boolean_Algebra_1.pdf"
-                        },
-                        {
-                            "name": "5._Boolean_Algebra_2.pdf"
-                        },
-                        {
-                            "name": "6._Gate_Level_Minimization.pdf"
-                        },
-                        {
-                            "name": "7._Combinational_Circuits_1.pdf"
-                        },
-                        {
-                            "name": "8._Combinational_Circuits_2.pdf"
-                        },
-                        {
-                            "name": "9._Sequential_Circuits_1.pdf"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "Summaries",
-            "children": [
-                {
-                    "date": "19",
-                    "name": "Mariam_Ahmed",
-                    "children": [
-                        {
-                            "name": "Part_1.pdf"
-                        },
-                        {
-                            "name": "Part_2_(after_midterm).pdf"
+                            "name": "Written_Notes",
+                            "children": [
+                                {
+                                    "date": "19",
+                                    "name": "Lecture_1.pdf"
+                                },
+                                {
+                                    "date": "19",
+                                    "name": "Lecture_2.pdf"
+                                },
+                                {
+                                    "date": "19",
+                                    "name": "Lecture_3.pdf"
+                                },
+                                {
+                                    "date": "19",
+                                    "name": "Lecture_4.pdf"
+                                },
+                                {
+                                    "name": "note1.txt.txt",
+                                    "note": "There are no notes on 2021 drive."
+                                }
+                            ]
                         }
                     ]
                 }
