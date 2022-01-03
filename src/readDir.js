@@ -39,7 +39,7 @@ function readDir(dir, mode = 'normal') {
         fixedName = fixedName.replace(" - 20", "")
       }
       if(fileName.indexOf(' - 21') > 0) {
-        obj.date = "20"
+        obj.date = "21"
         fixedName = fixedName.replace(" - 21", "")
       }
       fixedName = fixedName.replace(/\s/g, "_")
