@@ -1,0 +1,49 @@
+{
+    "name": "Sheets",
+    "children": [
+        {
+            "name": "AA",
+            "children": [
+                {
+                    "name": "Circuit 1 term final_.pdf",
+                    "link": ""
+                },
+                {
+                    "name": "Circuit 2 term final_.pdf",
+                    "link": ""
+                },
+                {
+                    "name": "Circuit 2.pdf",
+                    "link": ""
+                }
+            ]
+        },
+        {
+            "name": "AC",
+            "children": [
+                {
+                    "name": "Sheet 1 AC.pdf",
+                    "link": ""
+                },
+                {
+                    "name": "Sheet 2 Theorems.pdf",
+                    "link": ""
+                },
+                {
+                    "name": "Sheet 3 Phasor.pdf",
+                    "link": ""
+                }
+            ]
+        }
+    ],
+    "source": [
+        "link1",
+        "link2",
+        "link3"
+    ],
+    "credits": [
+        "name1 - year",
+        "name2 - 2019",
+        "name3 - 2018"
+    ]
+}

@@ -2,6 +2,146 @@
     "name": "Electrical Circuits 1",
     "children": [
         {
+            "name": "Booklets",
+            "children": [
+                {
+                    "name": "AC",
+                    "children": [
+                        {
+                            "name": "AC circuits eng ibrahim -.pdf",
+                            "link": "https://drive.google.com/file/d/11IaukCfENXprMN6MEc4KoKkpSW1kqU_D/view?usp=sharing"
+                        },
+                        {
+                            "name": "AC power calculations.pdf",
+                            "link": "https://drive.google.com/file/d/13o543diN05lyHQI609NJfTbtueMpgnTu/view?usp=sharing"
+                        },
+                        {
+                            "name": "AC Steady State Analysis.pdf",
+                            "link": "https://drive.google.com/file/d/1kTWTyEeSUdW4EHx1arpGfdeOzD4P51gz/view?usp=sharing"
+                        },
+                        {
+                            "name": "Circuits 11.pdf",
+                            "link": "https://drive.google.com/file/d/1j2VIiJAf1lp0192HT1gaqlau_AmUhmCx/view?usp=sharing"
+                        },
+                        {
+                            "name": "Circuits 9.pdf",
+                            "link": "https://drive.google.com/file/d/18wQKxx57Le0X1rbUlywKxYYgviBU05um/view?usp=sharing"
+                        },
+                        {
+                            "name": "note1.txt",
+                            "note": "All are from 2020 Drive."
+                        },
+                        {
+                            "name": "Power Calculation.pdf",
+                            "link": "https://drive.google.com/file/d/17hU7Mf8dgCWctjwBgDQrQhG_neHOBCwf/view?usp=sharing"
+                        },
+                        {
+                            "name": "power calculations - Eng Ibrahim.pdf",
+                            "link": "https://drive.google.com/file/d/1WJRYvzT_VvC2TI3b2frRoV8wZ-sIjUH4/view?usp=sharing"
+                        },
+                        {
+                            "name": "Power Triangle and Power factor correction.pdf",
+                            "link": "https://drive.google.com/file/d/16-zqOeP3u1G8Tgwoe_ZMk8-6GWc4Y5t-/view?usp=sharing"
+                        },
+                        {
+                            "name": "Some power notes.pdf",
+                            "link": "https://drive.google.com/file/d/1XM7erznNcQAahwBJnB7pFp59Qtsf1XsZ/view?usp=sharing"
+                        }
+                    ]
+                },
+                {
+                    "name": "DC",
+                    "children": [
+                        {
+                            "name": "circuits 1 - 20.pdf",
+                            "link": "https://drive.google.com/file/d/1fZL3AvGA_R6uGhdEyYbKr1tzu5xSiS2c/view?usp=sharing"
+                        },
+                        {
+                            "name": "circuits 2 - 20.pdf",
+                            "link": "https://drive.google.com/file/d/12qfj5n5ZtzjenpSKOVOtOXebFK8o6SWf/view?usp=sharing"
+                        },
+                        {
+                            "name": "Circuits 3 - 20.pdf",
+                            "link": "https://drive.google.com/file/d/1heMe_L3rayLCaJRIVItRhaLFfxo2utVO/view?usp=sharing"
+                        },
+                        {
+                            "name": "Circuits 4 - 20.pdf",
+                            "link": "https://drive.google.com/file/d/1dFargAAxbWnMl_wGT6FmOe9JtoYNjm_p/view?usp=sharing"
+                        },
+                        {
+                            "name": "Circuits 5 Nodal Analysis - 20.pdf",
+                            "link": "https://drive.google.com/file/d/13gq_H0Fcoj74QliaPOpRrp_bRWcLwYpN/view?usp=sharing"
+                        },
+                        {
+                            "name": "extra problems on Dr Adel.pdf",
+                            "link": "https://drive.google.com/file/d/1TiDfhme_ewgx7j9bLIH4FFPkAUUzagLJ/view?usp=sharing"
+                        },
+                        {
+                            "name": "KVL _ KCL gathered section - 20.pdf",
+                            "link": "https://drive.google.com/file/d/1geHDQzZylomYn88LurXvt2Bi8ryIij3X/view?usp=sharing"
+                        },
+                        {
+                            "name": "mesh analysis _ examples - 20.pdf",
+                            "link": "https://drive.google.com/file/d/1zvWquTrI5P4ObysTulwjpXwew03Lcmi3/view?usp=sharing"
+                        },
+                        {
+                            "name": "Mesh analysis(6) - 20.pdf",
+                            "link": "https://drive.google.com/file/d/1MkfCLG6NMreM-z-9uy4DhMCWSccD86j_/view?usp=sharing"
+                        },
+                        {
+                            "name": "note1 - 20.txt",
+                            "note": "Booklets of Eng Ibrahim are in the Tutorials folder."
+                        },
+                        {
+                            "name": "solving equations Krammer - 20.pdf",
+                            "link": "https://drive.google.com/file/d/1Iy0rs7x79p2MlOwBfZoZbW84yEtSnGOe/view?usp=sharing"
+                        },
+                        {
+                            "name": "Superposition(7) - 19.pdf",
+                            "link": "https://drive.google.com/file/d/1a8fVw_PUGhFnlqeTx7fK2FQiDNgzY6GX/view?usp=sharing"
+                        },
+                        {
+                            "name": "Thevenin(8) - 19.pdf",
+                            "link": "https://drive.google.com/file/d/1aPSeJqLG1isKfikm2nj-x1klyEcHyUPa/view?usp=sharing"
+                        }
+                    ]
+                },
+                {
+                    "name": "Dr Nabil Hamed - AC",
+                    "children": [
+                        {
+                            "name": "Mesh and Nodal AC.pdf",
+                            "link": "https://drive.google.com/file/d/1ENwxtXEGguN3NOmKb-czLQChWRvBArPM/view?usp=sharing"
+                        },
+                        {
+                            "name": "note1.txt",
+                            "note": "These files are not in any of the Drives, but were mentioned in Dr Nabil's 2020 lectures."
+                        },
+                        {
+                            "name": "power calculations.pdf",
+                            "link": "https://drive.google.com/file/d/1X51j8EZuJzrC23olgKylBDjRFy-9Dz1N/view?usp=sharing"
+                        },
+                        {
+                            "name": "Revision 1.pdf",
+                            "link": "https://drive.google.com/file/d/1xE02Q2r6sIFIY11C4xheJzSQGmYlME8P/view?usp=sharing"
+                        },
+                        {
+                            "name": "Revision 2.pdf",
+                            "link": "https://drive.google.com/file/d/1CYqba5eUhj7I0UAVGVI-QsoOLvtMy5ay/view?usp=sharing"
+                        },
+                        {
+                            "name": "Superposition Mesh Nodal.pdf",
+                            "link": "https://drive.google.com/file/d/1DKV53kaE9MPwuOIayNJvpI1aJW2Adbn2/view?usp=sharing"
+                        },
+                        {
+                            "name": "Thevenin n Max Power.pdf",
+                            "link": "https://drive.google.com/file/d/1jE173_mIwus9Y5MlZqv3doi7T5s3W-EK/view?usp=sharing"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "name": "Lectures Slides n Notes",
             "children": [
                 {
@@ -173,6 +313,407 @@
                                     "note": "There are no notes on 2021 drive."
                                 }
                             ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "note.txt",
+            "note": "To add new files, contact me through the Facebook post."
+        },
+        {
+            "name": "Previous Exams",
+            "children": [
+                {
+                    "name": "Final",
+                    "children": [
+                        {
+                            "name": "2013 n earlier Soln(Past).pdf",
+                            "link": "https://drive.google.com/file/d/17L5dn38tZInQuaEli-r-VzynPyvhxJ6P/view?usp=sharing"
+                        },
+                        {
+                            "name": "Circuits Exams (2012 - 2019).pdf",
+                            "link": "https://drive.google.com/file/d/1LzNbIc70NfspuqNy1QwcKlwIHtrOfXR0/view?usp=sharing"
+                        },
+                        {
+                            "name": "Circuits Fall 2020.pdf",
+                            "link": "https://drive.google.com/file/d/1S6BEFObYGbp_t-j-3lBCgRSXifjjim9d/view?usp=sharing"
+                        },
+                        {
+                            "name": "Final 2018 1st Semester.pdf",
+                            "link": "https://drive.google.com/file/d/1HHn4-F8taRA3n5sQ_M8D_ys7WZB0v-hn/view?usp=sharing"
+                        },
+                        {
+                            "name": "Final 2019 2nd Semester.pdf",
+                            "link": "https://drive.google.com/file/d/12jZZFRem-SSPJBa24TypuDRnfdqLI-DT/view?usp=sharing"
+                        },
+                        {
+                            "name": "Final 2019 spring.pdf",
+                            "link": "https://drive.google.com/file/d/1ZgshIPf6kahYQdh0tMQ2GRtWJu7gtyAI/view?usp=sharing"
+                        },
+                        {
+                            "name": "notes1.txt",
+                            "note": "Note: Solutions are needed. If available, kindly contact me to add them."
+                        },
+                        {
+                            "name": "Solutions 2012 to 2019 - Yasmeen Abdelrazek.pdf",
+                            "link": "https://drive.google.com/file/d/1B8H0OTg3l99bRKrTFYQDbk6F0-pQ1j-1/view?usp=sharing"
+                        },
+                        {
+                            "name": "Spring 2021.pdf",
+                            "link": "https://drive.google.com/file/d/19FJEWDeKtu1N4eGah_9CjezJ0AItsXXv/view?usp=sharing"
+                        }
+                    ]
+                },
+                {
+                    "name": "Midterm",
+                    "children": [
+                        {
+                            "name": "Exams w Ahmed Mahmoud.pdf",
+                            "link": "https://drive.google.com/file/d/1dhu3TDQ-J8S26srC4yzebx64IrwA0c0q/view?usp=sharing"
+                        },
+                        {
+                            "name": "Midterm + Solutions - Fall 2021.pdf",
+                            "link": "https://drive.google.com/file/d/1AvPufTlxALX_4b6imtzwTetdbv8ni_RI/view?usp=sharing"
+                        },
+                        {
+                            "name": "Solutions",
+                            "children": [
+                                {
+                                    "name": "2016-2017 solutions.pdf",
+                                    "link": "https://drive.google.com/file/d/1U_K6AcStpExQiH9GduLfnMFhKqs44vhy/view?usp=sharing"
+                                },
+                                {
+                                    "name": "2017-2018 solutions.pdf",
+                                    "link": "https://drive.google.com/file/d/1G35tiwMB9TYJma5AW4m-mvrPPViSXiGT/view?usp=sharing"
+                                },
+                                {
+                                    "name": "[Fall 2020 Solution].pdf",
+                                    "link": "https://drive.google.com/file/d/10zSfiDFniwRSZSznIfcSRHuyCNRw0V4i/view?usp=sharing"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Summer 2021..pdf",
+                            "link": "https://drive.google.com/file/d/1VajtjtaJpFoOYiC75oygukE-mV-Dwrh3/view?usp=sharing"
+                        },
+                        {
+                            "name": "[2016-2017].pdf",
+                            "link": "https://drive.google.com/file/d/1PjGavWQ7iyS6xxWtkWhrFzji-lcCcP1z/view?usp=sharing"
+                        },
+                        {
+                            "name": "[2017-2018].pdf",
+                            "link": "https://drive.google.com/file/d/17IKz1PE3UD6ZwzjWH1X_JChd5bVfwikf/view?usp=sharing"
+                        },
+                        {
+                            "name": "[Dec.2014].pdf",
+                            "link": "https://drive.google.com/file/d/1XaTEqGHxKaiURHayblofe-0m6fRbBb6A/view?usp=sharing"
+                        },
+                        {
+                            "name": "[Fall 2015].pdf",
+                            "link": "https://drive.google.com/file/d/1lskjvFENqKaKDdKq7KnbeSl6kYZg5-oN/view?usp=sharing"
+                        },
+                        {
+                            "name": "[Fall 2019].pdf",
+                            "link": "https://drive.google.com/file/d/1M8VDWLGIQEnwaqso31NhcYdDlfyEL-G1/view?usp=sharing"
+                        },
+                        {
+                            "name": "[Fall 2020].pdf",
+                            "link": "https://drive.google.com/file/d/1j52QYel-XGqppttW1wbKTFK8ddW00c8_/view?usp=sharing"
+                        },
+                        {
+                            "name": "[Nov.2015].pdf",
+                            "link": "https://drive.google.com/file/d/1YCEUVeJsbMpUemDhI8OWIcPdKlgrYyPs/view?usp=sharing"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Revisions",
+            "children": [
+                {
+                    "name": "Final",
+                    "children": [
+                        {
+                            "name": "Dr.Nabil Hamed - 19",
+                            "children": [
+                                {
+                                    "name": "Revision 1.pdf",
+                                    "link": "https://drive.google.com/file/d/1PPEK_D4FAoDUkJ-5xtuDjKmJ47iXqTIo/view?usp=sharing"
+                                },
+                                {
+                                    "name": "Revision 2.pdf",
+                                    "link": "https://drive.google.com/file/d/1PdE3CPhQaHE0J3azyeRzJde0ae5tkw9L/view?usp=sharing"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "E-Ahmed Mahmoud 2019 - 19",
+                            "children": [
+                                {
+                                    "name": "part 1 - AC Circuit.pdf",
+                                    "link": "https://drive.google.com/file/d/1-tiK5BOxk3eVQnKWRONAfIC5owsnF3SC/view?usp=sharing"
+                                },
+                                {
+                                    "name": "part 2 - Dr Waleed n AC Power.pdf",
+                                    "link": "https://drive.google.com/file/d/1Bvdk5T03E-7QsPgRY1klCPlvgnSDlL0S/view?usp=sharing"
+                                },
+                                {
+                                    "name": "part 3 - AC Power n Phasor.pdf",
+                                    "link": "https://drive.google.com/file/d/1bsmQVNGwHU0fqt3Kh-CHbMtQBKWekYI3/view?usp=sharing"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "E-Ibrahim Mahmoud newer - 20",
+                            "children": [
+                                {
+                                    "name": "Revision (1).pdf",
+                                    "link": "https://drive.google.com/file/d/1raVLdbEay7q5GHXPfr0wTbooin1eEgq5/view?usp=sharing"
+                                },
+                                {
+                                    "name": "Revision (2).pdf",
+                                    "link": "https://drive.google.com/file/d/1eh8csP0HADkT99dB75dQ9o0rryoDNunn/view?usp=sharing"
+                                },
+                                {
+                                    "name": "Revision (3).pdf",
+                                    "link": "https://drive.google.com/file/d/1toZPeJkZiOhiYQXzZQYnn0KlZpdL4WXY/view?usp=sharing"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "E-Ibrahim Mahmoud old - 19",
+                            "children": [
+                                {
+                                    "name": "part 1.pdf",
+                                    "link": "https://drive.google.com/file/d/1eJqRUjX5muA14_0sh-1k0bwvg9ULRNoz/view?usp=sharing"
+                                },
+                                {
+                                    "name": "part 2.pdf",
+                                    "link": "https://drive.google.com/file/d/1eOA7x_8spTBl2ff47uJhqSTbNFpGigA1/view?usp=sharing"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Eng Ahmed Mahmoud 2020 - 20",
+                            "children": [
+                                {
+                                    "name": "Final Revision 1.pdf",
+                                    "link": "https://drive.google.com/file/d/1l6UYJnIuNHZSH7kD1cqcu4aefRNkXaRl/view?usp=sharing"
+                                },
+                                {
+                                    "name": "Final Revision 2.pdf",
+                                    "link": "https://drive.google.com/file/d/1I69FRUPUkp-MP59J5sIVNIpLWzvt-25_/view?usp=sharing"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "note1.txt",
+                            "note": "A lot of the files here were present in multiple Drives, so I'm putting date of the oldest Drive that have them."
+                        }
+                    ]
+                },
+                {
+                    "name": "Midterm",
+                    "children": [
+                        {
+                            "name": "Midterm Part 1 KVL KCL Reduction Mesh Nodal.pdf",
+                            "link": "https://drive.google.com/file/d/1r0tOgiuBzKTyqKcoA4hDweS7u3M63VvB/view?usp=sharing"
+                        },
+                        {
+                            "name": "Midterm Part 2 Superpostion Thevinin Source transformation.pdf",
+                            "link": "https://drive.google.com/file/d/1Nekr2UxCq9GqXB0LjVypmfD9Ksg6pRJ0/view?usp=sharing"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Sheets from University",
+            "children": [
+                {
+                    "name": "AC - 19",
+                    "children": [
+                        {
+                            "name": "note1.txt",
+                            "note": "Couldn't find solutions."
+                        },
+                        {
+                            "name": "Sheet 1 AC.pdf",
+                            "link": "https://drive.google.com/file/d/1j7_yYhB425852fxhISLIVvuImaonuNAm/view?usp=sharing"
+                        },
+                        {
+                            "name": "Sheet 2 Theorems.pdf",
+                            "link": "https://drive.google.com/file/d/1xhApRob3bf0p9gn5nOL8QzpX0vJdGYsU/view?usp=sharing"
+                        },
+                        {
+                            "name": "Sheet 3 Phasor.pdf",
+                            "link": "https://drive.google.com/file/d/1xoC1dLruMKj-jf9BTYa5ooSrDdpdLM-j/view?usp=sharing"
+                        }
+                    ]
+                },
+                {
+                    "name": "DC - 21",
+                    "children": [
+                        {
+                            "name": "notes1.txt",
+                            "note": "Most or many problems in the sheets below are solved in the Tutorials pdfs. My advice is to solve through the Tutorials directly."
+                        },
+                        {
+                            "name": "Sheet 1 kvl_kcl.pdf",
+                            "link": "https://drive.google.com/file/d/1X8toodcmtTbbe0g-B91Qz_P7rDq1dW-I/view?usp=sharing"
+                        },
+                        {
+                            "name": "Sheet 2 -Circuit Reduction _ Delta-Star.pdf",
+                            "link": "https://drive.google.com/file/d/17erFOmSPEyF6eEa_iOyLwG5mNgmEX7_d/view?usp=sharing"
+                        },
+                        {
+                            "name": "Sheet 3 - Source Transformation.pdf",
+                            "link": "https://drive.google.com/file/d/1NwGtV2O5KEa4dO5puENco2OlY8dUtGDG/view?usp=sharing"
+                        },
+                        {
+                            "name": "Sheet 4 _Mesh and Nodal_.pdf",
+                            "link": "https://drive.google.com/file/d/1V2Gsxqt9-X_amdqHJy2j3sPMSoyX6_Qs/view?usp=sharing"
+                        },
+                        {
+                            "name": "Sheet 5 -Super position- .pdf",
+                            "link": "https://drive.google.com/file/d/1ms4_vzNqsCSLJYE6apKRR6Hw3JUlJthM/view?usp=sharing"
+                        },
+                        {
+                            "name": "Sheet 6 -Thevenin- .pdf",
+                            "link": "https://drive.google.com/file/d/1msbyRUkAJeFPopKhY7BobCA0g-wvUbfA/view?usp=sharing"
+                        },
+                        {
+                            "name": "Sheet 7 _Maximum Power Transfer_.pdf",
+                            "link": "https://drive.google.com/file/d/1wlrKHewYNuqDQcGHh2R3fCVRy2eZiZa9/view?usp=sharing"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Summaries n Notes",
+            "children": [
+                {
+                    "name": "AC power summary.pdf",
+                    "link": "https://drive.google.com/file/d/1LrzNEVJ3eckywgz-mLEHEHbApHJH3uEA/view?usp=sharing"
+                },
+                {
+                    "name": "Circuits final notes - 20.pdf",
+                    "link": "https://drive.google.com/file/d/1DkcnuF1Vy2NjYGyhzflkZ_CrXT3yhqAh/view?usp=sharing"
+                },
+                {
+                    "name": "Mahmoud Mohsen summary - 19.pdf",
+                    "link": "https://drive.google.com/file/d/1DkcnuF1Vy2NjYGyhzflkZ_CrXT3yhqAh/view?usp=sharing"
+                },
+                {
+                    "name": "Midterm Summaries - 21",
+                    "children": [
+                        {
+                            "name": "circuits midterm.pdf",
+                            "link": "https://drive.google.com/file/d/10I7gGVUNpc_TVAszp5Rea00r6Q0xQe8c/view?usp=sharing"
+                        },
+                        {
+                            "name": "circuits revision.pdf",
+                            "link": "https://drive.google.com/file/d/1htfrCyXhTASBsjK3-Bc5e6Bw_eRy_pjW/view?usp=sharing"
+                        }
+                    ]
+                },
+                {
+                    "name": "Mo'tasem Tarek - 19",
+                    "children": [
+                        {
+                            "name": "AC circuits summary.pdf",
+                            "link": "https://drive.google.com/file/d/10I7gGVUNpc_TVAszp5Rea00r6Q0xQe8c/view?usp=sharing"
+                        },
+                        {
+                            "name": "Ac power calculations summary.pdf",
+                            "link": "https://drive.google.com/file/d/1htfrCyXhTASBsjK3-Bc5e6Bw_eRy_pjW/view?usp=sharing"
+                        },
+                        {
+                            "name": "DC circuits summary.pdf",
+                            "link": "https://drive.google.com/file/d/1TOae_tvFwu93J-zdASc2anmg36SCkQ8U/view?usp=sharing"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Tutorials",
+            "children": [
+                {
+                    "name": "Eng Hazem Hani - 19",
+                    "children": [
+                        {
+                            "name": "notes1.txt",
+                            "note": "This was the only 'proper' collection of files I could find for Eng Hazem Hani."
+                        },
+                        {
+                            "name": "sec 2.pdf",
+                            "link": "https://drive.google.com/file/d/108lQI0BvlpU5MVgiJLM_jLBFX6V7Tyul/view?usp=sharing"
+                        },
+                        {
+                            "name": "sec 3.pdf",
+                            "link": "https://drive.google.com/file/d/11qhX8Ouw7mCcJo7jbklRfHe9fhAIkVRD/view?usp=sharing"
+                        },
+                        {
+                            "name": "sec 4.pdf",
+                            "link": "https://drive.google.com/file/d/16qF7WqxQnrM5Ovr1ho6qVg6EJ0stIEQM/view?usp=sharing"
+                        },
+                        {
+                            "name": "sec 5.pdf",
+                            "link": "https://drive.google.com/file/d/1BUxGYmNO-lEp8PxJCx9J3xwTuWc4ctA7/view?usp=sharing"
+                        },
+                        {
+                            "name": "sec 7.pdf",
+                            "link": "https://drive.google.com/file/d/1Qf-hD1FQnjEjEBw7IqwCRIBMCjITvGTp/view?usp=sharing"
+                        },
+                        {
+                            "name": "sec 8.pdf",
+                            "link": "https://drive.google.com/file/d/1R81c9AvjcKVgpp-VKOLbIaPhlN7M9Mf3/view?usp=sharing"
+                        }
+                    ]
+                },
+                {
+                    "name": "Eng Ibrahim Mahmoud - 21",
+                    "children": [
+                        {
+                            "name": "01.sheet kvl_kcl solution.pdf",
+                            "link": "https://drive.google.com/file/d/1r0tOgiuBzKTyqKcoA4hDweS7u3M63VvB/view?usp=sharing"
+                        },
+                        {
+                            "name": "02.Circuit reduction.pdf",
+                            "link": "https://drive.google.com/file/d/1Nekr2UxCq9GqXB0LjVypmfD9Ksg6pRJ0/view?usp=sharing"
+                        },
+                        {
+                            "name": "03.source transformation.pdf",
+                            "link": "https://drive.google.com/file/d/1K5lq7-D5bPrbGm2cl01ZvYWV007nqSGF/view?usp=sharing"
+                        },
+                        {
+                            "name": "04.extra problems (1).pdf",
+                            "link": "https://drive.google.com/file/d/1K6YNFQQxerTfGMTXsPrloNWVHYV1zx3M/view?usp=sharing"
+                        },
+                        {
+                            "name": "05.Revision (1).pdf",
+                            "link": "https://drive.google.com/file/d/1KEIXFjodgrEscttlMVGXhFC0WD_Y8Rn2/view?usp=sharing"
+                        },
+                        {
+                            "name": "06.section nodal analysis.pdf",
+                            "link": "https://drive.google.com/file/d/1Kv30A-R1RSr2a8pozGHbd1YsmRnu_0wg/view?usp=sharing"
+                        },
+                        {
+                            "name": "07.mesh analysis.pdf",
+                            "link": "https://drive.google.com/file/d/15JfuN8yIKo4FWeogHNTol4um04kW-IoO/view?usp=sharing"
+                        },
+                        {
+                            "name": "08.Superposition _ Thevenin case-1.pdf",
+                            "link": "https://drive.google.com/file/d/1A2YbHpAgOzSmxKdiy_64mb3oVhX9Yy45/view?usp=sharing"
+                        },
+                        {
+                            "name": "09.Thevenin case 2,3 _ max power transfer.pdf",
+                            "link": "https://drive.google.com/file/d/1AEIlru5G8I2xTPOx2eW_dN5NuXFHfRjM/view?usp=sharing"
                         }
                     ]
                 }

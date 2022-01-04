@@ -1,5 +1,5 @@
 var fs = require('fs')
-const compareJSON = require('./compareFiles').compareFiles
+const mergeDeep = require('./mergeDeep').mergeDeep
 
 const dir = './Folders'
 
@@ -12,7 +12,8 @@ obj.credits = ["name1 - year", "name2 - 2019", "name3 - 2018"]
 const oldLINKSfile = require('../LINKS.json')
 
 fs.rename('LINKS.json', 'LINKS-backup.json', (e) => console.log('ERROR: '+e))
-let compare = compareJSON(obj, oldLINKSfile)
+fs.writeFile('test.json', JSON.stringify(obj, null, 4), (e) => console.log('ERROR: '+e))
+let compare = mergeDeep(obj, oldLINKSfile)
 fs.writeFile('LINKS.json', JSON.stringify(compare, null, 4), (e) => console.log('ERROR: '+e))
 
 /**
