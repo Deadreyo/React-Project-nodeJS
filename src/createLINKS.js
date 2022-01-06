@@ -15,6 +15,7 @@ fs.rename('LINKS.json', 'LINKS-backup.json', (e) => console.log('ERROR: '+e))
 fs.writeFile('test.json', JSON.stringify(obj, null, 4), (e) => console.log('ERROR: '+e))
 let compare = mergeDeep(obj, oldLINKSfile)
 fs.writeFile('LINKS.json', JSON.stringify(compare, null, 4), (e) => console.log('ERROR: '+e))
+fs.writeFile(`./backups/`+compare['name']+'.json', JSON.stringify(compare, null, 4), (e) => console.log('ERROR: '+e))
 
 /**
  * Renames the old LINKS file to "LINKS-backup"

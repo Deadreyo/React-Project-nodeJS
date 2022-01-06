@@ -2,37 +2,10 @@
     "name": "electrical",
     "buttons": [
         {
-            "name": "logic_design"
+            "name": "Logic Design"
         },
         {
-            "name": "electrical_circuits_1"
-        },
-        {
-            "name": "unspeci",
-            "buttons": [
-                {
-                    "name": "item1"
-                }
-            ]
-        },
-        {
-            "name": "unspecified_yet",
-            "buttons": [
-                {
-                    "name": "item1"
-                }
-            ]
-        },
-        {
-            "name": "unspn",
-            "buttons": [
-                {
-                    "name": "item1"
-                }
-            ]
-        },
-        {
-            "name": "unspecified_yet"
+            "name": "Electrical Circuits 1"
         }
     ]
 }
