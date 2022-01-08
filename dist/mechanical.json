@@ -2,12 +2,6 @@
     "name": "electrical",
     "buttons": [
         {
-            "name": "Logic Design"
-        },
-        {
-            "name": "Electrical Circuits 1"
-        },
-        {
             "name": "Probability and Statistics"
         }
     ]
