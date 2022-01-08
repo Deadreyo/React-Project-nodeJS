@@ -98,6 +98,10 @@
                         {
                             "name": "Spring 2019 - 20.pdf",
                             "link": "https://drive.google.com/file/d/1io2apFf3paW5bUlFZ8doqslLDhWGWmzC/view?usp=sharing"
+                        },
+                        {
+                            "name": "Summer 2021 - 21.pdf",
+                            "link": "https://drive.google.com/file/d/1UZKh7tKjQZRphlgLc4qVfcpMoha_3imL/view?usp=sharing"
                         }
                     ]
                 }
@@ -181,7 +185,7 @@
             ]
         },
         {
-            "name": "Lectures",
+            "name": "Lecture Notes",
             "children": [
                 {
                     "name": "Abdelrahman Mostafa - 20",
@@ -270,7 +274,64 @@
                     ]
                 },
                 {
-                    "name": "Lectures - 19",
+                    "name": "Lina Sawwan - 20",
+                    "children": [
+                        {
+                            "name": "lect 1.pdf",
+                            "link": "https://drive.google.com/file/d/1x5nSE9 TEc9a3IaWHmjGt3AmVtyziXMt/view?usp=sharing"
+                        },
+                        {
+                            "name": "lect 10.pdf",
+                            "link": "https://drive.google.com/file/d/1GpbxS-lvqdM pBnEUEezLjn93D38Cd8N/view?usp=sharing"
+                        },
+                        {
+                            "name": "lect 11.pdf",
+                            "link": "https://drive.google.com/file/d/1LPRZ3ihG-Tu6XNT4dGtwQIFeawNpZ6Pi/view?usp=sharing"
+                        },
+                        {
+                            "name": "lect 12.pdf",
+                            "link": "https://drive.google.com/file/d/1La KFaRG4u2 45uBrGWxRmJsAOZVoLlB/view?usp=sharing"
+                        },
+                        {
+                            "name": "lect 2.pdf",
+                            "link": "https://drive.google.com/file/d/1znKhyKkMJZkLQinE2ZKlV8r4XEce28jt/view?usp=sharing"
+                        },
+                        {
+                            "name": "lect 3.pdf",
+                            "link": "https://drive.google.com/file/d/105TYcgv5dCh0h9GQslVNLPxedzlSWKBZ/view?usp=sharing"
+                        },
+                        {
+                            "name": "lect 4.pdf",
+                            "link": "https://drive.google.com/file/d/13YXa77rospw0zogUm28QSsCegIeRw21z/view?usp=sharing"
+                        },
+                        {
+                            "name": "lect 5.pdf",
+                            "link": "https://drive.google.com/file/d/13 bIbwHiRHYJcy vgxZ9SLJn5cKp xeB/view?usp=sharing"
+                        },
+                        {
+                            "name": "lect 6.pdf",
+                            "link": "https://drive.google.com/file/d/166rDSSLcODSCFY93EaFI5BOo2Fcqz5CE/view?usp=sharing"
+                        },
+                        {
+                            "name": "lect 7.pdf",
+                            "link": "https://drive.google.com/file/d/1DSHt ddz2q-Hu4nZSzKgOhe10wv1ps5V/view?usp=sharing"
+                        },
+                        {
+                            "name": "lect 8.pdf",
+                            "link": "https://drive.google.com/file/d/1FhVvteJWSjKBpzgYryb7hOfpi4H2l aA/view?usp=sharing"
+                        },
+                        {
+                            "name": "lect 9.pdf",
+                            "link": "https://drive.google.com/file/d/1GCn96obdLR4jRM7Gy8pyxXp-K0KL4VxE/view?usp=sharing"
+                        }
+                    ]
+                },
+                {
+                    "name": "note - 21.txt",
+                    "note": "Special thanks for Note Writers of 2021 for their effort. Your effort is highly appreciated and we thank you deeply even if we don't know who you are."
+                },
+                {
+                    "name": "Notes 2019 - 19",
                     "children": [
                         {
                             "name": "Lecture 1.pdf",
@@ -323,55 +384,75 @@
                     ]
                 },
                 {
-                    "name": "Lina Sawwan - 20",
+                    "name": "Notes 2021 - 21",
                     "children": [
                         {
-                            "name": "lect 1.pdf",
-                            "link": "https://drive.google.com/file/d/1x5nSE9 TEc9a3IaWHmjGt3AmVtyziXMt/view?usp=sharing"
+                            "name": "k-map rules.pdf",
+                            "link": "https://drive.google.com/file/d/10b7Oosa0TGJ-4HFeWaQXH6w717M2VWHc/view?usp=sharing"
                         },
                         {
-                            "name": "lect 10.pdf",
-                            "link": "https://drive.google.com/file/d/1GpbxS-lvqdM pBnEUEezLjn93D38Cd8N/view?usp=sharing"
+                            "name": "Lecture 1,2,3.pdf",
+                            "link": "https://drive.google.com/file/d/1v0d0e7UUT_Rsv6_Oc7SD8UV2pHlibml0/view?usp=sharing"
                         },
                         {
-                            "name": "lect 11.pdf",
-                            "link": "https://drive.google.com/file/d/1LPRZ3ihG-Tu6XNT4dGtwQIFeawNpZ6Pi/view?usp=sharing"
+                            "name": "Lecture 10.pdf",
+                            "link": "https://drive.google.com/file/d/1rHrKW7SyWyYLCXZ9yM-zFqcNrmcGfbOy/view?usp=sharing"
                         },
                         {
-                            "name": "lect 12.pdf",
-                            "link": "https://drive.google.com/file/d/1La KFaRG4u2 45uBrGWxRmJsAOZVoLlB/view?usp=sharing"
+                            "name": "Lecture 11.pdf",
+                            "link": "https://drive.google.com/file/d/1NRHEUBTeEYaS30HOv2QrLbu3liuBC2F0/view?usp=sharing"
                         },
                         {
-                            "name": "lect 2.pdf",
-                            "link": "https://drive.google.com/file/d/1znKhyKkMJZkLQinE2ZKlV8r4XEce28jt/view?usp=sharing"
+                            "name": "Lecture 12 (final).pdf",
+                            "link": "https://drive.google.com/file/d/1TWLvU3gsaFjg9-NNhpNPbKdHFZpsO4QL/view?usp=sharing"
                         },
                         {
-                            "name": "lect 3.pdf",
-                            "link": "https://drive.google.com/file/d/105TYcgv5dCh0h9GQslVNLPxedzlSWKBZ/view?usp=sharing"
+                            "name": "Lecture 2 (another).pdf",
+                            "link": "https://drive.google.com/file/d/1jDefkS7EhTDpg5nDc85G9NcDIYzCprgB/view?usp=sharing"
                         },
                         {
-                            "name": "lect 4.pdf",
-                            "link": "https://drive.google.com/file/d/13YXa77rospw0zogUm28QSsCegIeRw21z/view?usp=sharing"
+                            "name": "Lecture 2.pdf",
+                            "link": "https://drive.google.com/file/d/1Q_EztlLrW-3aDjBx30rAcwr_QDNgYBIv/view?usp=sharing"
                         },
                         {
-                            "name": "lect 5.pdf",
-                            "link": "https://drive.google.com/file/d/13 bIbwHiRHYJcy vgxZ9SLJn5cKp xeB/view?usp=sharing"
+                            "name": "Lecture 3 (another).pdf",
+                            "link": "https://drive.google.com/file/d/13cs9EAglhbHpKi3Ebkjxlfbmkdl_9-cz/view?usp=sharing"
                         },
                         {
-                            "name": "lect 6.pdf",
-                            "link": "https://drive.google.com/file/d/166rDSSLcODSCFY93EaFI5BOo2Fcqz5CE/view?usp=sharing"
+                            "name": "Lecture 3.pdf",
+                            "link": "https://drive.google.com/file/d/1C_OTE1c1tGVitJQtFVFfm3W9k0zd7PcC/view?usp=sharing"
                         },
                         {
-                            "name": "lect 7.pdf",
-                            "link": "https://drive.google.com/file/d/1DSHt ddz2q-Hu4nZSzKgOhe10wv1ps5V/view?usp=sharing"
+                            "name": "Lecture 4 (another).pdf",
+                            "link": "https://drive.google.com/file/d/1EO-0emdNqxJuXndN1-bHFtEeJBOWyMLz/view?usp=sharing"
                         },
                         {
-                            "name": "lect 8.pdf",
-                            "link": "https://drive.google.com/file/d/1FhVvteJWSjKBpzgYryb7hOfpi4H2l aA/view?usp=sharing"
+                            "name": "Lecture 4.pdf",
+                            "link": "https://drive.google.com/file/d/1_ibulFdtU5vbi_Y4lEa8_EnAxqPuEEs-/view?usp=sharing"
                         },
                         {
-                            "name": "lect 9.pdf",
-                            "link": "https://drive.google.com/file/d/1GCn96obdLR4jRM7Gy8pyxXp-K0KL4VxE/view?usp=sharing"
+                            "name": "Lecture 5 (another).pdf",
+                            "link": "https://drive.google.com/file/d/18OfcefSG-XMVFzr33GO9_xXxpKqxCnjp/view?usp=sharing"
+                        },
+                        {
+                            "name": "Lecture 5.pdf",
+                            "link": "https://drive.google.com/file/d/1v0xHHa0XD8m0Yqm1SeH7JrmyR9Jw_TAa/view?usp=sharing"
+                        },
+                        {
+                            "name": "Lecture 6.pdf",
+                            "link": "https://drive.google.com/file/d/1PGuEK8ofHpbquggqB_d4-_nGESl1doxb/view?usp=sharing"
+                        },
+                        {
+                            "name": "Lecture 7.pdf",
+                            "link": "https://drive.google.com/file/d/1ghmmfkFCU5INomWWCtcyJsi4JqaLtsBJ/view?usp=sharing"
+                        },
+                        {
+                            "name": "Lecture 8.pdf",
+                            "link": "https://drive.google.com/file/d/1w9NsKUccd3UbPoO523DQ2UWb8L8Gnvv_/view?usp=sharing"
+                        },
+                        {
+                            "name": "Lecture 9.pdf",
+                            "link": "https://drive.google.com/file/d/101UHC-yZRS0UmJ-8wzDGqOaN_ab7YhWr/view?usp=sharing"
                         }
                     ]
                 }
@@ -396,11 +477,19 @@
         },
         {
             "name": "note.txt",
-            "note": "This is a collection of 2020 and 2019 drives. 2021 hasn't been included yet."
+            "note": "Due to the lack of Booklets, we can study by revising the Lecture Notes and solving it's examples, and by solving the Sheets again. Sheet solutions are present. If any booklets are made, kindly contact me on Facebook to add them."
         },
         {
             "name": "Project",
             "children": [
+                {
+                    "name": "Adder - 21.pdf",
+                    "link": "https://drive.google.com/file/d/10RbiBCaYro47mqDKTLfOMbma_YLWWQs3/view?usp=sharing"
+                },
+                {
+                    "name": "Counter - 21.pdf",
+                    "link": "https://drive.google.com/file/d/10WqX0nyzMWI6yPsPMmo8I5-OhekeR5Yn/view?usp=sharing"
+                },
                 {
                     "name": "Counter assignment - 20.pdf",
                     "link": "https://drive.google.com/file/d/1cGB1s2yLDH36JK4Wflh-nm9cIscBZ0hz/view?usp=sharing"
@@ -510,7 +599,7 @@
                     ]
                 },
                 {
-                    "name": "Fall 2020 - 20",
+                    "name": "Fall 2020 and 2021 - 20",
                     "children": [
                         {
                             "name": "Sheet1 - 20.pdf",
@@ -631,6 +720,10 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "name": "note.txt",
+                    "note": "Sheets of 2021 are the same as 2020. However, sheets of 2019 are different. Solutions for both are provided."
                 }
             ]
         },
@@ -701,6 +794,89 @@
                         {
                             "name": "Part 2 (after midterm).pdf",
                             "link": "https://drive.google.com/file/d/1v3anrTGQvkvzJr10A1kew2rGpycgkHT-/view?usp=sharing"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Tutorials",
+            "children": [
+                {
+                    "name": "Eng Ahmed fathy - 21",
+                    "children": [
+                        {
+                            "name": "Tutorial1.pdf",
+                            "link": "https://drive.google.com/file/d/1v59vwAS49UbkNa1ES0hRpuzKlVE_PXHj/view?usp=sharing"
+                        },
+                        {
+                            "name": "Tutorial2.pdf",
+                            "link": "https://drive.google.com/file/d/1Cod0fdjclKgoslpy78YYWGv-58mMcUbi/view?usp=sharing"
+                        },
+                        {
+                            "name": "Tutorial3.pdf",
+                            "link": "https://drive.google.com/file/d/1GvEf2QVajgcM6Y1JVci9jOvp8z6tz7Y3/view?usp=sharing"
+                        },
+                        {
+                            "name": "Tutorial4.pdf",
+                            "link": "https://drive.google.com/file/d/1UPsYS4DMPQlPgfyPxroqjsX3pxT5ydQ_/view?usp=sharing"
+                        },
+                        {
+                            "name": "Tutorial5.pdf",
+                            "link": "https://drive.google.com/file/d/1EOsyewFxULJqNtzVkqvsRYfgTaR3N1dM/view?usp=sharing"
+                        },
+                        {
+                            "name": "Tutorial6.pdf",
+                            "link": "https://drive.google.com/file/d/16k9KUZFeEwoqxhw2wXpyohJi2HT7EbOR/view?usp=sharing"
+                        },
+                        {
+                            "name": "Tutorial7.pdf",
+                            "link": "https://drive.google.com/file/d/1y-O0cmPRa2NLtm8A4NbKM4xlhySyQZwd/view?usp=sharing"
+                        },
+                        {
+                            "name": "Tutorial9.pdf",
+                            "link": "https://drive.google.com/file/d/1ORVKjfTJChR9RbNb1C_lBMfUQtsZa8rl/view?usp=sharing"
+                        }
+                    ]
+                },
+                {
+                    "name": "Eng. Mohamed Osama - 21",
+                    "children": [
+                        {
+                            "name": "boolean_examples.pdf",
+                            "link": "https://drive.google.com/file/d/1DxHgUaNNiVhgfhrgAK67YXCkcNdFtcUx/view?usp=sharing"
+                        },
+                        {
+                            "name": "Tutorial (1).pdf",
+                            "link": "https://drive.google.com/file/d/1zKK-4WMQ9aJwhDLjb_UT7GbATZU5PQC4/view?usp=sharing"
+                        },
+                        {
+                            "name": "Tutorial (2).pdf",
+                            "link": "https://drive.google.com/file/d/1C36pNu4ho-UxDyXu09PCGj4crn4Jd0K8/view?usp=sharing"
+                        },
+                        {
+                            "name": "Tutorial (4).pdf",
+                            "link": "https://drive.google.com/file/d/1dg93smqHJCX2kk_8WXnGD3wjGAfZmT9e/view?usp=sharing"
+                        },
+                        {
+                            "name": "Tutorial (5).pdf",
+                            "link": "https://drive.google.com/file/d/13MbX364i7vs5mAY8xoaig2yu_2Lau2i0/view?usp=sharing"
+                        },
+                        {
+                            "name": "Tutorial (6).pdf",
+                            "link": "https://drive.google.com/file/d/19wTj8uWTQgE3YUSurq54hpZ8bhshpY-3/view?usp=sharing"
+                        },
+                        {
+                            "name": "Tutorial (7).pdf",
+                            "link": "https://drive.google.com/file/d/1J57vctEpKPHjwkMj-pTcQZLWK1IDZiqP/view?usp=sharing"
+                        },
+                        {
+                            "name": "Tutorial (8).pdf",
+                            "link": "https://drive.google.com/file/d/1Zver-rd45RV_A-WyocACf2cg5bDyrqMS/view?usp=sharing"
+                        },
+                        {
+                            "name": "Tutorial (9).pdf",
+                            "link": "https://drive.google.com/file/d/1_XuZnTOdNcAeKRBWHIxdY_mu5P5RrLlE/view?usp=sharing"
                         }
                     ]
                 }
