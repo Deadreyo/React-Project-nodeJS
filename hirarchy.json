@@ -1,161 +1,355 @@
 {
-    "name": "Probability_and_Statistics",
+    "name": "Electrical_Circuits_1",
     "children": [
         {
-            "name": "Assignments",
+            "name": "Booklets",
             "children": [
                 {
-                    "name": "Assignment_1.pdf"
-                },
-                {
-                    "name": "Assignment_2.pdf"
-                },
-                {
-                    "name": "Assignment_3.pdf"
-                },
-                {
-                    "name": "Assignment_4.pdf"
-                },
-                {
-                    "name": "Solutions",
+                    "name": "AC",
                     "children": [
                         {
-                            "name": "Assignment_1_solution_.pdf"
+                            "name": "AC_circuits_eng_ibrahim_-.pdf"
                         },
                         {
-                            "name": "assignment_2_solutions.pdf"
+                            "name": "AC_power_calculations.pdf"
                         },
                         {
-                            "name": "Assignment_3_solutions.pdf"
+                            "name": "AC_Steady_State_Analysis.pdf"
+                        },
+                        {
+                            "name": "Circuits_11.pdf"
+                        },
+                        {
+                            "name": "Circuits_9.pdf"
+                        },
+                        {
+                            "name": "note1.txt",
+                            "note": "All are from 2020 Drive."
+                        },
+                        {
+                            "name": "Power_Calculation.pdf"
+                        },
+                        {
+                            "name": "power_calculations_-_Eng_Ibrahim.pdf"
+                        },
+                        {
+                            "name": "Power_Triangle_and_Power_factor_correction.pdf"
+                        },
+                        {
+                            "name": "Some_power_notes.pdf"
+                        }
+                    ]
+                },
+                {
+                    "name": "DC",
+                    "children": [
+                        {
+                            "date": "20",
+                            "name": "circuits_1.pdf"
+                        },
+                        {
+                            "date": "20",
+                            "name": "circuits_2.pdf"
+                        },
+                        {
+                            "date": "20",
+                            "name": "Circuits_3.pdf"
+                        },
+                        {
+                            "date": "20",
+                            "name": "Circuits_4.pdf"
+                        },
+                        {
+                            "date": "20",
+                            "name": "Circuits_5_Nodal_Analysis.pdf"
+                        },
+                        {
+                            "name": "extra_problems_on_Dr_Adel.pdf"
+                        },
+                        {
+                            "date": "20",
+                            "name": "KVL___KCL_gathered_section.pdf"
+                        },
+                        {
+                            "date": "20",
+                            "name": "mesh_analysis___examples.pdf"
+                        },
+                        {
+                            "date": "20",
+                            "name": "Mesh_analysis(6).pdf"
+                        },
+                        {
+                            "date": "20",
+                            "name": "note1.txt",
+                            "note": "Booklets of Eng Ibrahim are in the Tutorials folder."
+                        },
+                        {
+                            "date": "20",
+                            "name": "solving_equations_Krammer.pdf"
+                        },
+                        {
+                            "date": "19",
+                            "name": "Superposition(7).pdf"
+                        },
+                        {
+                            "date": "19",
+                            "name": "Thevenin(8).pdf"
+                        }
+                    ]
+                },
+                {
+                    "name": "Dr_Nabil_Hamed_-_AC",
+                    "children": [
+                        {
+                            "name": "Mesh_and_Nodal_AC.pdf"
+                        },
+                        {
+                            "name": "note1.txt",
+                            "note": "These files are not in any of the Drives, but were mentioned in Dr Nabil's 2020 lectures."
+                        },
+                        {
+                            "name": "power_calculations.pdf"
+                        },
+                        {
+                            "name": "Revision_1.pdf"
+                        },
+                        {
+                            "name": "Revision_2.pdf"
+                        },
+                        {
+                            "name": "Superposition_Mesh_Nodal.pdf"
+                        },
+                        {
+                            "name": "Thevenin_n_Max_Power.pdf"
                         }
                     ]
                 }
             ]
         },
         {
-            "name": "Booklets_n_Final_Revisions",
+            "name": "Lectures_Slides_n_Notes",
             "children": [
                 {
-                    "name": "Eng_Ahmed_Refaat",
+                    "name": "Dr._Adel_Omara",
                     "children": [
                         {
-                            "name": "Probability_1.pdf"
+                            "name": "Slides",
+                            "children": [
+                                {
+                                    "date": "21",
+                                    "name": "delta_star_Equivalent_Resistance_2.pdf"
+                                },
+                                {
+                                    "date": "21",
+                                    "name": "Lecture_1.pdf"
+                                },
+                                {
+                                    "date": "21",
+                                    "name": "Lecture_3_Current_divider.pdf"
+                                },
+                                {
+                                    "name": "notes1.txt",
+                                    "note": "Slides of 2020 & 2019 were not put here."
+                                },
+                                {
+                                    "date": "21",
+                                    "name": "Solved_Examples.pdf"
+                                },
+                                {
+                                    "date": "21",
+                                    "name": "Source-Transformation.pdf"
+                                }
+                            ]
                         },
                         {
-                            "name": "Probability_2.pdf"
-                        },
-                        {
-                            "name": "Probability_3.pdf"
-                        },
-                        {
-                            "name": "Probability_4.pdf"
-                        },
-                        {
-                            "name": "Probability_5.pdf"
+                            "name": "Written_Notes",
+                            "children": [
+                                {
+                                    "date": "19",
+                                    "name": "Lecture_1.pdf"
+                                },
+                                {
+                                    "date": "20",
+                                    "name": "Lecture_1.pdf"
+                                },
+                                {
+                                    "date": "21",
+                                    "name": "Lecture_1.pdf"
+                                },
+                                {
+                                    "date": "19",
+                                    "name": "Lecture_2.pdf"
+                                },
+                                {
+                                    "date": "20",
+                                    "name": "Lecture_2.pdf"
+                                },
+                                {
+                                    "date": "21",
+                                    "name": "Lecture_2.pdf"
+                                },
+                                {
+                                    "date": "20",
+                                    "name": "Lecture_3.pdf"
+                                },
+                                {
+                                    "date": "21",
+                                    "name": "Lecture_3.pdf"
+                                },
+                                {
+                                    "date": "20",
+                                    "name": "Source_Transformation.pdf"
+                                }
+                            ]
                         }
                     ]
                 },
                 {
-                    "name": "Final_Revisions",
+                    "name": "Dr._Nabil_Hamed",
                     "children": [
                         {
-                            "name": "Continous_Variable_-_Joint_Probability.pdf"
-                        },
-                        {
-                            "name": "Probability_Revision.pdf"
-                        },
-                        {
-                            "name": "Random_Variables_-_Statistics.pdf"
-                        },
-                        {
-                            "name": "Statistics.pdf"
+                            "name": "Written_Notes",
+                            "children": [
+                                {
+                                    "date": "20",
+                                    "name": "AC_lecture_2.pdf"
+                                },
+                                {
+                                    "date": "20",
+                                    "name": "AC_lecture_3.pdf"
+                                },
+                                {
+                                    "date": "19",
+                                    "name": "Lecture_1.pdf"
+                                },
+                                {
+                                    "date": "19",
+                                    "name": "Lecture_2.pdf"
+                                },
+                                {
+                                    "date": "19",
+                                    "name": "Lecture_3.pdf"
+                                },
+                                {
+                                    "date": "19",
+                                    "name": "Lecture_4.pdf"
+                                },
+                                {
+                                    "date": "19",
+                                    "name": "Lecture_5.pdf"
+                                },
+                                {
+                                    "date": "19",
+                                    "name": "Lecture_6.pdf"
+                                },
+                                {
+                                    "date": "19",
+                                    "name": "Lecture_7.pdf"
+                                },
+                                {
+                                    "name": "note1.txt.txt",
+                                    "note": "There are no notes on 2021 drive."
+                                }
+                            ]
                         }
                     ]
                 },
                 {
-                    "name": "Mohamed_Maher",
+                    "name": "Dr._Walid_Helmy",
                     "children": [
                         {
-                            "name": "Bayes__Rule.pdf"
+                            "name": "Slides",
+                            "children": [
+                                {
+                                    "date": "21",
+                                    "name": "Mesh_&_Nodal.pdf"
+                                },
+                                {
+                                    "date": "21",
+                                    "name": "Superposition_&_Thevenin.pdf"
+                                },
+                                {
+                                    "date": "21",
+                                    "name": "Thevenin_Case_3.pdf"
+                                }
+                            ]
                         },
                         {
-                            "name": "Central_Tendancy.pdf"
-                        },
-                        {
-                            "name": "Data_Organization.pdf"
-                        },
-                        {
-                            "name": "introduction_to_probability.pdf"
-                        },
-                        {
-                            "name": "Introduction_to_statistics.pdf"
-                        },
-                        {
-                            "name": "measures_of_position.pdf"
-                        },
-                        {
-                            "name": "Measures_of_variation.pdf"
-                        },
-                        {
-                            "name": "Permutation_-_combination_-_Conditional_probability.pdf"
-                        },
-                        {
-                            "name": "Quick_Revision.pdf"
-                        },
-                        {
-                            "name": "Quiz_2_prob_answers.pdf"
-                        },
-                        {
-                            "name": "Random_Variables.pdf"
-                        }
-                    ]
-                },
-                {
-                    "name": "More_from_Civil",
-                    "children": [
-                        {
-                            "name": "probability_1.pdf"
-                        },
-                        {
-                            "name": "probability_2.pdf"
-                        },
-                        {
-                            "name": "probability_3.pdf"
-                        },
-                        {
-                            "name": "Probability_4.pdf"
-                        },
-                        {
-                            "name": "probability_5.pdf"
-                        },
-                        {
-                            "name": "probability_6.pdf"
+                            "name": "Written_Notes",
+                            "children": [
+                                {
+                                    "date": "19",
+                                    "name": "Lecture_1.pdf"
+                                },
+                                {
+                                    "date": "19",
+                                    "name": "Lecture_2.pdf"
+                                },
+                                {
+                                    "date": "19",
+                                    "name": "Lecture_3.pdf"
+                                },
+                                {
+                                    "date": "19",
+                                    "name": "Lecture_4.pdf"
+                                },
+                                {
+                                    "name": "note1.txt.txt",
+                                    "note": "There are no notes on 2021 drive."
+                                }
+                            ]
                         }
                     ]
                 }
             ]
         },
         {
-            "name": "Exams",
+            "name": "note.txt",
+            "note": "To add new files, contact me through the Facebook post."
+        },
+        {
+            "name": "Previous_Exams",
             "children": [
                 {
                     "name": "Final",
                     "children": [
                         {
-                            "name": "Fall_2015.pdf"
+                            "name": "2013_n_earlier_Soln(Past).pdf"
                         },
                         {
-                            "name": "note.txt",
-                            "note": "Civil Drive is the only one that have final exams. Need more exams and solutions. If available, contact me to add them."
+                            "name": "Circuits_Exams_(2012_till_2019).pdf"
                         },
                         {
-                            "name": "Spring_2016.pdf"
+                            "name": "Circuits_Fall_2020.pdf"
                         },
                         {
-                            "name": "Spring_2019.pdf"
+                            "name": "Final_2019_2nd_Semester.pdf"
                         },
                         {
-                            "name": "Summer_2019.pdf"
+                            "name": "Mech_-_Final_2018_1st_Semester.pdf"
+                        },
+                        {
+                            "name": "Mech_-_Final_2018_2nd_Semester.pdf"
+                        },
+                        {
+                            "name": "notes1.txt",
+                            "note": "Note: Exams & solutions are needed. If available, kindly contact me to add them."
+                        },
+                        {
+                            "name": "notes2.txt",
+                            "note": "Some exams are from the Mechanical department, and some have the code EPM113. I assume that was the former code of the course."
+                        },
+                        {
+                            "name": "Solutions_2012_to_2019_-_Yasmeen_Abdelrazek.pdf"
+                        },
+                        {
+                            "name": "spring_2020.pdf"
+                        },
+                        {
+                            "name": "Spring_2021.pdf"
+                        },
+                        {
+                            "name": "summer_2021.pdf"
                         }
                     ]
                 },
@@ -163,170 +357,305 @@
                     "name": "Midterm",
                     "children": [
                         {
-                            "name": "Fall_2015.pdf"
+                            "name": "Exams_w_Ahmed_Mahmoud.pdf"
                         },
                         {
-                            "name": "Fall_2016.pdf"
+                            "name": "Midterm_+_Solutions_-_Fall_2021.pdf"
                         },
                         {
-                            "name": "Fall_2020_-_solved.pdf"
+                            "name": "Solutions",
+                            "children": [
+                                {
+                                    "name": "2016-2017_solutions.pdf"
+                                },
+                                {
+                                    "name": "2017-2018_solutions.pdf"
+                                },
+                                {
+                                    "name": "[Fall_2020_Solution].pdf"
+                                }
+                            ]
                         },
                         {
-                            "name": "Spring_2019_-_solved.pdf"
+                            "name": "Summer_2021..pdf"
                         },
                         {
-                            "name": "Summer_2021.pdf"
+                            "name": "[2016-2017].pdf"
+                        },
+                        {
+                            "name": "[2017-2018].pdf"
+                        },
+                        {
+                            "name": "[Dec.2014].pdf"
+                        },
+                        {
+                            "name": "[Fall_2015].pdf"
+                        },
+                        {
+                            "name": "[Fall_2019].pdf"
+                        },
+                        {
+                            "name": "[Fall_2020].pdf"
+                        },
+                        {
+                            "name": "[Nov.2015].pdf"
                         }
                     ]
                 }
             ]
         },
         {
-            "name": "Lecture_Notes",
+            "name": "Revisions",
             "children": [
                 {
-                    "name": "Lecture1.pdf"
+                    "name": "Final",
+                    "children": [
+                        {
+                            "date": "19",
+                            "name": "Dr.Nabil_Hamed",
+                            "children": [
+                                {
+                                    "name": "Revision_1.pdf"
+                                },
+                                {
+                                    "name": "Revision_2.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "date": "19",
+                            "name": "E-Ahmed_Mahmoud_2019",
+                            "children": [
+                                {
+                                    "name": "part_1_-_AC_Circuit.pdf"
+                                },
+                                {
+                                    "name": "part_2_-_Dr_Waleed_n_AC_Power.pdf"
+                                },
+                                {
+                                    "name": "part_3_-_AC_Power_n_Phasor.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "date": "20",
+                            "name": "E-Ibrahim_Mahmoud_newer",
+                            "children": [
+                                {
+                                    "name": "Revision_(1).pdf"
+                                },
+                                {
+                                    "name": "Revision_(2).pdf"
+                                },
+                                {
+                                    "name": "Revision_(3).pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "date": "19",
+                            "name": "E-Ibrahim_Mahmoud_old",
+                            "children": [
+                                {
+                                    "name": "part_1.pdf"
+                                },
+                                {
+                                    "name": "part_2.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "date": "20",
+                            "name": "Eng_Ahmed_Mahmoud_2020",
+                            "children": [
+                                {
+                                    "name": "Final_Revision_1.pdf"
+                                },
+                                {
+                                    "name": "Final_Revision_2.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "note1.txt",
+                            "note": "A lot of the files here were present in multiple Drives, so I'm putting date of the oldest Drive that have them."
+                        }
+                    ]
                 },
                 {
-                    "name": "Lecture10.pdf"
-                },
-                {
-                    "name": "Lecture11.pdf"
-                },
-                {
-                    "name": "Lecture12.pdf"
-                },
-                {
-                    "name": "Lecture2.pdf"
-                },
-                {
-                    "name": "Lecture3.pdf"
-                },
-                {
-                    "name": "Lecture4.pdf"
-                },
-                {
-                    "name": "Lecture5.pdf"
-                },
-                {
-                    "name": "Lecture6.pdf"
-                },
-                {
-                    "name": "Lecture7-8.pdf"
-                },
-                {
-                    "name": "Lecture9.pdf"
+                    "name": "Midterm",
+                    "children": [
+                        {
+                            "name": "Midterm_Part_1_KVL_KCL_Reduction_Mesh_Nodal.pdf"
+                        },
+                        {
+                            "name": "Midterm_Part_2_Superpostion_Thevinin_Source_transformation.pdf"
+                        }
+                    ]
                 }
             ]
         },
         {
-            "name": "LMS_Sheets_w_Solutions",
+            "name": "Sheets_from_University",
             "children": [
                 {
-                    "name": "Section_1.pdf"
+                    "date": "19",
+                    "name": "AC",
+                    "children": [
+                        {
+                            "name": "note1.txt",
+                            "note": "Couldn't find solutions."
+                        },
+                        {
+                            "name": "Sheet_1_AC.pdf"
+                        },
+                        {
+                            "name": "Sheet_2_Theorems.pdf"
+                        },
+                        {
+                            "name": "Sheet_3_Phasor.pdf"
+                        }
+                    ]
                 },
                 {
-                    "name": "Section_2.pdf"
-                },
-                {
-                    "name": "Section_3.pdf"
-                },
-                {
-                    "name": "Section_4.pdf"
-                },
-                {
-                    "name": "Section_5.pdf"
-                },
-                {
-                    "name": "Section_6.pdf"
-                },
-                {
-                    "name": "Section_7.pdf"
-                },
-                {
-                    "name": "Section_8.pdf"
-                },
-                {
-                    "name": "Section_9.pdf"
+                    "date": "21",
+                    "name": "DC",
+                    "children": [
+                        {
+                            "name": "notes1.txt",
+                            "note": "Most of the problems are answered in the booklets inside DC Booklets folder, and in Eng Ibrahim Tutorials folder. My advice is to study directly from those booklets instead of sheets."
+                        },
+                        {
+                            "name": "Sheet_1_kvl_kcl.pdf"
+                        },
+                        {
+                            "name": "Sheet_2_-Circuit_Reduction___Delta-Star.pdf"
+                        },
+                        {
+                            "name": "Sheet_3_-_Source_Transformation.pdf"
+                        },
+                        {
+                            "name": "Sheet_4__Mesh_and_Nodal_.pdf"
+                        },
+                        {
+                            "name": "Sheet_5_-Super_position-_.pdf"
+                        },
+                        {
+                            "name": "Sheet_6_-Thevenin-_.pdf"
+                        },
+                        {
+                            "name": "Sheet_7__Maximum_Power_Transfer_.pdf"
+                        }
+                    ]
                 }
             ]
         },
         {
-            "name": "note.txt",
-            "note": "This is a huge collection, gathered from 4 drives; 2025 Architecture, 2025 Civil, 2025 Electrical & 2025 Mechanical."
-        },
-        {
-            "name": "note2.txt",
-            "note": "Lecture Slides & Tutorials/Sections were not gathered here. If you need them, go to the original Drives. Drives' links are at the bottom of the page."
-        },
-        {
-            "name": "Student_Notes",
+            "name": "Summaries_n_Notes",
             "children": [
                 {
-                    "name": "lec.1.pdf"
+                    "name": "AC_power_summary.pdf"
                 },
                 {
-                    "name": "lec.10.pdf"
+                    "date": "20",
+                    "name": "Circuits_final_notes.pdf"
                 },
                 {
-                    "name": "lec.11.pdf"
+                    "date": "19",
+                    "name": "Mahmoud_Mohsen_summary.pdf"
                 },
                 {
-                    "name": "lec.12_(final_lecture).pdf"
+                    "date": "21",
+                    "name": "Midterm_Summaries",
+                    "children": [
+                        {
+                            "name": "circuits_midterm.pdf"
+                        },
+                        {
+                            "name": "circuits_revision.pdf"
+                        }
+                    ]
                 },
                 {
-                    "name": "lec.2.pdf"
-                },
-                {
-                    "name": "lec.3.pdf"
-                },
-                {
-                    "name": "lec.4.pdf"
-                },
-                {
-                    "name": "lec.5.pdf"
-                },
-                {
-                    "name": "lec.6.pdf"
-                },
-                {
-                    "name": "lec.7.pdf"
-                },
-                {
-                    "name": "lec.8.pdf"
-                },
-                {
-                    "name": "lec.9.pdf"
-                },
-                {
-                    "name": "note.txt",
-                    "note": "Special thanks to the person who made these Student Notes on the 2025 Electrical Drive."
+                    "date": "19",
+                    "name": "Motasem_Tarek",
+                    "children": [
+                        {
+                            "name": "AC_circuits_summary.pdf"
+                        },
+                        {
+                            "name": "Ac_power_calculations_summary.pdf"
+                        },
+                        {
+                            "name": "DC_circuits_summary.pdf"
+                        }
+                    ]
                 }
             ]
         },
         {
-            "name": "Summaries",
+            "name": "Tutorials",
             "children": [
                 {
-                    "name": "Mind_map_on_statistics.pdf"
+                    "date": "19",
+                    "name": "Eng_Hazem_Hani",
+                    "children": [
+                        {
+                            "name": "notes1.txt",
+                            "note": "This was the only 'proper' collection of files I could find for Eng Hazem Hani."
+                        },
+                        {
+                            "name": "sec_2.pdf"
+                        },
+                        {
+                            "name": "sec_3.pdf"
+                        },
+                        {
+                            "name": "sec_4.pdf"
+                        },
+                        {
+                            "name": "sec_5.pdf"
+                        },
+                        {
+                            "name": "sec_7.pdf"
+                        },
+                        {
+                            "name": "sec_8.pdf"
+                        }
+                    ]
                 },
                 {
-                    "name": "probability_(1).pdf"
-                },
-                {
-                    "name": "statistics_(1).pdf"
-                },
-                {
-                    "name": "statistics_(2).pdf"
-                },
-                {
-                    "name": "statistics_(3).pdf"
-                },
-                {
-                    "name": "statistics_(4).pdf"
-                },
-                {
-                    "name": "statistics_(5).pdf"
+                    "date": "21",
+                    "name": "Eng_Ibrahim_Mahmoud",
+                    "children": [
+                        {
+                            "name": "01.sheet_kvl_kcl_solution.pdf"
+                        },
+                        {
+                            "name": "02.Circuit_reduction.pdf"
+                        },
+                        {
+                            "name": "03.source_transformation.pdf"
+                        },
+                        {
+                            "name": "04.extra_problems_(1).pdf"
+                        },
+                        {
+                            "name": "05.Revision_(1).pdf"
+                        },
+                        {
+                            "name": "06.section_nodal_analysis.pdf"
+                        },
+                        {
+                            "name": "07.mesh_analysis.pdf"
+                        },
+                        {
+                            "name": "08.Superposition___Thevenin_case-1.pdf"
+                        },
+                        {
+                            "name": "09.Thevenin_case_2,3___max_power_transfer.pdf"
+                        }
+                    ]
                 }
             ]
         }
