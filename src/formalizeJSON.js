@@ -22,6 +22,7 @@ const combineJSON = require('./combineJSON').combineJSON
 
 const hierarchy = require('../hirarchy.json')
 const LINKS = require('../LINKS.json')
+fs.writeFile(`./backups/`+LINKS['name']+'.json', JSON.stringify(LINKS, null, 4), (e) => console.log('ERROR: '+e))
 try{
     fs.rename('combined.json', 'combined-backup.json', (e) => console.log('ERROR: '+e))
 }catch(e){};
