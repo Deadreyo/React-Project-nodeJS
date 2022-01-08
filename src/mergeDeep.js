@@ -49,7 +49,8 @@ exports.mergeDeep = (target, ...sources) => {
             }
         } else {
             //neither an Object nor an Array. Directly overwrite it.
-            Object.assign(target, { [key]: source[key] });
+            
+            if(key !== 'name') Object.assign(target, { [key]: source[key] });
         }
       }
     }
