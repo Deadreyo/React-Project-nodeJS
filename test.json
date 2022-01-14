@@ -1,206 +1,444 @@
 {
-    "name": "Report Writing",
+    "name": "Probability and Statistics",
     "children": [
         {
-            "name": "Lecture Summaries",
+            "name": "Assignments",
             "children": [
                 {
-                    "name": "lecture 1 - 20.pdf",
+                    "name": "Assignment 1.pdf",
                     "link": ""
                 },
                 {
-                    "name": "lecture 2 - 20.pdf",
+                    "name": "Assignment 2.pdf",
                     "link": ""
                 },
                 {
-                    "name": "lecture 3 - 20.pdf",
+                    "name": "Assignment 3.pdf",
                     "link": ""
                 },
                 {
-                    "name": "lecture 4 - 20.pdf",
+                    "name": "Assignment 4.pdf",
                     "link": ""
                 },
                 {
-                    "name": "lecture 5 - 20.pdf",
+                    "name": "Solutions",
+                    "children": [
+                        {
+                            "name": "Assignment 1 solution .pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "assignment 2 solutions.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Assignment 3 solutions.pdf",
+                            "link": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Booklets n Final Revisions",
+            "children": [
+                {
+                    "name": "Eng Ahmed Refaat",
+                    "children": [
+                        {
+                            "name": "Probability 1.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Probability 2.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Probability 3.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Probability 4.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Probability 5.pdf",
+                            "link": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Final Revisions",
+                    "children": [
+                        {
+                            "name": "Continous Variable - Joint Probability - 20.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Prob Revision Part 1 - 21.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Prob Revision Part 2 - 21.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Probability Revision - 20.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Random Variables - Statistics - 20.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Statistics - 20.pdf",
+                            "link": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Mohamed Maher",
+                    "children": [
+                        {
+                            "name": "Bayes_ Rule.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Central Tendancy.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Data Organization.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "introduction to probability.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Introduction to statistics.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "measures of position.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Measures of variation.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Permutation - combination - Conditional probability.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Quick Revision.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Quiz 2 prob answers.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Random Variables.pdf",
+                            "link": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "More from Civil",
+                    "children": [
+                        {
+                            "name": "probability 1.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "probability 2.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "probability 3.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Probability 4.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "probability 5.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "probability 6.pdf",
+                            "link": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Exams",
+            "children": [
+                {
+                    "name": "Final",
+                    "children": [
+                        {
+                            "name": "Exams solutions.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Fall 2015.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Fall 2020 .pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Final Spring 2021.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "First semester 2021.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Spring 2016.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Spring 2019.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Summer 2019 M.Answer.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Summer 2019.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Summer 2020 .pdf",
+                            "link": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Midterm",
+                    "children": [
+                        {
+                            "name": "Fall 2015.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Fall 2016.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Fall 2020 - solved.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Spring 2019 - solved.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Summer 2021.pdf",
+                            "link": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Lecture Notes",
+            "children": [
+                {
+                    "name": "Lecture1.pdf",
                     "link": ""
                 },
                 {
-                    "name": "lecture 6 - 20.pdf",
+                    "name": "Lecture10.pdf",
                     "link": ""
                 },
                 {
-                    "name": "lecture 7 - 20.pdf",
+                    "name": "Lecture11.pdf",
                     "link": ""
                 },
                 {
-                    "name": "lecture 8 - 20.pdf",
+                    "name": "Lecture12.pdf",
+                    "link": ""
+                },
+                {
+                    "name": "Lecture2.pdf",
+                    "link": ""
+                },
+                {
+                    "name": "Lecture3.pdf",
+                    "link": ""
+                },
+                {
+                    "name": "Lecture4.pdf",
+                    "link": ""
+                },
+                {
+                    "name": "Lecture5.pdf",
+                    "link": ""
+                },
+                {
+                    "name": "Lecture6.pdf",
+                    "link": ""
+                },
+                {
+                    "name": "Lecture7-8.pdf",
+                    "link": ""
+                },
+                {
+                    "name": "Lecture9.pdf",
                     "link": ""
                 }
             ]
         },
         {
-            "name": "Lectures Slides",
+            "name": "LMS Sheets w Solutions",
             "children": [
                 {
-                    "name": "1. Tech Writ Prin mod. Lecture 1.PDF",
+                    "name": "Section 1.pdf",
                     "link": ""
                 },
                 {
-                    "name": "10. Lec 14 Presentation.PDF",
+                    "name": "Section 2.pdf",
                     "link": ""
                 },
                 {
-                    "name": "2. Reading Skills.PDF",
+                    "name": "Section 3.pdf",
                     "link": ""
                 },
                 {
-                    "name": "3. Pinterest language class.PDF",
+                    "name": "Section 4.pdf",
                     "link": ""
                 },
                 {
-                    "name": "4. Eats, shoots, leaves.PDF",
+                    "name": "Section 5.pdf",
                     "link": ""
                 },
                 {
-                    "name": "5. Typography and Writing.PDF",
+                    "name": "Section 6.pdf",
                     "link": ""
                 },
                 {
-                    "name": "6.1 LetMemEmail2.PDF",
+                    "name": "Section 7.pdf",
                     "link": ""
                 },
                 {
-                    "name": "6.2 15 email etiquette rules comp.PDF",
+                    "name": "Section 8.pdf",
                     "link": ""
                 },
                 {
-                    "name": "6.3 email etiquette-3.PDF",
-                    "link": ""
-                },
-                {
-                    "name": "7.1 Spreadsheet Graphics mod.PDF",
-                    "link": ""
-                },
-                {
-                    "name": "7.2 Spreadsheet Graphics Examples.PDF",
-                    "link": ""
-                },
-                {
-                    "name": "8. How to Use Styles mod.PDF",
-                    "link": ""
-                },
-                {
-                    "name": "9. FromalReport.pdf",
+                    "name": "Section 9.pdf",
                     "link": ""
                 }
             ]
         },
         {
             "name": "note.txt",
-            "note": "This is from 2021 Electrical & Civil drives, and limitied items from 2020 Architecture. Unfortunately, the available resources are pretty limited."
+            "note": "This is a huge collection, gathered from 4 drives; 2025 Architecture, 2025 Civil, 2025 Electrical & 2025 Mechanical."
         },
         {
             "name": "note2.txt",
-            "note": "NOTICE: Some parts of PDFs and some content may be OUTDATED. (Changed or cancelled)"
+            "note": "Lecture Slides & Tutorials/Sections were not gathered here. If you need them, go to the original Drives. Drives' links are at the bottom of the page."
         },
         {
-            "name": "Questions n Exams",
+            "name": "note3.txt",
+            "note": "6 new items were added to Final Exams folder."
+        },
+        {
+            "name": "Student Notes",
             "children": [
                 {
-                    "name": "Additional Questions on all - 21.pdf",
+                    "name": "lec.1.pdf",
                     "link": ""
                 },
                 {
-                    "name": "ASU112 Final Revision - 21.pdf",
+                    "name": "lec.10.pdf",
                     "link": ""
                 },
                 {
-                    "name": "ASU112 Final Revision Solutions - 21.pdf",
+                    "name": "lec.11.pdf",
                     "link": ""
                 },
                 {
-                    "name": "lecture 1 - 21.pdf",
+                    "name": "lec.12 (final lecture).pdf",
                     "link": ""
                 },
                 {
-                    "name": "lecture 11 - 21.pdf",
+                    "name": "lec.2.pdf",
                     "link": ""
                 },
                 {
-                    "name": "lecture 2 - 21.pdf",
+                    "name": "lec.3.pdf",
                     "link": ""
                 },
                 {
-                    "name": "lecture 4 - 21.pdf",
+                    "name": "lec.4.pdf",
                     "link": ""
                 },
                 {
-                    "name": "lecture 7 - 21.pdf",
+                    "name": "lec.5.pdf",
                     "link": ""
                 },
                 {
-                    "name": "Little Revision - 20.pdf",
+                    "name": "lec.6.pdf",
                     "link": ""
                 },
                 {
-                    "name": "MCQs - 20.pdf",
+                    "name": "lec.7.pdf",
                     "link": ""
                 },
                 {
-                    "name": "Midterm 2021 - 20.pdf",
+                    "name": "lec.8.pdf",
                     "link": ""
                 },
                 {
-                    "name": "Mohamed Maher - 21",
-                    "children": [
-                        {
-                            "name": "Report 2.pdf",
-                            "link": ""
-                        },
-                        {
-                            "name": "Report 3.pdf",
-                            "link": ""
-                        },
-                        {
-                            "name": "Report 4.pdf",
-                            "link": ""
-                        },
-                        {
-                            "name": "Report 5.pdf",
-                            "link": ""
-                        },
-                        {
-                            "name": "Report 6.pdf",
-                            "link": ""
-                        },
-                        {
-                            "name": "Report 7.pdf",
-                            "link": ""
-                        },
-                        {
-                            "name": "Report 8.pdf",
-                            "link": ""
-                        },
-                        {
-                            "name": "Report 9.pdf",
-                            "link": ""
-                        }
-                    ]
-                },
-                {
-                    "name": "note - 21.txt",
-                    "note": "WARNING: Some content may have been changed or cancelled in both 2021 or 2020 items."
-                },
-                {
-                    "name": "sample midterm 2020 - 20.pdf",
+                    "name": "lec.9.pdf",
                     "link": ""
                 },
                 {
-                    "name": "Summary - 20.pdf",
+                    "name": "note.txt",
+                    "note": "Special thanks to the person who made these Student Notes on the 2025 Electrical Drive."
+                }
+            ]
+        },
+        {
+            "name": "Summaries",
+            "children": [
+                {
+                    "name": "Mind map on statistics.pdf",
                     "link": ""
                 },
                 {
-                    "name": "summer mid exam - 20.pdf",
+                    "name": "probability (1).pdf",
+                    "link": ""
+                },
+                {
+                    "name": "statistics (1).pdf",
+                    "link": ""
+                },
+                {
+                    "name": "statistics (2).pdf",
+                    "link": ""
+                },
+                {
+                    "name": "statistics (3).pdf",
+                    "link": ""
+                },
+                {
+                    "name": "statistics (4).pdf",
+                    "link": ""
+                },
+                {
+                    "name": "statistics (5).pdf",
                     "link": ""
                 }
             ]

@@ -79,6 +79,10 @@
                             "link": "https://drive.google.com/file/d/1NHFrwl3To5Ci_kMHKX3UbNXnNxONBcAJ/view?usp=sharing"
                         },
                         {
+                            "name": "Prob Revision Part 2 - 21.pdf",
+                            "link": "https://drive.google.com/file/d/1RKP55lcLoMpINC5d186W2xTvJjwNAEZg/view?usp=sharing"
+                        },
+                        {
                             "name": "Probability Revision - 20.pdf",
                             "link": "https://drive.google.com/file/d/1A2AQchik1uOoHD1pRgIrTFdOY70tleki/view?usp=sharing"
                         },
@@ -179,12 +183,24 @@
                     "name": "Final",
                     "children": [
                         {
+                            "name": "Exams solutions.pdf",
+                            "link": "https://drive.google.com/file/d/1WvV8FKJ-VCHmGzUeVQsrVQt05dgSHJGJ/view?usp=sharing"
+                        },
+                        {
                             "name": "Fall 2015.pdf",
                             "link": "https://drive.google.com/file/d/1aSjhmeVAIViGcLDzZfCg0FtcBecjSAMx/view?usp=sharing"
                         },
                         {
-                            "name": "note.txt",
-                            "note": "Civil Drive is the only one that have final exams. Need more exams and solutions. If available, contact me to add them."
+                            "name": "Fall 2020 .pdf",
+                            "link": "https://drive.google.com/file/d/1DKCsweJwjEWZCNTqW6lNYt7tbevhbAwS/view?usp=sharing"
+                        },
+                        {
+                            "name": "Final Spring 2021.pdf",
+                            "link": "https://drive.google.com/file/d/1M4dRBi7NUoh5IC7Yy9CjEpoqJlgpJcKY/view?usp=sharing"
+                        },
+                        {
+                            "name": "First semester 2021.pdf",
+                            "link": "https://drive.google.com/file/d/1WY9T-_PdR1_zjeZxAE3FFCZM-e8rcsrd/view?usp=sharing"
                         },
                         {
                             "name": "Spring 2016.pdf",
@@ -195,8 +211,16 @@
                             "link": "https://drive.google.com/file/d/16RQXXH0TR_pt5JXe28b3VsKnlSOJDXtl/view?usp=sharing"
                         },
                         {
+                            "name": "Summer 2019 M.Answer.pdf",
+                            "link": "https://drive.google.com/file/d/1WhaSAGpVrtqmxPDHiaIMPxdkeyWgiva8/view?usp=sharing"
+                        },
+                        {
                             "name": "Summer 2019.pdf",
                             "link": "https://drive.google.com/file/d/1DT-5Hie__s9cn_W1h0fW85-3Z5Aq6w21/view?usp=sharing"
+                        },
+                        {
+                            "name": "Summer 2020 .pdf",
+                            "link": "https://drive.google.com/file/d/1Wp6rM2QdYbGRoyUAIblMsPG-KxYvhNKn/view?usp=sharing"
                         }
                     ]
                 },
@@ -324,6 +348,10 @@
         {
             "name": "note2.txt",
             "note": "Lecture Slides were not gathered here. If you need them, go to the original Drives. Drives' links are at the bottom of the page."
+        },
+        {
+            "name": "note3.txt",
+            "note": "6 new items were added to Final Exams folder."
         },
         {
             "name": "Student Notes",
