@@ -47,6 +47,10 @@
                             ]
                         },
                         {
+                            "date": "21",
+                            "name": "Logic_Summer_2021.pdf"
+                        },
+                        {
                             "date": "19",
                             "name": "Misr_University",
                             "children": [
@@ -131,6 +135,15 @@
                             "name": "Part_2_by_Salma_Mahmoud.pdf"
                         }
                     ]
+                },
+                {
+                    "date": "21",
+                    "name": "Final_revision.pdf"
+                },
+                {
+                    "date": "21",
+                    "name": "note.txt",
+                    "note": "The First online Quiz is available for testing, and is very good to revise. Answers are shown at the end. Link: https://forms.gle/7JwAKaWM1ja8oCNMA"
                 }
             ]
         },
