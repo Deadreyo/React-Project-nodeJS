@@ -1,251 +1,184 @@
 {
-    "name": "Probability and Statistics",
+    "name": "Logic Design",
     "children": [
-        {
-            "name": "Assignments",
-            "children": [
-                {
-                    "name": "Assignment 1.pdf",
-                    "link": ""
-                },
-                {
-                    "name": "Assignment 2.pdf",
-                    "link": ""
-                },
-                {
-                    "name": "Assignment 3.pdf",
-                    "link": ""
-                },
-                {
-                    "name": "Assignment 4.pdf",
-                    "link": ""
-                },
-                {
-                    "name": "Solutions",
-                    "children": [
-                        {
-                            "name": "Assignment 1 solution .pdf",
-                            "link": ""
-                        },
-                        {
-                            "name": "assignment 2 solutions.pdf",
-                            "link": ""
-                        },
-                        {
-                            "name": "Assignment 3 solutions.pdf",
-                            "link": ""
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "Booklets n Final Revisions",
-            "children": [
-                {
-                    "name": "Eng Ahmed Refaat",
-                    "children": [
-                        {
-                            "name": "Probability 1.pdf",
-                            "link": ""
-                        },
-                        {
-                            "name": "Probability 2.pdf",
-                            "link": ""
-                        },
-                        {
-                            "name": "Probability 3.pdf",
-                            "link": ""
-                        },
-                        {
-                            "name": "Probability 4.pdf",
-                            "link": ""
-                        },
-                        {
-                            "name": "Probability 5.pdf",
-                            "link": ""
-                        }
-                    ]
-                },
-                {
-                    "name": "Final Revisions",
-                    "children": [
-                        {
-                            "name": "Continous Variable - Joint Probability - 20.pdf",
-                            "link": ""
-                        },
-                        {
-                            "name": "Prob Revision Part 1 - 21.pdf",
-                            "link": ""
-                        },
-                        {
-                            "name": "Prob Revision Part 2 - 21.pdf",
-                            "link": ""
-                        },
-                        {
-                            "name": "Probability Revision - 20.pdf",
-                            "link": ""
-                        },
-                        {
-                            "name": "Random Variables - Statistics - 20.pdf",
-                            "link": ""
-                        },
-                        {
-                            "name": "Statistics - 20.pdf",
-                            "link": ""
-                        }
-                    ]
-                },
-                {
-                    "name": "Mohamed Maher",
-                    "children": [
-                        {
-                            "name": "Bayes_ Rule.pdf",
-                            "link": ""
-                        },
-                        {
-                            "name": "Central Tendancy.pdf",
-                            "link": ""
-                        },
-                        {
-                            "name": "Data Organization.pdf",
-                            "link": ""
-                        },
-                        {
-                            "name": "introduction to probability.pdf",
-                            "link": ""
-                        },
-                        {
-                            "name": "Introduction to statistics.pdf",
-                            "link": ""
-                        },
-                        {
-                            "name": "measures of position.pdf",
-                            "link": ""
-                        },
-                        {
-                            "name": "Measures of variation.pdf",
-                            "link": ""
-                        },
-                        {
-                            "name": "Permutation - combination - Conditional probability.pdf",
-                            "link": ""
-                        },
-                        {
-                            "name": "Quick Revision.pdf",
-                            "link": ""
-                        },
-                        {
-                            "name": "Quiz 2 prob answers.pdf",
-                            "link": ""
-                        },
-                        {
-                            "name": "Random Variables.pdf",
-                            "link": ""
-                        }
-                    ]
-                },
-                {
-                    "name": "More from Civil",
-                    "children": [
-                        {
-                            "name": "probability 1.pdf",
-                            "link": ""
-                        },
-                        {
-                            "name": "probability 2.pdf",
-                            "link": ""
-                        },
-                        {
-                            "name": "probability 3.pdf",
-                            "link": ""
-                        },
-                        {
-                            "name": "Probability 4.pdf",
-                            "link": ""
-                        },
-                        {
-                            "name": "probability 5.pdf",
-                            "link": ""
-                        },
-                        {
-                            "name": "probability 6.pdf",
-                            "link": ""
-                        }
-                    ]
-                }
-            ]
-        },
         {
             "name": "Exams",
             "children": [
                 {
-                    "name": "Final",
+                    "name": "Final Exams",
                     "children": [
                         {
-                            "name": "Exams solutions.pdf",
+                            "name": "Fall 2019-2020 - 20.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Fall 2015.pdf",
+                            "name": "Final 2016 + Soln - 19.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Fall 2020 .pdf",
+                            "name": "Final 2017-2018 - 20.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Final Spring 2021.pdf",
+                            "name": "Final 2017-2018 Soln - 19.pdf",
                             "link": ""
                         },
                         {
-                            "name": "First semester 2021.pdf",
+                            "name": "Finals 2017 to 2012 - 20.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Spring 2016.pdf",
+                            "name": "Finals older than 2012 - 20.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Spring 2019.pdf",
+                            "name": "King Fahd University - 19",
+                            "children": [
+                                {
+                                    "name": "Fall 19 Major Exam 1.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "Fall 19 Major Exam 2.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "Final 19_.pdf",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Misr University - 19",
+                            "children": [
+                                {
+                                    "name": "Final  2019_2020.pdf",
+                                    "link": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Midterms Exams",
+                    "children": [
+                        {
+                            "name": "Fall 2017-2019 - 19.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Summer 2019 M.Answer.pdf",
+                            "name": "Fall 2018 - 20.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Summer 2019.pdf",
+                            "name": "Fall 2019 - 20.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Summer 2020 .pdf",
+                            "name": "Fall 2020 - 20.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Solutions",
+                            "children": [
+                                {
+                                    "name": "Fall 2018 Solution.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "Fall 2019 Solution.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "Fall 2020 Solution.pdf",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Spring 2019 - 20.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Summer 2021 - 21.pdf",
+                            "link": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Final Revisions",
+            "children": [
+                {
+                    "name": "Eng Suzy p1 - 19",
+                    "children": [
+                        {
+                            "name": "Part1 by Aly elsayed.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Part1 by Menna Hussein.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Part1 by Salma Mahmoud.pdf",
                             "link": ""
                         }
                     ]
                 },
                 {
-                    "name": "Midterm",
+                    "name": "Eng Suzy p2 - 19",
                     "children": [
                         {
-                            "name": "Fall 2015.pdf",
+                            "name": "Part 2 by Aly elsayed.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Fall 2016.pdf",
+                            "name": "Part 2 by Salma Mahmoud.pdf",
+                            "link": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Labs",
+            "children": [
+                {
+                    "name": "Lab 2019 - 19",
+                    "children": [
+                        {
+                            "name": "Lab 1.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Fall 2020 - solved.pdf",
+                            "name": "Lab 2.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Spring 2019 - solved.pdf",
+                            "name": "Lab 3.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Summer 2021.pdf",
+                            "name": "Lab 4.pdf",
                             "link": ""
+                        },
+                        {
+                            "name": "Lab 5.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lab 7.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lab 9.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "note.txt",
+                            "note": "The Drive channel contains additional items for Lab 2. Open the original Drive to access them."
                         }
                     ]
                 }
@@ -255,158 +188,600 @@
             "name": "Lecture Notes",
             "children": [
                 {
-                    "name": "Lecture1.pdf",
-                    "link": ""
+                    "name": "Abdelrahman Mostafa - 20",
+                    "children": [
+                        {
+                            "name": "Lecture 10 Logic.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 11 Logic.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 12 Logic.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 2 Logic.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 3 Logic.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 4 Logic.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 5 Logic.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 6 (part 1_3) Logic.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 7 Logic.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 8 Logic.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 9 Logic.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Missing from other lectures ( 7 Segment - Dont Cares - Memories ).pdf",
+                            "link": ""
+                        }
+                    ]
                 },
                 {
-                    "name": "Lecture10.pdf",
-                    "link": ""
+                    "name": "Ahmed Juba - 20",
+                    "children": [
+                        {
+                            "name": "Lecture 10.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 11.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 12.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 6.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 7.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 8.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 9.pdf",
+                            "link": ""
+                        }
+                    ]
                 },
                 {
-                    "name": "Lecture11.pdf",
-                    "link": ""
+                    "name": "Lina Sawwan - 20",
+                    "children": [
+                        {
+                            "name": "lect 1.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "lect 10.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "lect 11.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "lect 12.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "lect 2.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "lect 3.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "lect 4.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "lect 5.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "lect 6.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "lect 7.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "lect 8.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "lect 9.pdf",
+                            "link": ""
+                        }
+                    ]
                 },
                 {
-                    "name": "Lecture12.pdf",
-                    "link": ""
+                    "name": "note - 21.txt",
+                    "note": "Special thanks for Note Writers of 2021 for their effort. Your effort is highly appreciated and we thank you deeply even if we don't know who you are."
                 },
                 {
-                    "name": "Lecture2.pdf",
-                    "link": ""
+                    "name": "Notes 2019 - 19",
+                    "children": [
+                        {
+                            "name": "Lecture 1.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 10.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 11.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 12.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 2.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 3.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 4.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 5.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 6.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 7.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 8.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 9.pdf",
+                            "link": ""
+                        }
+                    ]
                 },
                 {
-                    "name": "Lecture3.pdf",
-                    "link": ""
-                },
-                {
-                    "name": "Lecture4.pdf",
-                    "link": ""
-                },
-                {
-                    "name": "Lecture5.pdf",
-                    "link": ""
-                },
-                {
-                    "name": "Lecture6.pdf",
-                    "link": ""
-                },
-                {
-                    "name": "Lecture7-8.pdf",
-                    "link": ""
-                },
-                {
-                    "name": "Lecture9.pdf",
-                    "link": ""
+                    "name": "Notes 2021 - 21",
+                    "children": [
+                        {
+                            "name": "k-map rules.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 1,2,3.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 10.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 11.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 12 (final).pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 2 (another).pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 2.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 3 (another).pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 3.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 4 (another).pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 4.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 5 (another).pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 5.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 6.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 7.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 8.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 9.pdf",
+                            "link": ""
+                        }
+                    ]
                 }
             ]
         },
         {
-            "name": "LMS Sheets w Solutions",
+            "name": "Midterm Revisions",
             "children": [
                 {
-                    "name": "Section 1.pdf",
+                    "name": "Board - 19.pdf",
                     "link": ""
                 },
                 {
-                    "name": "Section 2.pdf",
+                    "name": "Suzy revision - 19.pdf",
                     "link": ""
                 },
                 {
-                    "name": "Section 3.pdf",
-                    "link": ""
-                },
-                {
-                    "name": "Section 4.pdf",
-                    "link": ""
-                },
-                {
-                    "name": "Section 5.pdf",
-                    "link": ""
-                },
-                {
-                    "name": "Section 6.pdf",
-                    "link": ""
-                },
-                {
-                    "name": "Section 7.pdf",
-                    "link": ""
-                },
-                {
-                    "name": "Section 8.pdf",
-                    "link": ""
-                },
-                {
-                    "name": "Section 9.pdf",
+                    "name": "Youssef diaa Midterm sheet - 19.pdf",
                     "link": ""
                 }
             ]
         },
         {
             "name": "note.txt",
-            "note": "This is a huge collection, gathered from 4 drives; 2025 Architecture, 2025 Civil, 2025 Electrical & 2025 Mechanical."
+            "note": "Due to the lack of Booklets, we can study by revising the Lecture Notes/Tutorials and solving their examples, and by solving the Sheets again. Sheet solutions are present. If any booklets are made, kindly contact me on Facebook to add them."
         },
         {
             "name": "note2.txt",
-            "note": "Lecture Slides & Tutorials/Sections were not gathered here. If you need them, go to the original Drives. Drives' links are at the bottom of the page."
+            "note": "All broken links were fixed."
         },
         {
-            "name": "note3.txt",
-            "note": "6 new items were added to Final Exams folder."
-        },
-        {
-            "name": "Student Notes",
+            "name": "Project",
             "children": [
                 {
-                    "name": "lec.1.pdf",
+                    "name": "Adder - 21.pdf",
                     "link": ""
                 },
                 {
-                    "name": "lec.10.pdf",
+                    "name": "Counter - 21.pdf",
                     "link": ""
                 },
                 {
-                    "name": "lec.11.pdf",
+                    "name": "Counter assignment - 20.pdf",
                     "link": ""
                 },
                 {
-                    "name": "lec.12 (final lecture).pdf",
+                    "name": "Logic decoder assignment - 20.pdf",
                     "link": ""
                 },
                 {
-                    "name": "lec.2.pdf",
+                    "name": "Project Description - 19.pdf",
                     "link": ""
+                }
+            ]
+        },
+        {
+            "name": "Sheets",
+            "children": [
+                {
+                    "name": "Fall 2019 - 19",
+                    "children": [
+                        {
+                            "name": "Eng. Reem - 19",
+                            "children": [
+                                {
+                                    "name": "Rest of sheet 7 soln.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "Sections and Sheets Note - Soln.pdf",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Sheet 1 - 19.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Sheet 2 - 19.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Sheet 3 - 19.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Sheet 4 - 19.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Sheet 5 - 19.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Sheet 6 - 19.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Sheet 7 - 19.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Sheet 8 - 19.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Solutions 1 - 19",
+                            "children": [
+                                {
+                                    "name": "remain of Sheet 4.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "sheet 1.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "sheet 2 .pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "sheet 3.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "sheet 4 .pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "sheet 5.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "sheet 6.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "Sheet 7.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "sheet 8.pdf",
+                                    "link": ""
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
-                    "name": "lec.3.pdf",
-                    "link": ""
-                },
-                {
-                    "name": "lec.4.pdf",
-                    "link": ""
-                },
-                {
-                    "name": "lec.5.pdf",
-                    "link": ""
-                },
-                {
-                    "name": "lec.6.pdf",
-                    "link": ""
-                },
-                {
-                    "name": "lec.7.pdf",
-                    "link": ""
-                },
-                {
-                    "name": "lec.8.pdf",
-                    "link": ""
-                },
-                {
-                    "name": "lec.9.pdf",
-                    "link": ""
+                    "name": "Fall 2020 and 2021 - 20",
+                    "children": [
+                        {
+                            "name": "Sheet1 - 20.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Sheet2 - 20.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Sheet3 - 20.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Sheet4 - 20.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Sheet5 - 20.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Sheet6 - 20.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Sheet7 - 20.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Sheet8 - 20.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Sheet9 - 20.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Solutions - 20",
+                            "children": [
+                                {
+                                    "name": "assignment 1logic.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "sheet 1 logic.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "sheet 2 logic.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "Sheet 3 logic_.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "sheet 4 logic.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "sheet 4_5.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "sheet 5 logic.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "Sheet 6,7,8 logic.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "Sheet 9 Logic.pdf",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Solutions_ Sections of TA.Rizk Tawfik - 20",
+                            "children": [
+                                {
+                                    "name": "Logic Section 1.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "Logic Section 2.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "Logic Section 3.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "Logic Section 4.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "Logic Section 5.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "Logic Section 6.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "Logic Section 7.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "Logic Section 8.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "Logic Section 9.pdf",
+                                    "link": ""
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
                     "name": "note.txt",
-                    "note": "Special thanks to the person who made these Student Notes on the 2025 Electrical Drive."
+                    "note": "Sheets of 2021 are the same as 2020. However, sheets of 2019 are different. Solutions for both are provided."
+                }
+            ]
+        },
+        {
+            "name": "Slides",
+            "children": [
+                {
+                    "name": "Fall 2019 - 19",
+                    "children": [
+                        {
+                            "name": "1. Intro.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "10. Sequential Circuits_2.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "11. Registers + Counters.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "2. Binary Systems_1.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "3. Binary Systems_2.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "4. Boolean Algebra_1.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "5. Boolean Algebra_2.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "6. Gate Level Minimization.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "7. Combinational Circuits_1.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "8. Combinational Circuits_2.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "9. Sequential Circuits_1.pdf",
+                            "link": ""
+                        }
+                    ]
                 }
             ]
         },
@@ -414,32 +789,100 @@
             "name": "Summaries",
             "children": [
                 {
-                    "name": "Mind map on statistics.pdf",
-                    "link": ""
+                    "name": "Mariam Ahmed - 19",
+                    "children": [
+                        {
+                            "name": "Part 1.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Part 2 (after midterm).pdf",
+                            "link": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Tutorials",
+            "children": [
+                {
+                    "name": "Eng Ahmed fathy - 21",
+                    "children": [
+                        {
+                            "name": "Tutorial1.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Tutorial2.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Tutorial3.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Tutorial4.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Tutorial5.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Tutorial6.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Tutorial7.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Tutorial9.pdf",
+                            "link": ""
+                        }
+                    ]
                 },
                 {
-                    "name": "probability (1).pdf",
-                    "link": ""
-                },
-                {
-                    "name": "statistics (1).pdf",
-                    "link": ""
-                },
-                {
-                    "name": "statistics (2).pdf",
-                    "link": ""
-                },
-                {
-                    "name": "statistics (3).pdf",
-                    "link": ""
-                },
-                {
-                    "name": "statistics (4).pdf",
-                    "link": ""
-                },
-                {
-                    "name": "statistics (5).pdf",
-                    "link": ""
+                    "name": "Eng. Mohamed Osama - 21",
+                    "children": [
+                        {
+                            "name": "boolean_examples.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Tutorial (1).pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Tutorial (2).pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Tutorial (4).pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Tutorial (5).pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Tutorial (6).pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Tutorial (7).pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Tutorial (8).pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Tutorial (9).pdf",
+                            "link": ""
+                        }
+                    ]
                 }
             ]
         }
