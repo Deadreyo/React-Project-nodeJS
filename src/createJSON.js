@@ -1,5 +1,4 @@
 var fs = require('fs')
-var path = require('path')
 const readDir = require('./readDir').readDir
 
 const dir = './Folders'
