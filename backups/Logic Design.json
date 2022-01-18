@@ -24,6 +24,10 @@
                             "link": "https://drive.google.com/file/d/1G-PQuzPG18d602JmpdSSzx6Bqf3vK6GO/view?usp=sharing"
                         },
                         {
+                            "name": "Final 2021 - 21.pdf",
+                            "link": "https://drive.google.com/file/d/1dHOZwS5_OX2R8cpnHZR_c9Hr3gb5iN9o/view?usp=sharing"
+                        },
+                        {
                             "name": "Finals 2017 to 2012 - 20.pdf",
                             "link": "https://drive.google.com/file/d/1OzC5oaJKBeloJsDgDv7oumxTxilQQGtg/view?usp=sharing"
                         },
@@ -49,10 +53,6 @@
                             ]
                         },
                         {
-                            "name": "Logic Summer 2021 - 21.pdf",
-                            "link": "https://drive.google.com/file/d/1cEZ7TI-ldom3lkdGyzXQGqinnUOYs4z3/view?usp=sharing"
-                        },
-                        {
                             "name": "Misr University - 19",
                             "children": [
                                 {
@@ -60,6 +60,10 @@
                                     "link": "https://drive.google.com/file/d/1dIJiZEZNFBEe6xBubE-BiSpzXGgm-rA3/view?usp=sharing"
                                 }
                             ]
+                        },
+                        {
+                            "name": "Summer 2021 - 21.pdf",
+                            "link": "https://drive.google.com/file/d/1cEZ7TI-ldom3lkdGyzXQGqinnUOYs4z3/view?usp=sharing"
                         }
                     ]
                 },
@@ -339,8 +343,41 @@
                     ]
                 },
                 {
-                    "name": "note - 21.txt",
-                    "note": "Special thanks for Note Writers of 2021 for their effort. Your effort is highly appreciated and we thank you deeply even if we don't know who you are."
+                    "name": "Mohamed Maher Booklets - 21",
+                    "children": [
+                        {
+                            "name": "5-variable K-map.pdf",
+                            "link": "https://drive.google.com/file/d/198Ma-r6n6jZeb2vsTrlDHGg2ggd9u7dG/view?usp=sharing"
+                        },
+                        {
+                            "name": "Boolean Algebra.pdf",
+                            "link": "https://drive.google.com/file/d/1zhLA330TmfGTfGffe9ivtyvyiyHRU4fA/view?usp=sharing"
+                        },
+                        {
+                            "name": "Boolean Functions and K-maps.pdf",
+                            "link": "https://drive.google.com/file/d/1RZ1M89373i3LWZ-dk5TNPtX79tuzO0QV/view?usp=sharing"
+                        },
+                        {
+                            "name": "dont cares.pdf",
+                            "link": "https://drive.google.com/file/d/1ziKOmgLC92OLCX09t4kD9Nwa5C4FRBr3/view?usp=sharing"
+                        },
+                        {
+                            "name": "Full adder - Half adder.pdf",
+                            "link": "https://drive.google.com/file/d/1CuxVZr8JT9rj7CwmhKOoybp9_igf2HrQ/view?usp=sharing"
+                        },
+                        {
+                            "name": "MCQs.pdf",
+                            "link": "https://drive.google.com/file/d/13UFO7bd4kabWfS4w3XRMYZqVFU451ogi/view?usp=sharing"
+                        },
+                        {
+                            "name": "NAND implementation.pdf",
+                            "link": "https://drive.google.com/file/d/1WM5nAr29A4A0eJaYD9ZrdjPy-d2jkT_T/view?usp=sharing"
+                        },
+                        {
+                            "name": "Number Systems.pdf",
+                            "link": "https://drive.google.com/file/d/1nRnbpnzNmRJvVGZQhRwMzy8YNIGhtXzR/view?usp=sharing"
+                        }
+                    ]
                 },
                 {
                     "name": "Notes 2019 - 19",

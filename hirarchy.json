@@ -24,6 +24,10 @@
                             "name": "Final_2017-2018_Soln.pdf"
                         },
                         {
+                            "date": "21",
+                            "name": "Final_2021.pdf"
+                        },
+                        {
                             "date": "20",
                             "name": "Finals_2017_to_2012.pdf"
                         },
@@ -47,10 +51,6 @@
                             ]
                         },
                         {
-                            "date": "21",
-                            "name": "Logic_Summer_2021.pdf"
-                        },
-                        {
                             "date": "19",
                             "name": "Misr_University",
                             "children": [
@@ -58,6 +58,10 @@
                                     "name": "Final__2019_2020.pdf"
                                 }
                             ]
+                        },
+                        {
+                            "date": "21",
+                            "name": "Summer_2021.pdf"
                         }
                     ]
                 },
@@ -299,8 +303,33 @@
                 },
                 {
                     "date": "21",
-                    "name": "note.txt",
-                    "note": "Special thanks for Note Writers of 2021 for their effort. Your effort is highly appreciated and we thank you deeply even if we don't know who you are."
+                    "name": "Mohamed_Maher_Booklets",
+                    "children": [
+                        {
+                            "name": "5-variable_K-map.pdf"
+                        },
+                        {
+                            "name": "Boolean_Algebra.pdf"
+                        },
+                        {
+                            "name": "Boolean_Functions_and_K-maps.pdf"
+                        },
+                        {
+                            "name": "dont_cares.pdf"
+                        },
+                        {
+                            "name": "Full_adder_-_Half_adder.pdf"
+                        },
+                        {
+                            "name": "MCQs.pdf"
+                        },
+                        {
+                            "name": "NAND_implementation.pdf"
+                        },
+                        {
+                            "name": "Number_Systems.pdf"
+                        }
+                    ]
                 },
                 {
                     "date": "19",

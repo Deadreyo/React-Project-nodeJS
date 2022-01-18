@@ -24,6 +24,10 @@
                             "link": ""
                         },
                         {
+                            "name": "Final 2021 - 21.pdf",
+                            "link": ""
+                        },
+                        {
                             "name": "Finals 2017 to 2012 - 20.pdf",
                             "link": ""
                         },
@@ -49,10 +53,6 @@
                             ]
                         },
                         {
-                            "name": "Logic Summer 2021 - 21.pdf",
-                            "link": ""
-                        },
-                        {
                             "name": "Misr University - 19",
                             "children": [
                                 {
@@ -60,6 +60,10 @@
                                     "link": ""
                                 }
                             ]
+                        },
+                        {
+                            "name": "Summer 2021 - 21.pdf",
+                            "link": ""
                         }
                     ]
                 },
@@ -339,8 +343,41 @@
                     ]
                 },
                 {
-                    "name": "note - 21.txt",
-                    "note": "Special thanks for Note Writers of 2021 for their effort. Your effort is highly appreciated and we thank you deeply even if we don't know who you are."
+                    "name": "Mohamed Maher Booklets - 21",
+                    "children": [
+                        {
+                            "name": "5-variable K-map.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Boolean Algebra.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Boolean Functions and K-maps.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "dont cares.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Full adder - Half adder.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "MCQs.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "NAND implementation.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Number Systems.pdf",
+                            "link": ""
+                        }
+                    ]
                 },
                 {
                     "name": "Notes 2019 - 19",
