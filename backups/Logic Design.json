@@ -119,6 +119,10 @@
             "name": "Final Revisions",
             "children": [
                 {
+                    "name": "Conversion of Flip-flops - 21.pdf",
+                    "link": "https://drive.google.com/file/d/1dnuUtGJ00wG4vhp600dfzUAI0lZaXHIo/view?usp=sharing"
+                },
+                {
                     "name": "Eng Suzy p1 - 19",
                     "children": [
                         {
@@ -149,13 +153,20 @@
                     ]
                 },
                 {
-                    "name": "Final revision - 21.pdf",
+                    "name": "Final revision MCQs - 21.pdf",
                     "link": "https://drive.google.com/file/d/1by1TAK3fG_0iuUWhfcYgMOgQaBzZUDW6/view?usp=sharing"
+                },
+                {
+                    "name": "Full Summary - 21.pdf",
+                    "link": "https://drive.google.com/file/d/1jJyg1YktguOT_RZQ5tmZRaT60Fx4JLnX/view?usp=sharing"
                 },
                 {
                     "name": "note - 21.txt",
                     "note": "The First online Quiz is available for testing, and is very good to revise. Answers are shown at the end. Link: https://forms.gle/7JwAKaWM1ja8oCNMA"
                 }
+            ],
+            "credits": [
+                "Mahmoud Abdelraoof - MCQs & F/F Conversion 2021"
             ]
         },
         {

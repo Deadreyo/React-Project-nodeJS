@@ -114,6 +114,10 @@
             "name": "Final_Revisions",
             "children": [
                 {
+                    "date": "21",
+                    "name": "Conversion_of_Flip-flops.pdf"
+                },
+                {
                     "date": "19",
                     "name": "Eng_Suzy_p1",
                     "children": [
@@ -142,7 +146,11 @@
                 },
                 {
                     "date": "21",
-                    "name": "Final_revision.pdf"
+                    "name": "Final_revision_MCQs.pdf"
+                },
+                {
+                    "date": "21",
+                    "name": "Full_Summary.pdf"
                 },
                 {
                     "date": "21",
