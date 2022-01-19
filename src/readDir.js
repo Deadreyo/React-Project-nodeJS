@@ -46,8 +46,9 @@ function readDir(dir, mode = 'normal') {
     }
 
     obj.name = fixedName
-    if(extname(fileName) === '.txt' && fileName.slice(0, 4) === 'note') {
-      obj.note = fs.readFileSync(filepath).toString()
+    if(extname(fileName) === '.txt') {
+      if(fileName.slice(0, 4) === 'note') obj.note = fs.readFileSync(filepath).toString()
+      if(fileName.slice(0, 7) === 'credits') obj.credits = fs.readFileSync(filepath).toString()
     } else {
       if(mode === 'link') if(!isDir) obj.link = ""
       if(isDir) obj.children = children

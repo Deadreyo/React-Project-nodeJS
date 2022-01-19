@@ -127,6 +127,10 @@
                     "link": ""
                 },
                 {
+                    "name": "credits.txt",
+                    "credits": "Mahmoud Abdelraoof - F/F Conversion 2021"
+                },
+                {
                     "name": "Eng Suzy p1 - 19",
                     "children": [
                         {
@@ -157,11 +161,7 @@
                     ]
                 },
                 {
-                    "name": "Final revision MCQs - 21.pdf",
-                    "link": ""
-                },
-                {
-                    "name": "Full Summary - 21.pdf",
+                    "name": "Full Lectures Summary - 21.pdf",
                     "link": ""
                 },
                 {

@@ -122,6 +122,10 @@
                     "name": "Conversion_of_Flip-flops.pdf"
                 },
                 {
+                    "name": "credits.txt",
+                    "credits": "Mahmoud Abdelraoof - F/F Conversion 2021"
+                },
+                {
                     "date": "19",
                     "name": "Eng_Suzy_p1",
                     "children": [
@@ -150,11 +154,7 @@
                 },
                 {
                     "date": "21",
-                    "name": "Final_revision_MCQs.pdf"
-                },
-                {
-                    "date": "21",
-                    "name": "Full_Summary.pdf"
+                    "name": "Full_Lectures_Summary.pdf"
                 },
                 {
                     "date": "21",
