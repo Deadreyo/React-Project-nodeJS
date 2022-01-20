@@ -79,10 +79,6 @@
                             "link": "https://drive.google.com/file/d/1QGiI_kcdzzRyisF7URUCu4IMO5gbhl9G/view?usp=sharing"
                         },
                         {
-                            "name": "Spring 2021 solved - 20.pdf",
-                            "link": "https://drive.google.com/file/d/1KOPouFBJ8XSs3XzVRheJdeM6zGwJsCrQ/view?usp=sharing"
-                        },
-                        {
                             "name": "Fall 2018 - 20.pdf",
                             "link": "https://drive.google.com/file/d/1fn66nizNJw-CdAVbxGi8onK402edkTBD/view?usp=sharing"
                         },
@@ -114,6 +110,10 @@
                         {
                             "name": "Spring 2019 - 20.pdf",
                             "link": "https://drive.google.com/file/d/1io2apFf3paW5bUlFZ8doqslLDhWGWmzC/view?usp=sharing"
+                        },
+                        {
+                            "name": "Spring 2021 solved - 20.pdf",
+                            "link": "https://drive.google.com/file/d/1KOPouFBJ8XSs3XzVRheJdeM6zGwJsCrQ/view?usp=sharing"
                         },
                         {
                             "name": "Summer 2021 - 21.pdf",
@@ -165,12 +165,20 @@
                     ]
                 },
                 {
+                    "name": "Final revision MCQs - 21.pdf",
+                    "link": "https://drive.google.com/file/d/1HOrcjjwi4EJ7Zqn_H924iJas32MwtaSH/view?usp=sharing"
+                },
+                {
                     "name": "Full Lectures Summary - 21.pdf",
                     "link": "https://drive.google.com/file/d/1jJyg1YktguOT_RZQ5tmZRaT60Fx4JLnX/view?usp=sharing"
                 },
                 {
                     "name": "note - 21.txt",
                     "note": "The First online Quiz is available for testing, and is very good to revise. Answers are shown at the end. Link: https://forms.gle/7JwAKaWM1ja8oCNMA"
+                },
+                {
+                    "name": "note2 - 21.txt",
+                    "note": "\"Final revision MCQs\" is a collection of questions from online websites. Some questions may  be answered wrong, and some may be out of our course. But multiple questions in exams came from them."
                 }
             ]
         },
@@ -394,6 +402,10 @@
                             "link": "https://drive.google.com/file/d/1nRnbpnzNmRJvVGZQhRwMzy8YNIGhtXzR/view?usp=sharing"
                         }
                     ]
+                },
+                {
+                    "name": "note - 21.txt",
+                    "note": "Special thanks for Note Writers of 2021 for their effort. Your effort is highly appreciated and we thank you deeply even if we don't know who you are."
                 },
                 {
                     "name": "Notes 2019 - 19",

@@ -1,182 +1,429 @@
 {
-    "name": "Modern Physics",
+    "name": "Logic Design",
     "children": [
-        {
-            "name": "Booklets",
-            "children": [
-                {
-                    "name": "Eng Ahmed Salah - 19",
-                    "children": [
-                        {
-                            "name": "1-mass, energy and momentum (ch1-part1).pdf",
-                            "link": ""
-                        },
-                        {
-                            "name": "2-photoelectric-effect-and-compton-effect.pdf",
-                            "link": ""
-                        },
-                        {
-                            "name": "3-wave-particle-duality.pdf",
-                            "link": ""
-                        },
-                        {
-                            "name": "4-wave-function.pdf",
-                            "link": ""
-                        },
-                        {
-                            "name": "5-Shrodinger_eqn_and_quantum-mechanics.pdf",
-                            "link": ""
-                        },
-                        {
-                            "name": "6-periodic-crystal-potentials.pdf",
-                            "link": ""
-                        }
-                    ]
-                },
-                {
-                    "name": "Eng Michael - Band Theory (Newer) - 20.pdf",
-                    "link": ""
-                },
-                {
-                    "name": "Eng Michael - Band Theory - 19.pdf",
-                    "link": ""
-                },
-                {
-                    "name": "Eng Mina - on Part 1 - 19.pdf",
-                    "link": ""
-                }
-            ]
-        },
         {
             "name": "Exams",
             "children": [
                 {
-                    "name": "Final",
+                    "name": "Final Exams",
                     "children": [
                         {
-                            "name": "Fall 2016.pdf",
+                            "name": "Fall 2019-2020 - 20.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Fall 2017.pdf",
+                            "name": "Fall 2021 - 21.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Fall 2018.pdf",
+                            "name": "Fall 2021 Student Ans - 21.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Final 2013.pdf",
+                            "name": "Final 2016 + Soln - 19.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Final 2015.pdf",
+                            "name": "Final 2017-2018 - 20.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Final 2017-2018 Soln - 19.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Finals 2017 to 2012 - 20.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Finals older than 2012 - 20.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "King Fahd University - 19",
+                            "children": [
+                                {
+                                    "name": "Fall 19 Major Exam 1.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "Fall 19 Major Exam 2.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "Final 19_.pdf",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Misr University - 19",
+                            "children": [
+                                {
+                                    "name": "Final  2019_2020.pdf",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Summer 2021 - 21.pdf",
+                            "link": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Midterms Exams",
+                    "children": [
+                        {
+                            "name": "Fall 2017-2019 - 19.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Fall 2018 - 20.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Fall 2019 - 20.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Fall 2020 - 20.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Solutions",
+                            "children": [
+                                {
+                                    "name": "Fall 2018 Solution.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "Fall 2019 Solution.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "Fall 2020 Solution.pdf",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Spring 2019 - 20.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Spring 2021 solved - 20.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Summer 2021 - 21.pdf",
+                            "link": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Final Revisions",
+            "children": [
+                {
+                    "name": "Conversion of Flip-flops - 21.pdf",
+                    "link": ""
+                },
+                {
+                    "name": "credits.txt",
+                    "credits": "Mahmoud Abdelraoof - Final Rev MCQ / F-F Conversion 2021"
+                },
+                {
+                    "name": "Eng Suzy p1 - 19",
+                    "children": [
+                        {
+                            "name": "Part1 by Aly elsayed.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Part1 by Menna Hussein.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Part1 by Salma Mahmoud.pdf",
+                            "link": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Eng Suzy p2 - 19",
+                    "children": [
+                        {
+                            "name": "Part 2 by Aly elsayed.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Part 2 by Salma Mahmoud.pdf",
+                            "link": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Final revision MCQs - 21.pdf",
+                    "link": ""
+                },
+                {
+                    "name": "Full Lectures Summary - 21.pdf",
+                    "link": ""
+                },
+                {
+                    "name": "note - 21.txt",
+                    "note": "The First online Quiz is available for testing, and is very good to revise. Answers are shown at the end. Link: https://forms.gle/7JwAKaWM1ja8oCNMA"
+                },
+                {
+                    "name": "note2 - 21.txt",
+                    "note": "\"Final revision MCQs\" is a collection of questions from online websites. Some questions may  be answered wrong, and some may be out of our course. But multiple questions in exams came from them."
+                }
+            ]
+        },
+        {
+            "name": "Labs",
+            "children": [
+                {
+                    "name": "Lab 2019 - 19",
+                    "children": [
+                        {
+                            "name": "Lab 1.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lab 2.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lab 3.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lab 4.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lab 5.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lab 7.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lab 9.pdf",
                             "link": ""
                         },
                         {
                             "name": "note.txt",
-                            "note": "No solutions were found."
+                            "note": "The Drive channel contains additional items for Lab 2. Open the original Drive to access them."
                         }
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "name": "Lecture Notes",
+            "children": [
                 {
-                    "name": "Midterm",
+                    "name": "Abdelrahman Mostafa - 20",
                     "children": [
                         {
-                            "name": "Fall 2017.pdf",
+                            "name": "Lecture 10 Logic.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Fall 2019.pdf",
+                            "name": "Lecture 11 Logic.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Fall 2020.pdf",
+                            "name": "Lecture 12 Logic.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Spring 2017.pdf",
+                            "name": "Lecture 2 Logic.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Summer 18 and Spring 17.pdf",
+                            "name": "Lecture 3 Logic.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 4 Logic.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 5 Logic.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 6 (part 1_3) Logic.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 7 Logic.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 8 Logic.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 9 Logic.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Missing from other lectures ( 7 Segment - Dont Cares - Memories ).pdf",
                             "link": ""
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "name": "Final Revision",
-            "children": [
+                },
                 {
-                    "name": "Eng Ahmed Salah Rev notes - 21",
+                    "name": "Ahmed Juba - 20",
                     "children": [
                         {
-                            "name": "credits.txt",
-                            "credits": "Sama Akram"
-                        },
-                        {
-                            "name": "part 1&2.pdf",
+                            "name": "Lecture 10.pdf",
                             "link": ""
                         },
                         {
-                            "name": "part 3.pdf",
+                            "name": "Lecture 11.pdf",
                             "link": ""
                         },
                         {
-                            "name": "part 4 cont.pdf",
+                            "name": "Lecture 12.pdf",
                             "link": ""
                         },
                         {
-                            "name": "part 4.pdf",
+                            "name": "Lecture 6.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 7.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 8.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 9.pdf",
                             "link": ""
                         }
                     ]
                 },
                 {
-                    "name": "Eng Michael Rev 1 - 20.pdf",
-                    "link": ""
+                    "name": "Lina Sawwan - 20",
+                    "children": [
+                        {
+                            "name": "lect 1.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "lect 10.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "lect 11.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "lect 12.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "lect 2.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "lect 3.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "lect 4.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "lect 5.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "lect 6.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "lect 7.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "lect 8.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "lect 9.pdf",
+                            "link": ""
+                        }
+                    ]
                 },
                 {
-                    "name": "Eng Michael Rev 2 - 20.pdf",
-                    "link": ""
+                    "name": "Mohamed Maher Booklets - 21",
+                    "children": [
+                        {
+                            "name": "5-variable K-map.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Boolean Algebra.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Boolean Functions and K-maps.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "dont cares.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Full adder - Half adder.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "MCQs.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "NAND implementation.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Number Systems.pdf",
+                            "link": ""
+                        }
+                    ]
                 },
                 {
-                    "name": "Eng Michael Rev 3 - 20.pdf",
-                    "link": ""
+                    "name": "note - 21.txt",
+                    "note": "Special thanks for Note Writers of 2021 for their effort. Your effort is highly appreciated and we thank you deeply even if we don't know who you are."
                 },
                 {
-                    "name": "Rev 1 - 19.pdf",
-                    "link": ""
-                },
-                {
-                    "name": "Rev 2 - 19.pdf",
-                    "link": ""
-                },
-                {
-                    "name": "Rev 3 Band theory - 19.pdf",
-                    "link": ""
-                }
-            ]
-        },
-        {
-            "name": "Lab Revision",
-            "children": [
-                {
-                    "name": "lab revision - 20.pdf",
-                    "link": ""
-                }
-            ]
-        },
-        {
-            "name": "Lectures Notes",
-            "children": [
-                {
-                    "name": "Dr.Micheal Mounir - 19",
+                    "name": "Notes 2019 - 19",
                     "children": [
                         {
                             "name": "Lecture 1.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 10.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 11.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 12.pdf",
                             "link": ""
                         },
                         {
@@ -214,70 +461,74 @@
                     ]
                 },
                 {
-                    "name": "Dr.Wael Fekry - 20",
+                    "name": "Notes 2021 - 21",
                     "children": [
                         {
-                            "name": "Dr. Micheal 1 - 20.pdf",
+                            "name": "k-map rules.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Dr. Wael 10 - 20.pdf",
+                            "name": "Lecture 1,2,3.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Dr. Wael 11 - 20.pdf",
+                            "name": "Lecture 10.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Dr. Wael 12 - 20.pdf",
+                            "name": "Lecture 11.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Dr. Wael 13 - 20.pdf",
+                            "name": "Lecture 12 (final).pdf",
                             "link": ""
                         },
                         {
-                            "name": "Dr. Wael 14 - 20.pdf",
+                            "name": "Lecture 2 (another).pdf",
                             "link": ""
                         },
                         {
-                            "name": "Dr. Wael 15 pt1 - 20.pdf",
+                            "name": "Lecture 2.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Dr. Wael 2 - 20.pdf",
+                            "name": "Lecture 3 (another).pdf",
                             "link": ""
                         },
                         {
-                            "name": "Dr. Wael 3 - 20.pdf",
+                            "name": "Lecture 3.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Dr. Wael 4 - 20.pdf",
+                            "name": "Lecture 4 (another).pdf",
                             "link": ""
                         },
                         {
-                            "name": "Dr. Wael 5 - 20.pdf",
+                            "name": "Lecture 4.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Dr. Wael 6 - 20.pdf",
+                            "name": "Lecture 5 (another).pdf",
                             "link": ""
                         },
                         {
-                            "name": "Dr. Wael 7 - 20.pdf",
+                            "name": "Lecture 5.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Dr. Wael 8 - 20.pdf",
+                            "name": "Lecture 6.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Dr. Wael 9 - 20.pdf",
+                            "name": "Lecture 7.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Dr. Wael on P4 - 20.pdf",
+                            "name": "Lecture 8.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Lecture 9.pdf",
                             "link": ""
                         }
                     ]
@@ -285,92 +536,326 @@
             ]
         },
         {
-            "name": "Lectures Slides",
+            "name": "Midterm Revisions",
             "children": [
                 {
-                    "name": "MP & QM - Part 1 - 21.pdf",
+                    "name": "Board - 19.pdf",
                     "link": ""
                 },
                 {
-                    "name": "MP & QM - Part 2 - 21.pdf",
+                    "name": "Suzy revision - 19.pdf",
                     "link": ""
                 },
                 {
-                    "name": "MP & QM - Part 3 - 21.pdf",
-                    "link": ""
-                },
-                {
-                    "name": "MP & QM - Part 4 - 21.pdf",
+                    "name": "Youssef diaa Midterm sheet - 19.pdf",
                     "link": ""
                 }
             ]
         },
         {
-            "name": "Midterm Revision",
+            "name": "note.txt",
+            "note": "Due to the lack of Booklets, we can study by revising the Lecture Notes/Tutorials and solving their examples, and by solving the Sheets again. Sheet solutions are present. If any booklets are made, kindly contact me on Facebook to add them."
+        },
+        {
+            "name": "note2.txt",
+            "note": "All broken links were fixed."
+        },
+        {
+            "name": "Project",
             "children": [
                 {
-                    "name": "Revision 1 Eng Michael - 20.pdf",
+                    "name": "Adder - 21.pdf",
                     "link": ""
                 },
                 {
-                    "name": "Revision 2 Eng Michael - 20.pdf",
+                    "name": "Counter - 21.pdf",
                     "link": ""
                 },
                 {
-                    "name": "Revision Eng Mina - 19.PDF",
+                    "name": "Counter assignment - 20.pdf",
+                    "link": ""
+                },
+                {
+                    "name": "Logic decoder assignment - 20.pdf",
+                    "link": ""
+                },
+                {
+                    "name": "Project Description - 19.pdf",
                     "link": ""
                 }
             ]
         },
         {
-            "name": "Problem Sets",
+            "name": "Sheets",
             "children": [
                 {
-                    "name": "Answers",
+                    "name": "Fall 2019 - 19",
                     "children": [
                         {
-                            "name": "Problem set 01 - Model  Answer.pdf",
+                            "name": "Eng. Reem - 19",
+                            "children": [
+                                {
+                                    "name": "Rest of sheet 7 soln.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "Sections and Sheets Note - Soln.pdf",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Sheet 1 - 19.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Problem Set 02 - Model Answer.pdf",
+                            "name": "Sheet 2 - 19.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Problem Set 03 - Model Answer.pdf",
+                            "name": "Sheet 3 - 19.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Problem Set 04 - Model Answer.pdf",
+                            "name": "Sheet 4 - 19.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Problem Set 05 - Model Answer.pdf",
+                            "name": "Sheet 5 - 19.pdf",
                             "link": ""
+                        },
+                        {
+                            "name": "Sheet 6 - 19.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Sheet 7 - 19.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Sheet 8 - 19.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Solutions 1 - 19",
+                            "children": [
+                                {
+                                    "name": "remain of Sheet 4.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "sheet 1.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "sheet 2 .pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "sheet 3.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "sheet 4 .pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "sheet 5.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "sheet 6.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "Sheet 7.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "sheet 8.pdf",
+                                    "link": ""
+                                }
+                            ]
                         }
                     ]
                 },
                 {
-                    "name": "Questions",
+                    "name": "Fall 2020 and 2021 - 20",
                     "children": [
                         {
-                            "name": "Problem set 01.pdf",
+                            "name": "Sheet1 - 20.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Problem Set 02.pdf",
+                            "name": "Sheet2 - 20.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Problem Set 03.pdf",
+                            "name": "Sheet3 - 20.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Problem Set 04.pdf",
+                            "name": "Sheet4 - 20.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Problem Set 05.pdf",
+                            "name": "Sheet5 - 20.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Sheet6 - 20.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Sheet7 - 20.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Sheet8 - 20.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Sheet9 - 20.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Solutions - 20",
+                            "children": [
+                                {
+                                    "name": "assignment 1logic.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "sheet 1 logic.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "sheet 2 logic.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "Sheet 3 logic_.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "sheet 4 logic.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "sheet 4_5.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "sheet 5 logic.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "Sheet 6,7,8 logic.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "Sheet 9 Logic.pdf",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Solutions_ Sections of TA.Rizk Tawfik - 20",
+                            "children": [
+                                {
+                                    "name": "Logic Section 1.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "Logic Section 2.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "Logic Section 3.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "Logic Section 4.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "Logic Section 5.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "Logic Section 6.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "Logic Section 7.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "Logic Section 8.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "Logic Section 9.pdf",
+                                    "link": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "note.txt",
+                    "note": "Sheets of 2021 are the same as 2020. However, sheets of 2019 are different. Solutions for both are provided."
+                }
+            ]
+        },
+        {
+            "name": "Slides",
+            "children": [
+                {
+                    "name": "Fall 2019 - 19",
+                    "children": [
+                        {
+                            "name": "1. Intro.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "10. Sequential Circuits_2.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "11. Registers + Counters.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "2. Binary Systems_1.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "3. Binary Systems_2.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "4. Boolean Algebra_1.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "5. Boolean Algebra_2.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "6. Gate Level Minimization.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "7. Combinational Circuits_1.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "8. Combinational Circuits_2.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "9. Sequential Circuits_1.pdf",
                             "link": ""
                         }
                     ]
@@ -378,61 +863,107 @@
             ]
         },
         {
-            "name": "Summary",
+            "name": "Summaries",
             "children": [
                 {
-                    "name": "By Mariam Ahmed - 19",
-                    "children": [
-                        {
-                            "name": "on part 1.pdf",
-                            "link": ""
-                        },
-                        {
-                            "name": "on part 3.pdf",
-                            "link": ""
-                        }
-                    ]
-                },
-                {
-                    "name": "By Mustafa Elsheshtawy (rly good) - 19",
+                    "name": "Mariam Ahmed - 19",
                     "children": [
                         {
                             "name": "Part 1.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Part 2.pdf",
+                            "name": "Part 2 (after midterm).pdf",
+                            "link": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Tutorials",
+            "children": [
+                {
+                    "name": "Eng Ahmed fathy - 21",
+                    "children": [
+                        {
+                            "name": "Tutorial1.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Part 3.pdf",
+                            "name": "Tutorial10.pdf",
                             "link": ""
                         },
                         {
-                            "name": "Part 4 .pdf",
+                            "name": "Tutorial2.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Tutorial3.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Tutorial4.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Tutorial5.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Tutorial6.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Tutorial7.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Tutorial9.pdf",
                             "link": ""
                         }
                     ]
                 },
                 {
-                    "name": "part 1 modern - 20.pdf",
-                    "link": ""
-                },
-                {
-                    "name": "part 2 modern - 20.pdf",
-                    "link": ""
-                },
-                {
-                    "name": "part 3 modern - 20.pdf",
-                    "link": ""
-                },
-                {
-                    "name": "part 4 modern - 20.pdf",
-                    "link": ""
-                },
-                {
-                    "name": "Rules on Part 1-2 - 20.pdf",
-                    "link": ""
+                    "name": "Eng. Mohamed Osama - 21",
+                    "children": [
+                        {
+                            "name": "boolean_examples.pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Tutorial (1).pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Tutorial (2).pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Tutorial (4).pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Tutorial (5).pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Tutorial (6).pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Tutorial (7).pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Tutorial (8).pdf",
+                            "link": ""
+                        },
+                        {
+                            "name": "Tutorial (9).pdf",
+                            "link": ""
+                        }
+                    ]
                 }
             ]
         }
