@@ -32,6 +32,7 @@ exports.mergeDeep = (target, ...sources) => {
         if (isObject(source[key])) {
             if (!target[key]) Object.assign(target, { [key]: {} });
             mergeDeep(target[key], source[key]);
+            
         } else if (isArray(source[key])) {
             //checks if it is an Array
             if(source[key][0]['name']) {
@@ -50,7 +51,8 @@ exports.mergeDeep = (target, ...sources) => {
         } else {
             //neither an Object nor an Array. Directly overwrite it.
             
-            if(key !== 'name') Object.assign(target, { [key]: source[key] });
+            //dont copy over data from name, credits and notes.
+            if(key !== 'name' && key !== 'credits' && key !== 'note') Object.assign(target, { [key]: source[key] });
         }
       }
     }
