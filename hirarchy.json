@@ -323,9 +323,6 @@
                             "name": "Circuits_Fall_2020.pdf"
                         },
                         {
-                            "name": "fall_2020,_spring_&_summer_2021_solution.pdf"
-                        },
-                        {
                             "name": "Fall_2021_credit.pdf"
                         },
                         {
@@ -343,19 +340,30 @@
                             "note": "NOTICE: Some exams are from the Mechanical department, and some have the code EPM113."
                         },
                         {
-                            "name": "Solutions_2012_to_2019_-_Yasmeen_Abdelrazek.pdf"
+                            "name": "Solutions",
+                            "children": [
+                                {
+                                    "name": "fall_2020,_spring_&_summer_2021_solution.pdf"
+                                },
+                                {
+                                    "name": "Solutions_2012_to_2019_-_Yasmeen_Abdelrazek.pdf"
+                                },
+                                {
+                                    "name": "spring_2021_student_sol.pdf"
+                                },
+                                {
+                                    "name": "Summer_2021_Q1_solved.pdf"
+                                }
+                            ]
                         },
                         {
-                            "name": "spring_2020.pdf"
-                        },
-                        {
-                            "name": "spring_2021_student_sol.pdf"
+                            "name": "Spring_2020.pdf"
                         },
                         {
                             "name": "Spring_2021.pdf"
                         },
                         {
-                            "name": "summer_2021.pdf"
+                            "name": "Summer_2021.pdf"
                         }
                     ]
                 },

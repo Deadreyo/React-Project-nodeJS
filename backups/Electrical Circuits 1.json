@@ -341,10 +341,6 @@
                             "link": "https://drive.google.com/file/d/1S6BEFObYGbp_t-j-3lBCgRSXifjjim9d/view?usp=sharing"
                         },
                         {
-                            "name": "fall 2020, spring & summer 2021 solution.pdf",
-                            "link": "https://drive.google.com/file/d/1HC4BmePqCEZtwkbnjeqBtGVwml2N_Oga/view?usp=sharing"
-                        },
-                        {
                             "name": "Fall 2021 credit.pdf",
                             "link": "https://drive.google.com/file/d/1bPmDg6DIOYvRcQdKJ0AIJJHcp_li2xua/view?usp=sharing"
                         },
@@ -365,23 +361,36 @@
                             "note": "NOTICE: Some exams are from the Mechanical department, and some have the code EPM113."
                         },
                         {
-                            "name": "Solutions 2012 to 2019 - Yasmeen Abdelrazek.pdf",
-                            "link": "https://drive.google.com/file/d/1B8H0OTg3l99bRKrTFYQDbk6F0-pQ1j-1/view?usp=sharing"
+                            "name": "Solutions",
+                            "children": [
+                                {
+                                    "name": "fall 2020, spring & summer 2021 solution.pdf",
+                                    "link": "https://drive.google.com/file/d/1HC4BmePqCEZtwkbnjeqBtGVwml2N_Oga/view?usp=sharing"
+                                },
+                                {
+                                    "name": "Solutions 2012 to 2019 - Yasmeen Abdelrazek.pdf",
+                                    "link": "https://drive.google.com/file/d/1B8H0OTg3l99bRKrTFYQDbk6F0-pQ1j-1/view?usp=sharing"
+                                },
+                                {
+                                    "name": "spring 2021 student sol.pdf",
+                                    "link": "https://drive.google.com/file/d/1wW8CLL2HCYZs-KFeYmLevQkawktpYmpq/view?usp=sharing"
+                                },
+                                {
+                                    "name": "Summer 2021 Q1 solved.pdf",
+                                    "link": "https://drive.google.com/file/d/14cs1X4-XpXMG_aF8XJRFBabBkpTakaBl/view?usp=sharing"
+                                }
+                            ]
                         },
                         {
-                            "name": "spring 2020.pdf",
+                            "name": "Spring 2020.pdf",
                             "link": "https://drive.google.com/file/d/1rGhbYcSCOOPPGc3F-O984Ap_UpfCfTJa/view?usp=sharing"
-                        },
-                        {
-                            "name": "spring 2021 student sol.pdf",
-                            "link": "https://drive.google.com/file/d/1wW8CLL2HCYZs-KFeYmLevQkawktpYmpq/view?usp=sharing"
                         },
                         {
                             "name": "Spring 2021.pdf",
                             "link": "https://drive.google.com/file/d/19FJEWDeKtu1N4eGah_9CjezJ0AItsXXv/view?usp=sharing"
                         },
                         {
-                            "name": "summer 2021.pdf",
+                            "name": "Summer 2021.pdf",
                             "link": "https://drive.google.com/file/d/1B5x56cO1M0-lHvfJ7F2nGmPouV77vlnA/view?usp=sharing"
                         }
                     ]

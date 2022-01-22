@@ -341,10 +341,6 @@
                             "link": ""
                         },
                         {
-                            "name": "fall 2020, spring & summer 2021 solution.pdf",
-                            "link": ""
-                        },
-                        {
                             "name": "Fall 2021 credit.pdf",
                             "link": ""
                         },
@@ -365,15 +361,28 @@
                             "note": "NOTICE: Some exams are from the Mechanical department, and some have the code EPM113."
                         },
                         {
-                            "name": "Solutions 2012 to 2019 - Yasmeen Abdelrazek.pdf",
-                            "link": ""
+                            "name": "Solutions",
+                            "children": [
+                                {
+                                    "name": "fall 2020, spring & summer 2021 solution.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "Solutions 2012 to 2019 - Yasmeen Abdelrazek.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "spring 2021 student sol.pdf",
+                                    "link": ""
+                                },
+                                {
+                                    "name": "Summer 2021 Q1 solved.pdf",
+                                    "link": ""
+                                }
+                            ]
                         },
                         {
-                            "name": "spring 2020.pdf",
-                            "link": ""
-                        },
-                        {
-                            "name": "spring 2021 student sol.pdf",
+                            "name": "Spring 2020.pdf",
                             "link": ""
                         },
                         {
@@ -381,7 +390,7 @@
                             "link": ""
                         },
                         {
-                            "name": "summer 2021.pdf",
+                            "name": "Summer 2021.pdf",
                             "link": ""
                         }
                     ]
