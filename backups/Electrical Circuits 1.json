@@ -341,6 +341,14 @@
                             "link": "https://drive.google.com/file/d/1S6BEFObYGbp_t-j-3lBCgRSXifjjim9d/view?usp=sharing"
                         },
                         {
+                            "name": "fall 2020, spring & summer 2021 solution.pdf",
+                            "link": "https://drive.google.com/file/d/1HC4BmePqCEZtwkbnjeqBtGVwml2N_Oga/view?usp=sharing"
+                        },
+                        {
+                            "name": "Fall 2021 credit.pdf",
+                            "link": "https://drive.google.com/file/d/1bPmDg6DIOYvRcQdKJ0AIJJHcp_li2xua/view?usp=sharing"
+                        },
+                        {
                             "name": "Mech - Final 2018 1st Semester.pdf",
                             "link": "https://drive.google.com/file/d/1HHn4-F8taRA3n5sQ_M8D_ys7WZB0v-hn/view?usp=sharing"
                         },
@@ -350,11 +358,11 @@
                         },
                         {
                             "name": "notes1.txt",
-                            "note": "Note: Solutions are needed. If available, kindly contact me to add them."
+                            "note": "Note: Exams & solutions are needed. If available, kindly contact me to add them."
                         },
                         {
                             "name": "notes2.txt",
-                            "note": "Some exams are from the Mechanical department, and some have the code EPM113. I assume that was the former code of the course."
+                            "note": "NOTICE: Some exams are from the Mechanical department, and some have the code EPM113."
                         },
                         {
                             "name": "Solutions 2012 to 2019 - Yasmeen Abdelrazek.pdf",
@@ -363,6 +371,10 @@
                         {
                             "name": "spring 2020.pdf",
                             "link": "https://drive.google.com/file/d/1rGhbYcSCOOPPGc3F-O984Ap_UpfCfTJa/view?usp=sharing"
+                        },
+                        {
+                            "name": "spring 2021 student sol.pdf",
+                            "link": "https://drive.google.com/file/d/1wW8CLL2HCYZs-KFeYmLevQkawktpYmpq/view?usp=sharing"
                         },
                         {
                             "name": "Spring 2021.pdf",
@@ -567,7 +579,7 @@
                     "children": [
                         {
                             "name": "notes1.txt",
-                            "note": "Most or many problems in the sheets below are solved in the Tutorials pdfs. My advice is to solve through the Tutorials directly."
+                            "note": "Most of the problems are answered in the booklets inside DC Booklets folder, and in Eng Ibrahim Tutorials folder. My advice is to study directly from those booklets instead of sheets."
                         },
                         {
                             "name": "Sheet 1 kvl_kcl.pdf",
@@ -736,6 +748,7 @@
     "credits": [
         "Hazen Zeinhom - 2021",
         "Hassan Khaled - 2020",
+        "2019 Drive Owners",
         "Ahmed Atwa - collection"
     ]
 }
