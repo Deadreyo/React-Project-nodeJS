@@ -371,9 +371,6 @@
                     "name": "Midterm",
                     "children": [
                         {
-                            "name": "Exams_w_Ahmed_Mahmoud.pdf"
-                        },
-                        {
                             "name": "Midterm_+_Solutions_-_Fall_2021.pdf"
                         },
                         {
@@ -384,6 +381,9 @@
                                 },
                                 {
                                     "name": "2017-2018_solutions.pdf"
+                                },
+                                {
+                                    "name": "Solved_Exam_Questions_by_Eng_Ahmed.pdf"
                                 },
                                 {
                                     "name": "[Fall_2020_Solution].pdf"
@@ -415,6 +415,10 @@
                             "name": "[Nov.2015].pdf"
                         }
                     ]
+                },
+                {
+                    "name": "note.txt",
+                    "note": "Many Exam questions from Finals and Midterms are solved in Final & Midterm Revisions."
                 }
             ]
         },

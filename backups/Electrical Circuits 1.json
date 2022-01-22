@@ -399,10 +399,6 @@
                     "name": "Midterm",
                     "children": [
                         {
-                            "name": "Exams w Ahmed Mahmoud.pdf",
-                            "link": "https://drive.google.com/file/d/1dhu3TDQ-J8S26srC4yzebx64IrwA0c0q/view?usp=sharing"
-                        },
-                        {
                             "name": "Midterm + Solutions - Fall 2021.pdf",
                             "link": "https://drive.google.com/file/d/1AvPufTlxALX_4b6imtzwTetdbv8ni_RI/view?usp=sharing"
                         },
@@ -416,6 +412,10 @@
                                 {
                                     "name": "2017-2018 solutions.pdf",
                                     "link": "https://drive.google.com/file/d/1G35tiwMB9TYJma5AW4m-mvrPPViSXiGT/view?usp=sharing"
+                                },
+                                {
+                                    "name": "Solved Exam Questions by Eng Ahmed.pdf",
+                                    "link": "https://drive.google.com/file/d/1dhu3TDQ-J8S26srC4yzebx64IrwA0c0q/view?usp=sharing"
                                 },
                                 {
                                     "name": "[Fall 2020 Solution].pdf",
@@ -456,6 +456,10 @@
                             "link": "https://drive.google.com/file/d/1YCEUVeJsbMpUemDhI8OWIcPdKlgrYyPs/view?usp=sharing"
                         }
                     ]
+                },
+                {
+                    "name": "note.txt",
+                    "note": "Many Exam questions from Finals and Midterms are solved in Final & Midterm Revisions."
                 }
             ]
         },
