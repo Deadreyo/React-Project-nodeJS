@@ -343,6 +343,10 @@
                             "name": "Solutions",
                             "children": [
                                 {
+                                    "name": "credits.txt",
+                                    "credits": "Yousuf Khaled - Spring 2021"
+                                },
+                                {
                                     "name": "fall_2020,_spring_&_summer_2021_solution.pdf"
                                 },
                                 {
