@@ -123,28 +123,24 @@
                     "credits": "Youmna Mohamed - 1x 2021 Summary"
                 },
                 {
-                    "name": "lecture 1 - 21.pdf",
+                    "name": "Little Revision - 20.pdf",
+                    "link": "https://drive.google.com/file/d/18pyQ2Z_svQYRpAaZrEnpu4n7SSNRgru5/view?usp=sharing"
+                },
+                {
+                    "name": "MCQ lecture 1 - 21.pdf",
                     "link": "https://drive.google.com/file/d/1J1ybdB8O22ko6HxXihzbrtOXGuEp7s24/view?usp=sharing"
                 },
                 {
-                    "name": "lecture 11 - 21.pdf",
-                    "link": "https://drive.google.com/file/d/1tJ2GnyZ-sfVMNL3-Za4jlt74c4t9ke_B/view?usp=sharing"
-                },
-                {
-                    "name": "lecture 2 - 21.pdf",
-                    "link": "https://drive.google.com/file/d/1-UUiXYB4ADnEALV8Y8U7hsOk32Z4ZVnS/view?usp=sharing"
-                },
-                {
-                    "name": "lecture 4 - 21.pdf",
-                    "link": "https://drive.google.com/file/d/13prlWUoJwvuewxg82dlfjJs2xTr4Cf8r/view?usp=sharing"
-                },
-                {
-                    "name": "lecture 7 - 21.pdf",
+                    "name": "MCQ lecture 6 - 21.pdf",
                     "link": "https://drive.google.com/file/d/1OCEwDECpc0KxvdCZVRNfS9eF53ZuPIiR/view?usp=sharing"
                 },
                 {
-                    "name": "Little Revision - 20.pdf",
-                    "link": "https://drive.google.com/file/d/18pyQ2Z_svQYRpAaZrEnpu4n7SSNRgru5/view?usp=sharing"
+                    "name": "MCQ lecture 9 (main) - 21.pdf",
+                    "link": "https://drive.google.com/file/d/13prlWUoJwvuewxg82dlfjJs2xTr4Cf8r/view?usp=sharing"
+                },
+                {
+                    "name": "MCQ lecture 9 part 2 - 21.pdf",
+                    "link": "https://drive.google.com/file/d/1-UUiXYB4ADnEALV8Y8U7hsOk32Z4ZVnS/view?usp=sharing"
                 },
                 {
                     "name": "MCQs - 20.pdf",
@@ -198,6 +194,10 @@
                 {
                     "name": "note - 21.txt",
                     "note": "WARNING: Some content may have been changed or cancelled in both 2021 or 2020 items."
+                },
+                {
+                    "name": "note2 - 21.txt",
+                    "note": "File names may be different from Titles inside, like Lecture 6 may have inner title Lecture 7, but file names are more accurate/correct."
                 },
                 {
                     "name": "sample midterm 2020 - 20.pdf",

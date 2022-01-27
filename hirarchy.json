@@ -111,28 +111,24 @@
                     "credits": "Youmna Mohamed - 1x 2021 Summary"
                 },
                 {
-                    "date": "21",
-                    "name": "lecture_1.pdf"
-                },
-                {
-                    "date": "21",
-                    "name": "lecture_11.pdf"
-                },
-                {
-                    "date": "21",
-                    "name": "lecture_2.pdf"
-                },
-                {
-                    "date": "21",
-                    "name": "lecture_4.pdf"
-                },
-                {
-                    "date": "21",
-                    "name": "lecture_7.pdf"
-                },
-                {
                     "date": "20",
                     "name": "Little_Revision.pdf"
+                },
+                {
+                    "date": "21",
+                    "name": "MCQ_lecture_1.pdf"
+                },
+                {
+                    "date": "21",
+                    "name": "MCQ_lecture_6.pdf"
+                },
+                {
+                    "date": "21",
+                    "name": "MCQ_lecture_9_(main).pdf"
+                },
+                {
+                    "date": "21",
+                    "name": "MCQ_lecture_9_part_2.pdf"
                 },
                 {
                     "date": "20",
@@ -179,6 +175,11 @@
                     "date": "21",
                     "name": "note.txt",
                     "note": "WARNING: Some content may have been changed or cancelled in both 2021 or 2020 items."
+                },
+                {
+                    "date": "21",
+                    "name": "note2.txt",
+                    "note": "File names may be different from Titles inside, like Lecture 6 may have inner title Lecture 7, but file names are more accurate/correct."
                 },
                 {
                     "date": "20",
