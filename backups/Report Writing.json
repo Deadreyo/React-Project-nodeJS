@@ -97,14 +97,14 @@
         },
         {
             "name": "note.txt",
-            "note": "This is from 2021 Electrical & Civil drives, and limitied items from 2020 Architecture. Warning: The 2020 materials may be outdated."
+            "note": "This is from 2021 Electrical & Civil drives, and limitied items from 2020 Architecture. Unfortunately, the available resources are pretty limited."
         },
         {
             "name": "note2.txt",
             "note": "NOTICE: Some parts of PDFs and some content may be OUTDATED. (Changed or cancelled)"
         },
         {
-            "name": "Questions n Exams",
+            "name": "Questions Revisions n Exams",
             "children": [
                 {
                     "name": "Additional Questions on all - 21.pdf",
@@ -117,6 +117,10 @@
                 {
                     "name": "ASU112 Final Revision Solutions - 21.pdf",
                     "link": "https://drive.google.com/file/d/1VEjewf-mnJ8eUfKM6-MPNzFpPcGg49sK/view?usp=sharing"
+                },
+                {
+                    "name": "credits - 21.txt",
+                    "credits": "Youmna Mohamed - 2021 Summary"
                 },
                 {
                     "name": "lecture 1 - 21.pdf",
@@ -196,8 +200,16 @@
                     "link": "https://drive.google.com/file/d/1DwlnQGAaV-ybdSqQsEmIUqGjlEAoxtQe/view?usp=sharing"
                 },
                 {
+                    "name": "Self learn Lectures Summary - 21.pdf",
+                    "link": "https://drive.google.com/file/d/1XXyf1hiuFDP6OzRM_dpSCDUcC3cafcS0/view?usp=sharing"
+                },
+                {
                     "name": "Summary - 20.pdf",
                     "link": "https://drive.google.com/file/d/1pBarMsPGznrcsKoodbdmTHCGhNRuAep7/view?usp=sharing"
+                },
+                {
+                    "name": "Summary 2021 - 21.pdf",
+                    "link": "https://drive.google.com/file/d/1Xjp5zcLmtZAh4PMY4qvydoTNUxbLPsli/view?usp=sharing"
                 },
                 {
                     "name": "summer mid exam - 20.pdf",
