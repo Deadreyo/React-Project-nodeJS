@@ -97,14 +97,47 @@
         },
         {
             "name": "note.txt",
-            "note": "This is from 2021 Electrical & Civil drives, and limitied items from 2020 Architecture. Unfortunately, the available resources are pretty limited."
+            "note": "This is from 2021 Electrical & Civil drives, and limitied items from 2020 Architecture."
         },
         {
             "name": "note2.txt",
             "note": "NOTICE: Some parts of PDFs and some content may be OUTDATED. (Changed or cancelled)"
         },
         {
-            "name": "Questions Revisions n Exams",
+            "name": "Previous Exams",
+            "children": [
+                {
+                    "name": "Final - Fall 2017 - Credit.pdf",
+                    "link": "https://drive.google.com/file/d/1goVXSE86KcmGbzVQ2_pN7ruQeTVIoAyH/view?usp=sharing"
+                },
+                {
+                    "name": "Final - Spring 2019 - Credit.pdf",
+                    "link": "https://drive.google.com/file/d/1jPZ0kys2Dx_8FtW580db66S4o2ewAPm1/view?usp=sharing"
+                },
+                {
+                    "name": "Final - Spring 2019.pdf",
+                    "link": "https://drive.google.com/file/d/1iDgZoX7g93HIO32nkzM8j0wO3pg9LJq8/view?usp=sharing"
+                },
+                {
+                    "name": "Final - Spring 2021.pdf",
+                    "link": "https://drive.google.com/file/d/1_JX5czCwkwVi7COzFIORmC8W6v9-fW_f/view?usp=sharing"
+                },
+                {
+                    "name": "Midterm 2020.pdf",
+                    "link": "https://drive.google.com/file/d/1TBnrwqRsAYV7e1JqWYz8Om85BeR1SFdJ/view?usp=sharing"
+                },
+                {
+                    "name": "Midterm Summer 2020.pdf",
+                    "link": "https://drive.google.com/file/d/1EwTiBIMAHByf68fHRr814XAP0UvH8dtu/view?usp=sharing"
+                },
+                {
+                    "name": "notes.txt",
+                    "note": "Most of these exams aren't suitable to be studied or solved anymore. Exception: Midterm Exams"
+                }
+            ]
+        },
+        {
+            "name": "Study Materials",
             "children": [
                 {
                     "name": "252 MCQ - 20.pdf",
@@ -153,10 +186,6 @@
                 {
                     "name": "MCQs - 20.pdf",
                     "link": "https://drive.google.com/file/d/1MsZfsUKQrsIZbvEM6n1z3y-PmtBB1XaM/view?usp=sharing"
-                },
-                {
-                    "name": "Midterm 2021 - 20.pdf",
-                    "link": "https://drive.google.com/file/d/1fSp_PjuZF9S_QoFRSrx-pu6lvwaHtm9Y/view?usp=sharing"
                 },
                 {
                     "name": "Mohamed Maher - 21",
@@ -209,7 +238,7 @@
                 },
                 {
                     "name": "note2 - 21.txt",
-                    "note": "File names may be different from Titles inside, like Lecture 6 may have inner title Lecture 7, but file names are more accurate/correct."
+                    "note": "File names may be different from Titles inside, like MCQ Lecture 6 may have inner title Lecture 7, but file names are more accurate/correct."
                 },
                 {
                     "name": "sample midterm 2020 - 20.pdf",
@@ -230,10 +259,6 @@
                 {
                     "name": "Summary 2021 Another - 21.pdf",
                     "link": "https://drive.google.com/file/d/1BtgplhyRl3nGcn1DAJ_sJwKjHSW0JxIT/view?usp=sharing"
-                },
-                {
-                    "name": "summer mid exam - 20.pdf",
-                    "link": "https://drive.google.com/file/d/1MWMlG41D49_J3a4BfDQjtr74syWTR-7m/view?usp=sharing"
                 }
             ]
         }
