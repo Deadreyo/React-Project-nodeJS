@@ -1,40 +1,279 @@
 {
-    "name": "Report_Writing",
+    "name": "Modern_Physics",
     "children": [
         {
-            "name": "Lecture_Summaries",
+            "name": "Booklets",
+            "children": [
+                {
+                    "date": "19",
+                    "name": "Eng_Ahmed_Salah",
+                    "children": [
+                        {
+                            "name": "1-mass,_energy_and_momentum_(ch1-part1).pdf"
+                        },
+                        {
+                            "name": "2-photoelectric-effect-and-compton-effect.pdf"
+                        },
+                        {
+                            "name": "3-wave-particle-duality.pdf"
+                        },
+                        {
+                            "name": "4-wave-function.pdf"
+                        },
+                        {
+                            "name": "5-Shrodinger_eqn_and_quantum-mechanics.pdf"
+                        },
+                        {
+                            "name": "6-periodic-crystal-potentials.pdf"
+                        }
+                    ]
+                },
+                {
+                    "date": "20",
+                    "name": "Eng_Michael_-_Band_Theory_(Newer).pdf"
+                },
+                {
+                    "date": "19",
+                    "name": "Eng_Michael_-_Band_Theory.pdf"
+                },
+                {
+                    "date": "19",
+                    "name": "Eng_Mina_-_on_Part_1.pdf"
+                }
+            ]
+        },
+        {
+            "name": "Exams",
+            "children": [
+                {
+                    "name": "Final",
+                    "children": [
+                        {
+                            "name": "Fall_2016.pdf"
+                        },
+                        {
+                            "name": "Fall_2017.pdf"
+                        },
+                        {
+                            "name": "Fall_2018_Credit.pdf"
+                        },
+                        {
+                            "name": "Fall_2018.pdf"
+                        },
+                        {
+                            "name": "Fall_2019_Credit.pdf"
+                        },
+                        {
+                            "name": "Fall_2020_Credit.pdf"
+                        },
+                        {
+                            "name": "Final_2013.pdf"
+                        },
+                        {
+                            "name": "Final_2015.pdf"
+                        },
+                        {
+                            "name": "note.txt",
+                            "note": "No solutions were found."
+                        },
+                        {
+                            "name": "Spring_2018.pdf"
+                        },
+                        {
+                            "name": "Spring_2020.pdf"
+                        },
+                        {
+                            "name": "Summer_2018_Credit.pdf"
+                        }
+                    ]
+                },
+                {
+                    "name": "Midterm",
+                    "children": [
+                        {
+                            "name": "Fall_2017.pdf"
+                        },
+                        {
+                            "name": "Fall_2019.pdf"
+                        },
+                        {
+                            "name": "Fall_2020.pdf"
+                        },
+                        {
+                            "name": "Spring_2017.pdf"
+                        },
+                        {
+                            "name": "Summer_18_and_Spring_17.pdf"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Final_Revision",
+            "children": [
+                {
+                    "date": "21",
+                    "name": "Eng_Ahmed_Salah_Rev_notes",
+                    "children": [
+                        {
+                            "name": "credits.txt",
+                            "credits": "Sama Akram"
+                        },
+                        {
+                            "name": "part_1&2.pdf"
+                        },
+                        {
+                            "name": "part_3.pdf"
+                        },
+                        {
+                            "name": "part_4_cont.pdf"
+                        },
+                        {
+                            "name": "part_4.pdf"
+                        }
+                    ]
+                },
+                {
+                    "date": "20",
+                    "name": "Eng_Michael_Rev_1.pdf"
+                },
+                {
+                    "date": "20",
+                    "name": "Eng_Michael_Rev_2.pdf"
+                },
+                {
+                    "date": "20",
+                    "name": "Eng_Michael_Rev_3.pdf"
+                },
+                {
+                    "date": "19",
+                    "name": "Rev_1.pdf"
+                },
+                {
+                    "date": "19",
+                    "name": "Rev_2.pdf"
+                },
+                {
+                    "date": "19",
+                    "name": "Rev_3_Band_theory.pdf"
+                }
+            ]
+        },
+        {
+            "name": "Lab_Revision",
             "children": [
                 {
                     "date": "20",
-                    "name": "lecture_1.pdf"
+                    "name": "lab_revision.pdf"
+                }
+            ]
+        },
+        {
+            "name": "Lectures_Notes",
+            "children": [
+                {
+                    "date": "19",
+                    "name": "Dr.Micheal_Mounir",
+                    "children": [
+                        {
+                            "name": "Lecture_1.pdf"
+                        },
+                        {
+                            "name": "Lecture_2.pdf"
+                        },
+                        {
+                            "name": "Lecture_3.pdf"
+                        },
+                        {
+                            "name": "Lecture_4.pdf"
+                        },
+                        {
+                            "name": "Lecture_5.pdf"
+                        },
+                        {
+                            "name": "Lecture_6.pdf"
+                        },
+                        {
+                            "name": "Lecture_7.pdf"
+                        },
+                        {
+                            "name": "Lecture_8.pdf"
+                        },
+                        {
+                            "name": "Lecture_9.pdf"
+                        }
+                    ]
                 },
                 {
                     "date": "20",
-                    "name": "lecture_2.pdf"
-                },
-                {
-                    "date": "20",
-                    "name": "lecture_3.pdf"
-                },
-                {
-                    "date": "20",
-                    "name": "lecture_4.pdf"
-                },
-                {
-                    "date": "20",
-                    "name": "lecture_5.pdf"
-                },
-                {
-                    "date": "20",
-                    "name": "lecture_6.pdf"
-                },
-                {
-                    "date": "20",
-                    "name": "lecture_7.pdf"
-                },
-                {
-                    "date": "20",
-                    "name": "lecture_8.pdf"
+                    "name": "Dr.Wael_Fekry",
+                    "children": [
+                        {
+                            "date": "20",
+                            "name": "Dr._Micheal_1.pdf"
+                        },
+                        {
+                            "date": "20",
+                            "name": "Dr._Wael_10.pdf"
+                        },
+                        {
+                            "date": "20",
+                            "name": "Dr._Wael_11.pdf"
+                        },
+                        {
+                            "date": "20",
+                            "name": "Dr._Wael_12.pdf"
+                        },
+                        {
+                            "date": "20",
+                            "name": "Dr._Wael_13.pdf"
+                        },
+                        {
+                            "date": "20",
+                            "name": "Dr._Wael_14.pdf"
+                        },
+                        {
+                            "date": "20",
+                            "name": "Dr._Wael_15_pt1.pdf"
+                        },
+                        {
+                            "date": "20",
+                            "name": "Dr._Wael_2.pdf"
+                        },
+                        {
+                            "date": "20",
+                            "name": "Dr._Wael_3.pdf"
+                        },
+                        {
+                            "date": "20",
+                            "name": "Dr._Wael_4.pdf"
+                        },
+                        {
+                            "date": "20",
+                            "name": "Dr._Wael_5.pdf"
+                        },
+                        {
+                            "date": "20",
+                            "name": "Dr._Wael_6.pdf"
+                        },
+                        {
+                            "date": "20",
+                            "name": "Dr._Wael_7.pdf"
+                        },
+                        {
+                            "date": "20",
+                            "name": "Dr._Wael_8.pdf"
+                        },
+                        {
+                            "date": "20",
+                            "name": "Dr._Wael_9.pdf"
+                        },
+                        {
+                            "date": "20",
+                            "name": "Dr._Wael_on_P4.pdf"
+                        }
+                    ]
                 }
             ]
         },
@@ -42,199 +281,141 @@
             "name": "Lectures_Slides",
             "children": [
                 {
-                    "name": "1._Tech_Writ_Prin_mod._Lecture_1.PDF"
+                    "date": "21",
+                    "name": "MP_&_QM_-_Part_1.pdf"
                 },
                 {
-                    "name": "10._Lec_14_Presentation.PDF"
+                    "date": "21",
+                    "name": "MP_&_QM_-_Part_2.pdf"
                 },
                 {
-                    "name": "2._Reading_Skills.PDF"
+                    "date": "21",
+                    "name": "MP_&_QM_-_Part_3.pdf"
                 },
                 {
-                    "name": "3._Pinterest_language_class.PDF"
-                },
-                {
-                    "name": "4._Eats,_shoots,_leaves.PDF"
-                },
-                {
-                    "name": "5._Typography_and_Writing.PDF"
-                },
-                {
-                    "name": "6.1_LetMemEmail2.PDF"
-                },
-                {
-                    "name": "6.2_15_email_etiquette_rules_comp.PDF"
-                },
-                {
-                    "name": "6.3_email_etiquette-3.PDF"
-                },
-                {
-                    "name": "7.1_Spreadsheet_Graphics_mod.PDF"
-                },
-                {
-                    "name": "7.2_Spreadsheet_Graphics_Examples.PDF"
-                },
-                {
-                    "name": "8._How_to_Use_Styles_mod.PDF"
-                },
-                {
-                    "name": "9._FromalReport.pdf"
+                    "date": "21",
+                    "name": "MP_&_QM_-_Part_4.pdf"
                 }
             ]
         },
         {
-            "name": "note.txt",
-            "note": "This is from 2021 Electrical & Civil drives, and limitied items from 2020 Architecture."
-        },
-        {
-            "name": "note2.txt",
-            "note": "NOTICE: Some parts of PDFs and some content may be OUTDATED. (Changed or cancelled)"
-        },
-        {
-            "name": "Previous_Exams",
+            "name": "Midterm_Revision",
             "children": [
                 {
-                    "name": "Final_-_Fall_2017_-_Credit.pdf"
+                    "date": "20",
+                    "name": "Revision_1_Eng_Michael.pdf"
                 },
                 {
-                    "name": "Final_-_Spring_2019_-_Credit.pdf"
+                    "date": "20",
+                    "name": "Revision_2_Eng_Michael.pdf"
                 },
                 {
-                    "name": "Final_-_Spring_2019.pdf"
-                },
-                {
-                    "name": "Final_-_Spring_2021.pdf"
-                },
-                {
-                    "name": "Midterm_2020.pdf"
-                },
-                {
-                    "name": "Midterm_Summer_2020.pdf"
-                },
-                {
-                    "name": "notes.txt",
-                    "note": "Most of these exams aren't suitable to be studied or solved anymore. Exception: Midterm Exams"
+                    "date": "19",
+                    "name": "Revision_Eng_Mina.PDF"
                 }
             ]
         },
         {
-            "name": "Study_Materials",
+            "name": "Problem_Sets",
             "children": [
                 {
-                    "date": "20",
-                    "name": "252_MCQ.pdf"
-                },
-                {
-                    "date": "20",
-                    "name": "252_MCQ_Solutions.pdf"
-                },
-                {
-                    "date": "21",
-                    "name": "Additional_Questions_on_all.pdf"
-                },
-                {
-                    "date": "21",
-                    "name": "ASU112_Final_Revision.pdf"
-                },
-                {
-                    "date": "21",
-                    "name": "ASU112_Final_Revision_Solutions.pdf"
-                },
-                {
-                    "date": "21",
-                    "name": "credits.txt",
-                    "credits": "Youmna Mohamed - 1x 2021 Summary"
-                },
-                {
-                    "date": "20",
-                    "name": "Little_Revision.pdf"
-                },
-                {
-                    "date": "21",
-                    "name": "MCQ_lecture_1.pdf"
-                },
-                {
-                    "date": "21",
-                    "name": "MCQ_lecture_6.pdf"
-                },
-                {
-                    "date": "21",
-                    "name": "MCQ_lecture_9_(main).pdf"
-                },
-                {
-                    "date": "21",
-                    "name": "MCQ_lecture_9_part_2.pdf"
-                },
-                {
-                    "date": "20",
-                    "name": "MCQs.pdf"
-                },
-                {
-                    "date": "21",
-                    "name": "Mohamed_Maher",
+                    "name": "Answers",
                     "children": [
                         {
-                            "name": "Report_10.pdf"
+                            "name": "Problem_set_01_-_Model__Answer.pdf"
                         },
                         {
-                            "name": "Report_2.pdf"
+                            "name": "Problem_Set_02_-_Model_Answer.pdf"
                         },
                         {
-                            "name": "Report_3.pdf"
+                            "name": "Problem_Set_03_-_Model_Answer.pdf"
                         },
                         {
-                            "name": "Report_4.pdf"
+                            "name": "Problem_Set_04_-_Model_Answer.pdf"
                         },
                         {
-                            "name": "Report_5.pdf"
-                        },
-                        {
-                            "name": "Report_6.pdf"
-                        },
-                        {
-                            "name": "Report_7.pdf"
-                        },
-                        {
-                            "name": "Report_8.pdf"
-                        },
-                        {
-                            "name": "Report_9.pdf"
+                            "name": "Problem_Set_05_-_Model_Answer.pdf"
                         }
                     ]
                 },
                 {
-                    "date": "21",
-                    "name": "Mohamed_Maher_450_MCQ.pdf"
+                    "name": "Questions",
+                    "children": [
+                        {
+                            "name": "Problem_set_01.pdf"
+                        },
+                        {
+                            "name": "Problem_Set_02.pdf"
+                        },
+                        {
+                            "name": "Problem_Set_03.pdf"
+                        },
+                        {
+                            "name": "Problem_Set_04.pdf"
+                        },
+                        {
+                            "name": "Problem_Set_05.pdf"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Summary",
+            "children": [
+                {
+                    "date": "19",
+                    "name": "By_Mariam_Ahmed",
+                    "children": [
+                        {
+                            "name": "on_part_1.pdf"
+                        },
+                        {
+                            "name": "on_part_3.pdf"
+                        }
+                    ]
                 },
                 {
-                    "date": "21",
-                    "name": "note.txt",
-                    "note": "WARNING: Some content may have been changed or cancelled in both 2021 or 2020 items."
+                    "date": "19",
+                    "name": "By_Mustafa_Elsheshtawy",
+                    "children": [
+                        {
+                            "name": "Part_1.pdf"
+                        },
+                        {
+                            "name": "Part_2.pdf"
+                        },
+                        {
+                            "name": "Part_3.pdf"
+                        },
+                        {
+                            "name": "Part_4_.pdf"
+                        }
+                    ]
                 },
                 {
-                    "date": "21",
-                    "name": "note2.txt",
-                    "note": "File names may be different from Titles inside, like MCQ Lecture 6 may have inner title Lecture 7, but file names are more accurate/correct."
+                    "name": "notes.txt",
+                    "note": "Mustafa Elsheshtawy Summaries (2019) are great."
                 },
                 {
                     "date": "20",
-                    "name": "sample_midterm_2020.pdf"
-                },
-                {
-                    "date": "21",
-                    "name": "Self_learn_Lectures_Summary.pdf"
+                    "name": "part_1_modern.pdf"
                 },
                 {
                     "date": "20",
-                    "name": "Summary.pdf"
+                    "name": "part_2_modern.pdf"
                 },
                 {
-                    "date": "21",
-                    "name": "Summary_2021.pdf"
+                    "date": "20",
+                    "name": "part_3_modern.pdf"
                 },
                 {
-                    "date": "21",
-                    "name": "Summary_2021_Another.pdf"
+                    "date": "20",
+                    "name": "part_4_modern.pdf"
+                },
+                {
+                    "date": "20",
+                    "name": "Rules_on_Part_1-2.pdf"
                 }
             ]
         }
