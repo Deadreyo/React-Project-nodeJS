@@ -44,6 +44,7 @@ to re-write all the links. Also, LINKS-backup.json is helpful in case of any mis
 
 @Note: Any .txt files with the prefix "credits" will be removed, but will add credits to the folder it is in.
     Example: a file named "credits1.txt" will be replaced with a credit that contains the .txt file contents and displayed on the website
+    You can include more than one credit line in the same file, by putting them in different lines.
 
 @ Warning: Special characters and symbols like '&' in Folder names are NOT allowed.
 
