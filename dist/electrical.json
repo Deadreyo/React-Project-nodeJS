@@ -2,19 +2,32 @@
     "name": "electrical",
     "buttons": [
         {
-            "name": "Logic Design"
-        },
+            "name": "Sophomore Term 1",
+            "buttons": [
+                {
+                    "name": "Logic Design"
+                },
+                {
+                    "name": "Electrical Circuits 1"
+                },
+                {
+                    "name": "Probability and Statistics"
+                },
+                {
+                    "name": "Report Writing"
+                },
+                {
+                    "name": "Modern Physics"
+                }
+            ]
+        }, 
         {
-            "name": "Electrical Circuits 1"
-        },
-        {
-            "name": "Probability and Statistics"
-        },
-        {
-            "name": "Report Writing"
-        },
-        {
-            "name": "Modern Physics"
+            "name": "Sophomore Term 2",
+            "buttons": [
+                {
+                    "name": "Differential Equations"
+                }
+            ]
         }
     ]
 }
