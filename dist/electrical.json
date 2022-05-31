@@ -26,6 +26,9 @@
             "buttons": [
                 {
                     "name": "Differential Equations"
+                },
+                {
+                    "name": "Thermal Power"
                 }
             ]
         }
