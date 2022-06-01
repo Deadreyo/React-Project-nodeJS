@@ -1,29 +1,39 @@
 {
-    "name": "electrical",
+    "name": "mechanical",
     "buttons": [
         {
-            "name": "Probability and Statistics"
+            "name": "Sophomore Term 1",
+            "buttons": [
+                {
+                    "name": "Probability and Statistics"
+                },
+                {
+                    "name": "Report Writing"
+                }
+            ]
         },
         {
-            "name": "Report Writing"
-        },
-        {
-            "name": "Differential Equations"
-        },
-        {
-            "name": "Machine Construction"
-        },
-        {
-            "name": "Metallurgy"
-        },
-        {
-            "name": "Rigid Body Dynamics"
-        },
-        {
-            "name": "Thermodynamics"
-        },
-        {
-            "name": "Intro to Electronics"
+            "name": "Sophomore Term 2",
+            "buttons": [
+                {
+                    "name": "Differential Equations"
+                },
+                {
+                    "name": "Machine Construction"
+                },
+                {
+                    "name": "Metallurgy"
+                },
+                {
+                    "name": "Rigid Body Dynamics"
+                },
+                {
+                    "name": "Thermodynamics"
+                },
+                {
+                    "name": "Intro to Electronics"
+                }
+            ]
         }
     ]
 }
